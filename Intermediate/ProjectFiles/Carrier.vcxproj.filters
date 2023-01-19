@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Carrier.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Carrier.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CarrierEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Carrier">
+      <UniqueIdentifier>{9F844EB9-B830-3051-952E-32B749488B14}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Carrier\Carrier.Build.cs">
+      <Filter>Source\Carrier</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Carrier\Carrier.cpp">
+      <Filter>Source\Carrier</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Carrier\Carrier.h">
+      <Filter>Source\Carrier</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Carrier\CarrierCharacter.cpp">
+      <Filter>Source\Carrier</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Carrier\CarrierCharacter.h">
+      <Filter>Source\Carrier</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Carrier\CarrierGameMode.cpp">
+      <Filter>Source\Carrier</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Carrier\CarrierGameMode.h">
+      <Filter>Source\Carrier</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
