@@ -1,0 +1,1410 @@
+Not using cached read wrapper
+Stats thread started at 1.311233
+ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-97C5FF7642311F94E1F05BBCB928420D
+         Session CrashGUID >====================================================
+Loading VulkanPC ini files took 0.03 seconds
+Loading LinuxArm64 ini files took 0.08 seconds
+Loading Mac ini files took 0.09 seconds
+Loading IOS ini files took 0.11 seconds
+Loading HoloLens ini files took 0.04 seconds
+Loading Android ini files took 0.10 seconds
+Loading TVOS ini files took 0.11 seconds
+Loading Windows ini files took 0.04 seconds
+Loading Linux ini files took 0.08 seconds
+Loading Unix ini files took 0.05 seconds
+Mounting Engine plugin Bridge
+Mounting Engine plugin FastBuildController
+Mounting Engine plugin MeshPainting
+Mounting Engine plugin XGEController
+Mounting Engine plugin Paper2D
+Mounting Engine plugin AISupport
+Mounting Engine plugin EnvironmentQueryEditor
+Mounting Engine plugin ControlRigSpline
+Mounting Engine plugin BlendSpaceMotionAnalysis
+Mounting Engine plugin ControlRig
+Mounting Engine plugin IKRig
+Mounting Engine plugin CameraShakePreviewer
+Mounting Engine plugin GameplayCameras
+Mounting Engine plugin AnimationModifierLibrary
+Mounting Engine plugin AnimationSharing
+Mounting Engine plugin OodleNetwork
+Mounting Engine plugin CLionSourceCodeAccess
+Mounting Engine plugin AssetManagerEditor
+Mounting Engine plugin CodeLiteSourceCodeAccess
+Mounting Engine plugin GitSourceControl
+Mounting Engine plugin NullSourceCodeAccess
+Mounting Engine plugin KDevelopSourceCodeAccess
+Mounting Engine plugin BlueprintMaterialTextureNodes
+Mounting Engine plugin PerforceSourceControl
+Mounting Engine plugin PixWinPlugin
+Mounting Engine plugin PlasticSourceControl
+Mounting Engine plugin PluginUtils
+Mounting Engine plugin PropertyAccessNode
+Mounting Engine plugin RiderSourceCodeAccess
+Mounting Engine plugin SubversionSourceControl
+Mounting Engine plugin TextureFormatOodle
+Mounting Engine plugin CryptoKeys
+Mounting Engine plugin TraceDataFilters
+Mounting Engine plugin UObjectPlugin
+Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+Mounting Engine plugin VisualStudioSourceCodeAccess
+Mounting Engine plugin XCodeSourceCodeAccess
+Mounting Engine plugin DataValidation
+Mounting Engine plugin CurveEditorTools
+Mounting Engine plugin EditorDebugTools
+Mounting Engine plugin EditorScriptingUtilities
+Mounting Engine plugin FacialAnimation
+Mounting Engine plugin DatasmithContent
+Mounting Engine plugin GameplayTagsEditor
+Mounting Engine plugin GeometryMode
+Mounting Engine plugin MaterialAnalyzer
+Mounting Engine plugin MobileLauncherProfileWizard
+Mounting Engine plugin MacGraphicsSwitching
+Mounting Engine plugin PluginBrowser
+Mounting Engine plugin SequencerAnimTools
+Mounting Engine plugin ModelingToolsEditorMode
+Mounting Engine plugin SpeedTreeImporter
+Mounting Engine plugin StylusInput
+Mounting Engine plugin WorldPartitionHLODUtilities
+Mounting Engine plugin VariantManagerContent
+Mounting Engine plugin BackChannel
+Mounting Engine plugin AutomationUtils
+Mounting Engine plugin ChaosCloth
+Mounting Engine plugin ChaosClothEditor
+Mounting Engine plugin ChaosEditor
+Mounting Engine plugin ChaosSolverPlugin
+Mounting Engine plugin ChaosNiagara
+Mounting Engine plugin CharacterAI
+Mounting Engine plugin FullBodyIK
+Mounting Engine plugin GeometryCollectionPlugin
+Mounting Engine plugin GeometryFlow
+Mounting Engine plugin Landmass
+Mounting Engine plugin MeshLODToolset
+Mounting Engine plugin MeshModelingToolsetExp
+Mounting Engine plugin OpenImageDenoise
+Mounting Engine plugin PlanarCut
+Mounting Engine plugin ProxyLODPlugin
+Mounting Engine plugin PlatformCrypto
+Mounting Engine plugin PythonScriptPlugin
+Mounting Engine plugin SkeletalReduction
+Mounting Engine plugin MediaCompositing
+Mounting Engine plugin MediaPlayerEditor
+Mounting Engine plugin Water
+Mounting Engine plugin WebMMedia
+Mounting Engine plugin WmfMedia
+Mounting Engine plugin ActorSequence
+Mounting Engine plugin LevelSequenceEditor
+Mounting Engine plugin SequencerScripting
+Mounting Engine plugin TemplateSequence
+Mounting Engine plugin LauncherChunkInstaller
+Mounting Engine plugin ActorLayerUtilities
+Mounting Engine plugin AndroidMedia
+Mounting Engine plugin AvfMedia
+Mounting Engine plugin AndroidDeviceProfileSelector
+Mounting Engine plugin AndroidFileServer
+Mounting Engine plugin AndroidPermission
+Mounting Engine plugin AndroidMoviePlayer
+Mounting Engine plugin AppleImageUtils
+Mounting Engine plugin AppleMoviePlayer
+Mounting Engine plugin ArchVisCharacter
+Mounting Engine plugin AssetTags
+Mounting Engine plugin AudioCapture
+Mounting Engine plugin AudioSynesthesia
+Mounting Engine plugin CableComponent
+Mounting Engine plugin ChunkDownloader
+Mounting Engine plugin CustomMeshComponent
+Mounting Engine plugin GeometryProcessing
+Mounting Engine plugin GeometryCache
+Mounting Engine plugin ImgMedia
+Mounting Engine plugin GoogleCloudMessaging
+Mounting Engine plugin GooglePAD
+Mounting Engine plugin HairStrands
+Mounting Engine plugin IOSDeviceProfileSelector
+Mounting Engine plugin LinuxDeviceProfileSelector
+Mounting Engine plugin LocationServicesBPLibrary
+Mounting Engine plugin MeshModelingToolset
+Mounting Engine plugin MobilePatchingUtils
+Mounting Engine plugin ProceduralMeshComponent
+Mounting Engine plugin PropertyAccessEditor
+Mounting Engine plugin ResonanceAudio
+Mounting Engine plugin RuntimePhysXCooking
+Mounting Engine plugin SignificanceManager
+Mounting Engine plugin SoundFields
+Mounting Engine plugin Synthesis
+Mounting Engine plugin WebMMoviePlayer
+Mounting Engine plugin WindowsMoviePlayer
+Mounting Engine plugin WindowsDeviceProfileSelector
+Mounting Engine plugin Niagara
+Mounting Engine plugin AlembicImporter
+Mounting Engine plugin TcpMessaging
+Mounting Engine plugin UdpMessaging
+Mounting Engine plugin OnlineBase
+Mounting Engine plugin OnlineSubsystem
+Mounting Engine plugin OnlineSubsystemNull
+Mounting Engine plugin OnlineSubsystemUtils
+Mounting Engine plugin MatineeToLevelSequence
+Mounting Engine plugin ExampleDeviceProfileSelector
+Mounting Engine plugin ContentBrowserAssetDataSource
+Mounting Engine plugin ContentBrowserFileDataSource
+Mounting Engine plugin ContentBrowserClassDataSource
+Mounting Engine plugin InterchangeEditor
+Mounting Engine plugin Interchange
+Mounting Engine plugin OnlineSubsystemGooglePlay
+Mounting Engine plugin OnlineSubsystemIOS
+Mounting Engine plugin OnlineServices
+FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+FPackageName: Mount point added: '../../Plugins/Experimental/Landmass/Content/' mounted to '/Landmass/'
+FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+FPackageName: Mount point added: '../../Plugins/Experimental/Water/Content/' mounted to '/Water/'
+FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+Source control is disabled
+Source control is disabled
+PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+Using libcurl 7.55.1-DEV
+ - built for x86_64-pc-win32
+ - supports SSL with OpenSSL/1.1.1
+ - supports HTTP deflate (compression) using libz 1.2.8
+ - other features:
+     CURL_VERSION_SSL
+     CURL_VERSION_LIBZ
+     CURL_VERSION_IPV6
+     CURL_VERSION_ASYNCHDNS
+     CURL_VERSION_LARGEFILE
+     CURL_VERSION_IDN
+ CurlRequestOptions (configurable via config and command line):
+ - bVerifyPeer = true  - Libcurl will verify peer certificate
+ - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+ - bDontReuseConnections = false  - Libcurl will reuse connections
+ - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+ - LocalHostAddr = Default
+ - BufferSize = 65536
+WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+OSS: Created online subsystem instance for: NULL
+OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+Build: ++UE5+Release-5.0-CL-20979098
+Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+Net CL: 19505902
+OS: Windows 10 (22H2) [10.0.19045.2486] (), CPU: AMD Ryzen 9 3900X 12-Core Processor            , GPU: AMD Radeon RX 6700 XT
+Compiled (64-bit): Jul  7 2022 02:16:06
+Compiled with Visual C++: 19.29.30138.00
+Build Configuration: Development
+Branch Name: ++UE5+Release-5.0
+Command Line: 
+Base Directory: F:/EPIC GAMES/UE_5.0/Engine/Binaries/Win64/
+Allocator: Mimalloc
+Installed Engine Build: 1
+Number of dev versions registered: 34
+  Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+  Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+  Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+  Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+  Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+  Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+  Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+  Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+  Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+  Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+  Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+  Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+  Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+  Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+  Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+  Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+  Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+  Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+  Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+  FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+  FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+  Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+  Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+  Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+  Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+  Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+  Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+  Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+  UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+  UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+  UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+  UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+  Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+  UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+Object subsystem initialized
+CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+Aftermath initialized
+Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+Found D3D12 adapter 0: AMD Radeon RX 6700 XT (Max supported Feature Level 12_1, shader model 6.6)
+Adapter has 12243MB of dedicated video memory, 0MB of dedicated system memory, and 16341MB of shared system memory, 2 output[s]
+Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16341MB of shared system memory, 0 output[s]
+Chosen D3D12 Adapter Id = 0
+Selected Device Profile: [WindowsEditor]
+Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+Platform has ~ 32 GB [34269827072 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+Going up to parent DeviceProfile [Windows]
+Going up to parent DeviceProfile []
+Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+Applying CVar settings from Section [ConsoleVariables] File [Engine]
+Applying CVar settings from Section [ConsoleVariables] File [G:/UAT/Production Studios/Carrier/Github/Saved/Config/WindowsEditor/Editor.ini]
+Computer: BAT-DESKTOP
+User: user
+CPU Page size=4096, Cores=12
+High frequency timer resolution =10.000000 MHz
+Memory total: Physical=31.9GB (32GB approx)
+Platform Memory Stats for WindowsEditor
+Process Physical Memory: 287.05 MB used, 404.62 MB peak
+Process Virtual Memory: 281.29 MB used, 363.02 MB peak
+Physical Memory: 10253.80 MB used,  22428.46 MB free, 32682.25 MB total
+Virtual Memory: 19983.61 MB used,  43129.23 MB free, 63112.84 MB total
+Metadata set : extradevelopmentmemorymb="0"
+WindowsPlatformFeatures enabled
+Physics initialised using underlying interface: Chaos
+Using OS detected language (en-US).
+Using OS detected locale (en-US).
+No specific localization for 'en-US' exists, so 'en' will be used for the language.
+Setting process to per monitor DPI aware
+Available input methods:
+  - English (United States) - (Keyboard).
+  - English (United States) - Touch Input Correction (TSF IME).
+Activated input method: English (United States) - (Keyboard).
+MoveFile was unable to move 'G:/UAT/Production Studios/Carrier/Github/Saved/Engine036FFD874C203608F59DBD979C402B2D.tmp' to 'G:/UAT/Production Studios/Carrier/Github/Saved/Config/WindowsEditor/Engine.ini' (Error Code 183), retrying in .5s...
+MoveFile was unable to move 'G:/UAT/Production Studios/Carrier/Github/Saved/Engine036FFD874C203608F59DBD979C402B2D.tmp' to 'G:/UAT/Production Studios/Carrier/Github/Saved/Config/WindowsEditor/Engine.ini' (Error Code 183), retrying in .5s...
+MoveFile was unable to move 'G:/UAT/Production Studios/Carrier/Github/Saved/Engine036FFD874C203608F59DBD979C402B2D.tmp' to 'G:/UAT/Production Studios/Carrier/Github/Saved/Config/WindowsEditor/Engine.ini' (Error Code 183), retrying in .5s...
+MoveFile was unable to move 'G:/UAT/Production Studios/Carrier/Github/Saved/Engine036FFD874C203608F59DBD979C402B2D.tmp' to 'G:/UAT/Production Studios/Carrier/Github/Saved/Config/WindowsEditor/Engine.ini' (Error Code 183), retrying in .5s...
+MoveFile was unable to move 'G:/UAT/Production Studios/Carrier/Github/Saved/Engine036FFD874C203608F59DBD979C402B2D.tmp' to 'G:/UAT/Production Studios/Carrier/Github/Saved/Config/WindowsEditor/Engine.ini' (Error Code 183), retrying in .5s...
+MoveFile was unable to move 'G:/UAT/Production Studios/Carrier/Github/Saved/Engine036FFD874C203608F59DBD979C402B2D.tmp' to 'G:/UAT/Production Studios/Carrier/Github/Saved/Config/WindowsEditor/Engine.ini' (Error Code 183), retrying in .5s...
+MoveFile was unable to move 'G:/UAT/Production Studios/Carrier/Github/Saved/Engine036FFD874C203608F59DBD979C402B2D.tmp' to 'G:/UAT/Production Studios/Carrier/Github/Saved/Config/WindowsEditor/Engine.ini' (Error Code 183), retrying in .5s...
+MoveFile was unable to move 'G:/UAT/Production Studios/Carrier/Github/Saved/Engine036FFD874C203608F59DBD979C402B2D.tmp' to 'G:/UAT/Production Studios/Carrier/Github/Saved/Config/WindowsEditor/Engine.ini' (Error Code 183), retrying in .5s...
+MoveFile was unable to move 'G:/UAT/Production Studios/Carrier/Github/Saved/Engine036FFD874C203608F59DBD979C402B2D.tmp' to 'G:/UAT/Production Studios/Carrier/Github/Saved/Config/WindowsEditor/Engine.ini' (Error Code 183), retrying in .5s...
+MoveFile was unable to move 'G:/UAT/Production Studios/Carrier/Github/Saved/Engine036FFD874C203608F59DBD979C402B2D.tmp' to 'G:/UAT/Production Studios/Carrier/Github/Saved/Config/WindowsEditor/Engine.ini' (Error Code 183), retrying in .5s...
+Error moving file 'G:/UAT/Production Studios/Carrier/Github/Saved/Engine036FFD874C203608F59DBD979C402B2D.tmp' to 'G:/UAT/Production Studios/Carrier/Github/Saved/Config/WindowsEditor/Engine.ini'.
+New Slate User Created.  User Index 0, Is Virtual User: 0
+Slate User Registered.  User Index 0, Is Virtual User: 0
+InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+Emitting draw events for PIX profiling.
+ID3D12Device1 is supported.
+ID3D12Device2 is supported.
+ID3D12Device3 is supported.
+ID3D12Device4 is supported.
+ID3D12Device5 is supported.
+ID3D12Device6 is supported.
+ID3D12Device7 is supported.
+D3D12 ray tracing tier 1.0 is supported.
+D3D12 ray tracing tier 1.1 is supported.
+Mesh shader tier 1.0 is supported
+AtomicInt64OnTypedResource is supported
+AtomicInt64OnGroupShared is supported
+AtomicInt64OnDescriptorHeapResource is supported
+Shader Model 6.6 atomic64 is supported
+[GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+AMD hit token extension is supported
+    GPU DeviceId: 0x73df (for the marketing name, search the web for "GPU Device Id")
+Attached monitors:
+    resolution: 1680x1050, work area: (1920, 0) -> (3600, 1010), device: '\\.\DISPLAY1'
+    resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY2' [PRIMARY]
+Found 2 attached monitors.
+EnumDisplayDevices:
+   0. 'AMD Radeon RX 6700 XT' (P:0 D:1), name: '\\.\DISPLAY1'
+   1. 'AMD Radeon RX 6700 XT' (P:1 D:1), name: '\\.\DISPLAY2'
+   2. 'AMD Radeon RX 6700 XT' (P:0 D:0), name: '\\.\DISPLAY3'
+   3. 'AMD Radeon RX 6700 XT' (P:0 D:0), name: '\\.\DISPLAY4'
+   4. 'AMD Radeon RX 6700 XT' (P:0 D:0), name: '\\.\DISPLAY5'
+   5. 'AMD Radeon RX 6700 XT' (P:0 D:0), name: '\\.\DISPLAY6'
+   6. 'AMD Radeon RX 6700 XT' (P:0 D:0), name: '\\.\DISPLAY7'
+DebugString: FoundDriverCount:7 
+    Adapter Name: AMD Radeon RX 6700 XT
+  Driver Version: AMD Software: Adrenalin Edition 22.11.2 (internal:31.0.12029.10015, unified:31.0.12029.10015)
+     Driver Date: 11-30-2022
+Texture pool is 7229 MB (70% of 10327 MB)
+Async texture creation enabled
+RHI has support for 64 bit atomics
+Running Turnkey SDK detection: ' -ScriptsForProject="G:/UAT/Production Studios/Carrier/Github/Carrier.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="G:/UAT/Production Studios/Carrier/Github/Intermediate/TurnkeyReport_0.log" -log="G:/UAT/Production Studios/Carrier/Github/Intermediate/TurnkeyLog_0.log" -project="G:/UAT/Production Studios/Carrier/Github/Carrier.uproject"  -platform=all'
+Running Serialized UAT: [ cmd.exe /c ""F:/EPIC GAMES/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="G:/UAT/Production Studios/Carrier/Github/Carrier.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="G:/UAT/Production Studios/Carrier/Github/Intermediate/TurnkeyReport_0.log" -log="G:/UAT/Production Studios/Carrier/Github/Intermediate/TurnkeyLog_0.log" -project="G:/UAT/Production Studios/Carrier/Github/Carrier.uproject"  -platform=all" ]
+ETC2 Texture loading DLL: TextureConverter.dll
+Oodle Texture TFO init; latest sdk version = 2.9.5
+Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+Loaded TargetPlatform 'Android'
+Loaded TargetPlatform 'Android_ASTC'
+Loaded TargetPlatform 'Android_DXT'
+Loaded TargetPlatform 'Android_ETC2'
+Loaded TargetPlatform 'AndroidClient'
+Loaded TargetPlatform 'Android_ASTCClient'
+Loaded TargetPlatform 'Android_DXTClient'
+Loaded TargetPlatform 'Android_ETC2Client'
+Loaded TargetPlatform 'Android_Multi'
+Loaded TargetPlatform 'Android_MultiClient'
+Loaded TargetPlatform 'HoloLens'
+Loaded TargetPlatform 'HoloLensClient'
+Loaded TargetPlatform 'IOS'
+Loaded TargetPlatform 'IOSClient'
+Loaded TargetPlatform 'Linux'
+Loaded TargetPlatform 'LinuxEditor'
+Loaded TargetPlatform 'LinuxServer'
+Loaded TargetPlatform 'LinuxClient'
+Loaded TargetPlatform 'LinuxArm64'
+Loaded TargetPlatform 'LinuxArm64Server'
+Loaded TargetPlatform 'LinuxArm64Client'
+Loaded TargetPlatform 'TVOS'
+Loaded TargetPlatform 'TVOSClient'
+Loaded TargetPlatform 'Windows'
+Loaded TargetPlatform 'WindowsEditor'
+Loaded TargetPlatform 'WindowsServer'
+Loaded TargetPlatform 'WindowsClient'
+Building Assets For WindowsEditor
+Lib vorbis DLL was dynamically loaded.
+Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+Loaded format module AudioFormatADPCM
+  ADPCM
+  PCM
+Loaded format module AudioFormatBink
+  BINKA
+Loaded format module AudioFormatOgg
+  OGG
+Loaded format module AudioFormatOpus
+  OPUS
+Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+Loaded format module MetalShaderFormat
+  SF_METAL
+  SF_METAL_MRT
+  SF_METAL_TVOS
+  SF_METAL_MRT_TVOS
+  SF_METAL_SM5
+  SF_METAL_MACES3_1
+  SF_METAL_MRT_MAC
+Loaded format module ShaderFormatD3D
+  PCD3D_SM6
+  PCD3D_SM5
+  PCD3D_ES31
+  D3D_ES3_1_HOLOLENS
+Loaded format module ShaderFormatOpenGL
+  GLSL_150_ES31
+  GLSL_ES3_1_ANDROID
+Completed SDK detection: ExitCode = 0
+Loaded format module ShaderFormatVectorVM
+  VVM_1_0
+Loaded format module VulkanShaderFormat
+  SF_VULKAN_SM5
+  SF_VULKAN_ES31_ANDROID
+  SF_VULKAN_ES31
+  SF_VULKAN_SM5_ANDROID
+Ray tracing is disabled. Reason: r.RayTracing=0.
+Compiling shader autogen file: G:/UAT/Production Studios/Carrier/Github/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+Shader autogen file written: G:/UAT/Production Studios/Carrier/Github/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+Compiling shader autogen file: G:/UAT/Production Studios/Carrier/Github/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+Failed to rename shader autogen file: G:/UAT/Production Studios/Carrier/Github/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+Shader autogen file written: G:/UAT/Production Studios/Carrier/Github/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+FDerivedDataBackendGraph:  Pak pak cache file G:/UAT/Production Studios/Carrier/Github/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+Unable to find inner node Pak for hierarchy Hierarchy.
+FDerivedDataBackendGraph:  CompressedPak pak cache file G:/UAT/Production Studios/Carrier/Github/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node CompressedPak for hierarchy Hierarchy.
+../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+Speed tests for C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.09 seconds
+Performance to C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.16ms. RandomReadSpeed=19.00MBs, RandomWriteSpeed=23.16MBs. Assigned SpeedClass 'Local'
+Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+Shared data cache path not found in *engine.ini, will not use an Shared cache.
+Unable to find inner node Shared for hierarchy Hierarchy.
+VirtualizationSystem name found in ini file: None
+FNullVirtualizationSystem mounted, virtualization will be disabled
+Guid format shader working directory is 5 characters bigger than the processId version (G:/UAT/Production Studios/Carrier/Github/Intermediate/Shaders/WorkingDirectory/8828/).
+Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/260906684E08E298E96151BC941BC6BE/'.
+Cannot use XGE Controller as Incredibuild is not installed on this machine.
+Using Local Shader Compiler with 12 workers.
+Using FreeType 2.10.0
+SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+FAssetRegistry took 0.1613 seconds to start up
+EditorDomain is Disabled
+FShaderCompileThreadRunnable::WriteNewTasks() took too long (0.849 seconds, threshold is 0.300 s), will parallelize next time.
+UsePackageTrailer: 'false'
+Texture Encode Speed: FinalIfAvailable (editor).
+Selected Device Profile: [WindowsEditor]
+Active device profile: [000005D87B591DC0][000005D86FFF5000 50] WindowsEditor
+Profiles: [000005D87B591880][000005D86FFF7800 50] Windows, [000005D87B591DC0][000005D86FFF5000 50] WindowsEditor, [000005D87B592680][000005D86FFFC800 50] WindowsServer, [000005D87B590000][000005D841F25000 50] WindowsClient, [000005D87B5916C0][000005D87B570000 50] IOS, [000005D87B592840][000005D87B575000 50] iPadAir2, [000005D87B594EC0][000005D87B57A000 50] IPadPro, [000005D87B595240][000005D87B577800 50] iPadAir3, [000005D87B590540][000005D87B57C800 50] iPadAir4, [000005D87B593B80][000005D86FFFA000 50] iPadMini4, [000005D87B594600][000005D87B5D0000 50] iPadMini5, [000005D87B595780][000005D87B5D5000 50] iPadMini6, [000005D87B597C40][000005D87B5DC800 50] iPhone6S, [000005D87B597FC0][000005D87B5DA000 50] iPhone7, [000005D87B598340][000005D87B5D7800 50] iPodTouch7, [000005D87B590E00][000005D87B572800 50] iPhone6SPlus, [000005D87B5947C0][000005D87B5A0000 50] iPhone7Plus, [000005D87B590C40][000005D87B5A5000 50] iPhoneSE, [000005D87B5940C0][000005D87B5A7800 50] iPhone8, [000005D87B595940][000005D87B5AA000 50] iPhone8Plus, [000005D87B593D40][000005D87B5AC800 50] iPhoneX, [000005D87B596580][000005D87B5D2800 50] iPhoneXS, [000005D87B594280][000005D87B5F0000 50] iPhoneXSMax, [000005D87B591C00][000005D87B5F5000 50] iPhoneXR, [000005D87B591F80][000005D87B5F7800 50] iPhone11, [000005D87B593480][000005D87B5FA000 50] iPhone11Pro, [000005D87B593F00][000005D87B5FC800 50] iPhone11ProMax, [000005D87B5955C0][000005D87B5A2800 50] iPhoneSE2, [000005D87B593640][000005D87B600000 50] iPhone12Mini, [000005D87B597380][000005D87B605000 50] iPhone12, [000005D87B593800][000005D87B607800 50] iPhone12Pro, [000005D87B592300][000005D87B60A000 50] iPhone12ProMax, [000005D87B598500][000005D87B60C800 50] iPhone13Mini, [000005D87B592140][000005D87B5F2800 50] iPhone13, [000005D87B596E40][000005D87B610000 50] iPhone13Pro, [000005D87B598C00][000005D87B615000 50] iPhone13ProMax, [000005D87B590380][000005D87B617800 50] iPadPro105, [000005D87B596040][000005D87B61A000 50] iPadPro129, [000005D87B5986C0][000005D87B61C800 50] iPadPro97, [000005D87B597A80][000005D87B602800 50] iPadPro2_129, [000005D87B592A00][000005D87B620000 50] iPad5, [000005D87B5939C0][000005D87B625000 50] iPad6, [000005D87B597E00][000005D87B627800 50] iPad7, [000005D87B594440][000005D87B62A000 50] iPad8, [000005D87B595CC0][000005D87B62C800 50] iPad9, [000005D87B595B00][000005D87B612800 50] iPadPro11, [000005D87B597700][000005D87B630000 50] iPadPro2_11, [000005D87B590700][000005D87B635000 50] iPadPro3_11, [000005D87B5971C0][000005D87B637800 50] iPadPro3_129, [000005D87B596900][000005D87B63A000 50] iPadPro4_129, [000005D87B5924C0][000005D87B63C800 50] iPadPro5_129, [000005D87B5932C0][000005D87B622800 50] AppleTV, [000005D87B5908C0][000005D87B640000 50] AppleTV4K, [000005D87B591340][000005D87B645000 50] TVOS, [000005D87B59A2C0][000005D87B64A000 50] Mac, [000005D87B59A640][000005D87B647800 50] MacEditor, [000005D87B5963C0][000005D87B64C800 50] MacClient, [000005D87B59A480][000005D87B632800 50] MacServer, [000005D87B59A800][000005D87B652800 50] Linux, [000005D87B59A100][000005D87B650000 50] LinuxEditor, [000005D87B592D80][000005D87B657800 50] LinuxArm64Editor, [000005D87B598A40][000005D87B65A000 50] LinuxArm64, [000005D87B5994C0][000005D87B65C800 50] LinuxClient, [000005D87B59AB80][000005D87B642800 50] LinuxArm64Client, [000005D87B590A80][000005D87B660000 50] LinuxServer, [000005D87B5978C0][000005D87B665000 50] LinuxArm64Server, [000005D87B596200][000005D87B667800 50] Android, [000005D87B598180][000005D87B66A000 50] Android_Preview_OpenGL, [000005D87B596C80][000005D87B66C800 50] Android_Preview_Vulkan, [000005D87B599680][000005D87B655000 50] Android_Low, [000005D87B597000][000005D87B670000 50] Android_Mid, [000005D87B593100][000005D87B675000 50] Android_High, [000005D87B594B40][000005D87B677800 50] Android_Default, [000005D87B599F40][000005D87B67A000 50] Android_Adreno4xx, [000005D87B595080][000005D87B67C800 50] Android_Adreno5xx_Low, [000005D87B598DC0][000005D87B662800 50] Android_Adreno5xx, [000005D87B599D80][000005D87B680000 50] Android_Adreno6xx, [000005D87B596740][000005D87B685000 50] Android_Adreno6xx_Vulkan, [000005D87B5901C0][000005D87B687800 50] Android_Adreno7xx, [000005D87B599BC0][000005D87B68A000 50] Android_Adreno7xx_Vulkan, [000005D87B59B600][000005D87B68C800 50] Android_Mali_T6xx, [000005D87B591500][000005D87B672800 50] Android_Mali_T7xx, [000005D87B594980][000005D87B690000 50] Android_Mali_T8xx, [000005D87B592F40][000005D87B695000 50] Android_Mali_G71, [000005D87B59B7C0][000005D87B697800 50] Android_Mali_G72, [000005D87B598F80][000005D87B69A000 50] Android_Mali_G72_Vulkan, [000005D87B599A00][000005D87B69C800 50] Android_Mali_G76, [000005D87B59B0C0][000005D87B682800 50] Android_Mali_G76_Vulkan, [000005D87B599840][000005D87B6A0000 50] Android_Mali_G77, [000005D87B59C5C0][000005D87B6A5000 50] Android_Mali_G77_Vulkan, [000005D87B599300][000005D87B6A7800 50] Android_Mali_G78, [000005D87B59A9C0][000005D87B6AA000 50] Android_Mali_G78_Vulkan, [000005D87B599140][000005D87B6AC800 50] Android_Mali_G710, [000005D87B59C780][000005D87B692800 50] Android_Mali_G710_Vulkan, [000005D87B59AF00][000005D87B6B0000 50] Android_Xclipse_920, [000005D87B59B980][000005D87B6B5000 50] Android_Xclipse_920_Vulkan, [000005D87B59C080][000005D87B6B7800 50] Android_Vulkan_SM5, [000005D87B590FC0][000005D87B6BA000 50] Android_PowerVR_G6xxx, [000005D87B59D580][000005D87B6BC800 50] Android_PowerVR_GT7xxx, [000005D87B597540][000005D87B6A2800 50] Android_PowerVR_GE8xxx, [000005D87B59AD40][000005D87B6C0000 50] Android_PowerVR_GM9xxx, [000005D87B59B280][000005D87B6C5000 50] Android_PowerVR_GM9xxx_Vulkan, [000005D87B59D740][000005D87B6C7800 50] Android_TegraK1, [000005D87B59D040][000005D87B6CA000 50] Android_Unknown_Vulkan, [000005D87B595E80][000005D87B6CC800 50] Oculus_Quest, [000005D87B596AC0][000005D87B6B2800 50] Oculus_Quest2, [000005D87B59E540][000005D87B6D0000 50] HoloLens, 
+Metadata set : deviceprofile="WindowsEditor"
+Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+Turnkey Platform: Win64: (Status=Valid, Installed=10.0.16299.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+Missing cached shadermap for WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: DE336A8C24DBED7A9D5F0A16D47302EA1A15A82D), compiling. Is special engine material.
+Failed to open file for write G:/UAT/Production Studios/Carrier/Github/Intermediate/CachedAssetRegistry.bin.tmp
+Failed to open file for write G:/UAT/Production Studios/Carrier/Github/Intermediate/CachedAssetRegistry.bin.tmp
+Missing cached shadermap for DefaultDeferredDecalMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 995638F30D40A98F79617C36BB035616D07E91EC), compiling. 
+Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: D084987792414B9F991B501C10E0DFAE15CE7733), compiling. 
+104 Shader compiler errors compiling global shaders for platform PCD3D_SM5:
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FAmbientOcclusionPS/9"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FAmbientOcclusionPS, Permutation 9, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/PostProcessAmbientOcclusion.usf: 10:    #include "DeferredShadingCommon.ush"
+
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/PostProcessAmbientOcclusion.usf(): Shader FAmbientOcclusionPS, Permutation 9, VF None:
+	1 error in preprocessor.
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FCapsuleShadowingUpsamplePS/2"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FCapsuleShadowingUpsamplePS, Permutation 2, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/CapsuleShadowShaders.usf: 8:    #include "DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FDistanceFieldShadowingCS/122"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FDistanceFieldShadowingCS, Permutation 122, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/DistanceFieldShadowing.usf: 8:    #include "DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FStampDeferredDebugProbePS/2"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FStampDeferredDebugProbePS, Permutation 2, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/DebugProbes.usf: 3:    #include "DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FDeferredLightPS/817"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FDeferredLightPS, Permutation 817, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/DeferredLightPixelShaders.usf: 20:    #include "DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FScreenProbeIntegrateCS/6"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FScreenProbeIntegrateCS, Permutation 6, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Lumen/LumenScreenProbeGather.usf: 6:    #include "../DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FReflectionCompactTracesCS/16"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FReflectionCompactTracesCS, Permutation 16, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Lumen/LumenReflectionTracing.usf: 4:    #include "../DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FObjectCullPS/1"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FObjectCullPS, Permutation 1, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/DistanceFieldObjectCulling.usf: 8:    #include "DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FDistanceFieldAOUpsamplePS/1"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FDistanceFieldAOUpsamplePS, Permutation 1, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/DistanceFieldLightingPost.usf: 8:    #include "DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FSubsurfaceIndirectDispatchCS/45"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FSubsurfaceIndirectDispatchCS, Permutation 45, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Strata/Strata.ush: 9:    #include "../DeferredShadingCommon.ush"
+    from /Engine/Private/PostProcessSubsurface.usf: 14:    #include "Strata/Strata.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FClusteredShadingPS/1"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FClusteredShadingPS, Permutation 1, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/ClusteredDeferredShadingPixelShader.usf: 20:    #include "DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FShadowProjectionPS5falsetruefalse/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FShadowProjectionPS5falsetruefalse, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/ShadowProjectionPixelShader.usf: 43:    #include "DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FReflectionEnvironmentSkyLightingPS/3"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FReflectionEnvironmentSkyLightingPS, Permutation 3, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/ReflectionEnvironmentPixelShader.usf: 8:    #include "DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FVisualizeLumenSceneCS/12"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FVisualizeLumenSceneCS, Permutation 12, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Lumen/LumenVisualize.usf: 16:    #include "../DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FConvertRayAllocatorCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FConvertRayAllocatorCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/Lumen/LumenScreenProbeHardwareRayTracing.usf: 5:    #include "../SceneTextureParameters.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FHairVisibilityDepthPS/1"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FHairVisibilityDepthPS, Permutation 1, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/HairStrands/HairStrandsVisibilityDepthPS.usf: 5:    #include "../DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FAllocatePagesCS/2"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FAllocatePagesCS, Permutation 2, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/GlobalDistanceField.usf: 8:    #include "DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FScreenProbeCalculateMovingCS/2"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FScreenProbeCalculateMovingCS, Permutation 2, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Lumen/LumenScreenProbeFiltering.usf: 4:    #include "../DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FConeTraceScreenGridObjectOcclusionCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FConeTraceScreenGridObjectOcclusionCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/DistanceFieldScreenGridLighting.usf: 8:    #include "DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FVoxelPlainRaymarchingCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FVoxelPlainRaymarchingCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/HairStrands/HairCardsVoxel.usf: 5:    #include "../SceneTextureParameters.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FScreenProbeTraceVoxelsCS/60"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FScreenProbeTraceVoxelsCS, Permutation 60, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Lumen/LumenScreenProbeTracing.usf: 4:    #include "../DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FLumenDirectLightingSampleShadowMapCS/30"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FLumenDirectLightingSampleShadowMapCS, Permutation 30, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/DeferredLightingCommon.ush: 9:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/Lumen/LumenSceneDirectLightingShadowMask.usf: 18:    #include "../DeferredLightingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FVisualizeMeshDistanceFieldCS/3"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FVisualizeMeshDistanceFieldCS, Permutation 3, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/DistanceFieldVisualization.usf: 8:    #include "DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FHairPrintLODInfoCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FHairPrintLODInfoCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/HairStrands/HairStrandsDebugPrint.usf: 5:    #include "../SceneTextureParameters.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FVolumetricFogLightScatteringCS/20"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FVolumetricFogLightScatteringCS, Permutation 20, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/DeferredLightingCommon.ush: 9:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/VolumetricFog.usf: 8:    #include "DeferredLightingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FLumenVoxelTraceProbeCS/14"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FLumenVoxelTraceProbeCS, Permutation 14, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/HybridIndirectLighting.ush: 9:    #include "SceneTextureParameters.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenProbeHierarchy.ush: 52:    #include "../../HybridIndirectLighting.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenCubemapProbeHierarchy.ush: 8:    #include "LumenProbeHierarchy.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenProbeTracing.ush: 26:    #include "LumenCubemapProbeHierarchy.ush"
+    from /Engine/Private/Lumen/FinalGather/LumenProbeHierarchyTracing.usf: 13:    #include "../ProbeHierarchy/LumenProbeTracing.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FLumenHWRTCompactRaysCS/1"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FLumenHWRTCompactRaysCS, Permutation 1, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/Lumen/LumenHardwareRayTracingPipeline.usf: 5:    #include "../SceneTextureParameters.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FDeferredDecalVS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FDeferredDecalVS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/DecalCommon.ush: 22:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/DeferredDecal.usf: 7:    #include "DecalCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FLumenVisualizeCreateRaysCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FLumenVisualizeCreateRaysCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/Lumen/LumenVisualizeHardwareRayTracing.usf: 5:    #include "../SceneTextureParameters.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FSetupTraceFromProbesCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FSetupTraceFromProbesCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Lumen/LumenRadianceCache.usf: 12:    #include "../DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FComposeVolumetricRTOverScenePS/60"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FComposeVolumetricRTOverScenePS, Permutation 60, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/VolumetricRenderTarget.usf: 10:    #include "SceneTextureParameters.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FScreenProbeComputeLightingProbabilityDensityFunctionCS/4"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FScreenProbeComputeLightingProbabilityDensityFunctionCS, Permutation 4, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Lumen/LumenScreenProbeImportanceSampling.usf: 4:    #include "../DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FRenderRealTimeReflectionHeightFogPS/1"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FRenderRealTimeReflectionHeightFogPS, Permutation 1, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/ReflectionEnvironmentShaders.usf: 8:    #include "DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FMeshSDFObjectCullPS/7"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FMeshSDFObjectCullPS, Permutation 7, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/HybridIndirectLighting.ush: 9:    #include "SceneTextureParameters.ush"
+    from /Engine/Private/Lumen/LumenMeshSDFCulling.usf: 9:    #include "../HybridIndirectLighting.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FHairStrandsPlotSamplePS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FHairStrandsPlotSamplePS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/ShadingModels.ush: 5:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/HairStrands/HairStrandsBsdfPlot.usf: 5:    #include "../ShadingModels.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FVirtualVoxelInjectOpaqueCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FVirtualVoxelInjectOpaqueCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/HairStrands/HairStrandsVoxelOpaque.usf: 4:    #include "../SceneTextureParameters.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FLumenTraceProbeOcclusionCS/4"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FLumenTraceProbeOcclusionCS, Permutation 4, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/Lumen/FinalGather/LumenProbeOcclusion.ush: 10:    #include "../../SceneTextureParameters.ush"
+    from /Engine/Private/Lumen/FinalGather/LumenProbeOcclusionTracing.usf: 20:    #include "LumenProbeOcclusion.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FHairVisibilityComposeSamplePS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FHairVisibilityComposeSamplePS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/HairStrands/HairStrandsVisibilityComposeSubPixelPS.usf: 5:    #include "../DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FComposeProbeAtlasCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FComposeProbeAtlasCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/HybridIndirectLighting.ush: 9:    #include "SceneTextureParameters.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenProbeHierarchy.ush: 52:    #include "../../HybridIndirectLighting.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenCubemapProbeHierarchy.ush: 8:    #include "LumenProbeHierarchy.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenComposeProbeAtlas.usf: 6:    #include "LumenCubemapProbeHierarchy.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FWaterTileCategorisationCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FWaterTileCategorisationCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SingleLayerWaterComposite.usf: 8:    #include "DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FHairStrandsVoxelTransmittanceMaskCS/1"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FHairStrandsVoxelTransmittanceMaskCS, Permutation 1, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/HairStrands/HairStrandsDeepTransmittanceMask.usf: 4:    #include "../SceneTextureParameters.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FMaskProbesDirectionsCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FMaskProbesDirectionsCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/HybridIndirectLighting.ush: 9:    #include "SceneTextureParameters.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenProbeHierarchy.ush: 52:    #include "../../HybridIndirectLighting.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenCubemapProbeHierarchy.ush: 8:    #include "LumenProbeHierarchy.ush"
+    from /Engine/Private/Lumen/FinalGather/LumenMaskProbesDirections.usf: 6:    #include "../ProbeHierarchy/LumenCubemapProbeHierarchy.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FHZBBuildCS/42"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FHZBBuildCS, Permutation 42, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/HZB.usf: 4:    #include "SceneTextureParameters.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FExportDebugViewPS/19"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FExportDebugViewPS, Permutation 19, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Nanite/NaniteDebugViews.usf: 5:    #include "../DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FHairCoverageLUTCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FHairCoverageLUTCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/HairStrands/HairStrandsLUT.usf: 5:    #include "../SceneTextureParameters.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FInitializeLightTileIndirectArgsCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FInitializeLightTileIndirectArgsCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/DeferredLightingCommon.ush: 9:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/Lumen/LumenSceneDirectLightingCulling.usf: 9:    #include "../DeferredLightingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FEmitMaterialDepthPS/1"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FEmitMaterialDepthPS, Permutation 1, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Nanite/NaniteExportGBuffer.usf: 6:    #include "../DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FHairEnvironmentLightingPS/14"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FHairEnvironmentLightingPS, Permutation 14, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/HairStrands/HairStrandsEnvironmentLighting.usf: 45:    #include "../DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FReflectionClearTileIndirectArgsCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FReflectionClearTileIndirectArgsCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/Lumen/LumenReflections.usf: 8:    #include "../SceneTextureParameters.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FSetupSelectParentProbeCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FSetupSelectParentProbeCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/HybridIndirectLighting.ush: 9:    #include "SceneTextureParameters.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenProbeHierarchy.ush: 52:    #include "../../HybridIndirectLighting.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenCubemapProbeHierarchy.ush: 8:    #include "LumenProbeHierarchy.ush"
+    from /Engine/Private/Lumen/FinalGather/LumenProbeHierarchySelectParent.usf: 6:    #include "../ProbeHierarchy/LumenCubemapProbeHierarchy.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FVirtualShadowMapProjectionCS/29"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FVirtualShadowMapProjectionCS, Permutation 29, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/VirtualShadowMaps/VirtualShadowMapProjection.usf: 10:    #include "../DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FPropagateMipDistanceCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FPropagateMipDistanceCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/GlobalDistanceFieldMip.usf: 8:    #include "DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FProbeOcclusionTileClassificationCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FProbeOcclusionTileClassificationCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Lumen/FinalGather/LumenProbeOcclusionTileClassification.usf: 7:    #include "../../DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FDiffuseIndirectCompositePS/2"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FDiffuseIndirectCompositePS, Permutation 2, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/DiffuseIndirectComposite.usf: 57:    #include "SceneTextureParameters.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FScreenSpaceReflectionsPS/5"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FScreenSpaceReflectionsPS, Permutation 5, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/SSRT/SSRTReflections.usf: 7:    #include "../SceneTextureParameters.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FHairVisibilityGBufferWritePS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FHairVisibilityGBufferWritePS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/HairStrands/HairStrandsGBufferWrite.usf: 13:    #include "../DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FTestImagePS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FTestImagePS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/PostProcessTestImage.usf: 9:    #include "DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FBuildHierarchyInfoCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FBuildHierarchyInfoCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/HybridIndirectLighting.ush: 9:    #include "SceneTextureParameters.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenProbeHierarchy.ush: 52:    #include "../../HybridIndirectLighting.ush"
+    from /Engine/Private/Lumen/FinalGather/LumenProbeHierarchyBuildHierarchyInfo.usf: 6:    #include "../ProbeHierarchy/LumenProbeHierarchy.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FHairStrandsDeepShadowMaskPS/1"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FHairStrandsDeepShadowMaskPS, Permutation 1, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/HairStrands/HairStrandsDeepShadowMask.usf: 4:    #include "../DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FHairEnvironmentAO/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FHairEnvironmentAO, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/HairStrands/HairStrandsEnvironmentAO.usf: 5:    #include "../DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FVisualizeVolumetricLightmapVS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FVisualizeVolumetricLightmapVS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/VisualizeVolumetricLightmap.usf: 6:    #include "DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FScatterParentProbesCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FScatterParentProbesCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/HybridIndirectLighting.ush: 9:    #include "SceneTextureParameters.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenProbeHierarchy.ush: 52:    #include "../../HybridIndirectLighting.ush"
+    from /Engine/Private/Lumen/FinalGather/LumenProbeHierarchyScatterParentHierarchy.usf: 6:    #include "../ProbeHierarchy/LumenProbeHierarchy.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FSSRTPrevFrameReductionCS/2"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FSSRTPrevFrameReductionCS, Permutation 2, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/SSRT/SSRTPrevFrameReduction.usf: 6:    #include "../SceneTextureParameters.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FClassifyMaterialsCS/1"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FClassifyMaterialsCS, Permutation 1, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Nanite/NaniteMaterialCulling.usf: 5:    #include "../DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FSSDInjestCS/48"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FSSDInjestCS, Permutation 48, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/ScreenSpaceDenoise/SSDCommon.ush: 14:    #include "../SceneTextureParameters.ush"
+    from /Engine/Private/ScreenSpaceDenoise/SSDSignalFramework.ush: 21:    #include "SSDCommon.ush"
+    from /Engine/Private/ScreenSpaceDenoise/SSDInjest.usf: 34:    #include "SSDSignalFramework.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FDilateProbeResolveTilesCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FDilateProbeResolveTilesCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/HybridIndirectLighting.ush: 9:    #include "SceneTextureParameters.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenProbeHierarchy.ush: 52:    #include "../../HybridIndirectLighting.ush"
+    from /Engine/Private/Lumen/FinalGather/LumenProbeHierarchyDilateResolveTiles.usf: 14:    #include "../ProbeHierarchy/LumenProbeHierarchy.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FVisualizeHDRPS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FVisualizeHDRPS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/PostProcessVisualizeHDR.usf: 7:    #include "DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FScreenSpaceCastStandaloneRayCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FScreenSpaceCastStandaloneRayCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SSRT/SSRTDiffuseIndirect.usf: 104:    #include "../DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FSSDCompressMetadataCS/2"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FSSDCompressMetadataCS, Permutation 2, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/ScreenSpaceDenoise/SSDMetadata.ush: 7:    #include "../SceneTextureParameters.ush"
+    from /Engine/Private/ScreenSpaceDenoise/SSDCompressMetadata.usf: 3:    #include "SSDMetadata.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FAssignEmitAtomicTileOffsetCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FAssignEmitAtomicTileOffsetCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/HybridIndirectLighting.ush: 9:    #include "SceneTextureParameters.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenProbeHierarchy.ush: 52:    #include "../../HybridIndirectLighting.ush"
+    from /Engine/Private/Lumen/FinalGather/LumenProbeHierarchyAssignAtomicTileOffset.usf: 6:    #include "../ProbeHierarchy/LumenProbeHierarchy.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FPhysicsFieldRayMarchingCS/3"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FPhysicsFieldRayMarchingCS, Permutation 3, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/PhysicsFieldVisualizer.usf: 7:    #include "SceneTextureParameters.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FTraceIndirectLightingProbeHierarchyCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FTraceIndirectLightingProbeHierarchyCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/HybridIndirectLighting.ush: 9:    #include "SceneTextureParameters.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenProbeHierarchy.ush: 52:    #include "../../HybridIndirectLighting.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenCubemapProbeHierarchy.ush: 8:    #include "LumenProbeHierarchy.ush"
+    from /Engine/Private/Lumen/FinalGather/LumenSampleProbeHierarchy.usf: 8:    #include "../ProbeHierarchy/LumenCubemapProbeHierarchy.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FScreenSpaceCastProbeOcclusionCS/2"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FScreenSpaceCastProbeOcclusionCS, Permutation 2, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SSRT/SSRTTraceProbeOcclusion.usf: 24:    #include "../DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FCopyStencilToLightingChannelsPS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FCopyStencilToLightingChannelsPS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/DownsampleDepthPixelShader.usf: 8:    #include "DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FProbeOcclusionBuildTileListsCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FProbeOcclusionBuildTileListsCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/HybridIndirectLighting.ush: 9:    #include "SceneTextureParameters.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenProbeHierarchy.ush: 52:    #include "../../HybridIndirectLighting.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenCubemapProbeHierarchy.ush: 8:    #include "LumenProbeHierarchy.ush"
+    from /Engine/Private/Lumen/FinalGather/LumenProbeOcclusionBuildTileLists.usf: 8:    #include "../ProbeHierarchy/LumenCubemapProbeHierarchy.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FVoxelVirtualRaymarchingCS/1"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FVoxelVirtualRaymarchingCS, Permutation 1, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/HairStrands/HairStrandsVoxelPageRayMarching.usf: 4:    #include "../SceneTextureParameters.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FDeferredLightOverlapPS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FDeferredLightOverlapPS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/StationaryLightOverlapShaders.usf: 8:    #include "DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FSceneCapturePS/3"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FSceneCapturePS, Permutation 3, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneCapturePixelShader.usf: 11:    #include "DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FScreenSpaceBentNormalCS/1"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FScreenSpaceBentNormalCS, Permutation 1, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Lumen/LumenScreenSpaceBentNormal.usf: 4:    #include "../DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FShadingFurnaceTestPassPS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FShadingFurnaceTestPassPS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/ShadingFurnaceTest.usf: 18:    #include "DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FProbeOcclusionAssignTileOffsetsCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FProbeOcclusionAssignTileOffsetsCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/HybridIndirectLighting.ush: 9:    #include "SceneTextureParameters.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenProbeHierarchy.ush: 52:    #include "../../HybridIndirectLighting.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenCubemapProbeHierarchy.ush: 8:    #include "LumenProbeHierarchy.ush"
+    from /Engine/Private/Lumen/FinalGather/LumenProbeOcclusionAssignTileOffsets.usf: 6:    #include "../ProbeHierarchy/LumenCubemapProbeHierarchy.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FReduceProbeDepthBoundsCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FReduceProbeDepthBoundsCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/HybridIndirectLighting.ush: 9:    #include "SceneTextureParameters.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenProbeHierarchy.ush: 52:    #include "../../HybridIndirectLighting.ush"
+    from /Engine/Private/Lumen/FinalGather/LumenProbeHierarchyReduceDepthBounds.usf: 6:    #include "../ProbeHierarchy/LumenProbeHierarchy.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FHairStrandsShadowDepthInjectionPS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FHairStrandsShadowDepthInjectionPS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/HairStrands/HairStrandsVoxelDepthInjection.usf: 4:    #include "../SceneTextureParameters.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FSSDSpatialAccumulationCS/44"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FSSDSpatialAccumulationCS, Permutation 44, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/ScreenSpaceDenoise/SSDCommon.ush: 14:    #include "../SceneTextureParameters.ush"
+    from /Engine/Private/ScreenSpaceDenoise/SSDSignalFramework.ush: 21:    #include "SSDCommon.ush"
+    from /Engine/Private/ScreenSpaceDenoise/SSDSpatialAccumulation.usf: 563:    #include "SSDSignalFramework.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FInitializePhysicalPagesIndirectCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FInitializePhysicalPagesIndirectCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/VirtualShadowMaps/VirtualShadowMapPageManagement.usf: 12:    #include "../DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FIrradianceFieldGatherCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FIrradianceFieldGatherCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Lumen/LumenIrradianceFieldGather.usf: 4:    #include "../DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FSplatRadianceCacheIntoAtlasCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FSplatRadianceCacheIntoAtlasCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/Lumen/LumenRadianceCacheHardwareRayTracing.usf: 6:    #include "../SceneTextureParameters.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FAmbientCubemapCompositePS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FAmbientCubemapCompositePS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/AmbientCubemapComposite.usf: 9:    #include "DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FSSDTemporalAccumulationCS/3"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FSSDTemporalAccumulationCS, Permutation 3, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/ScreenSpaceDenoise/SSDCommon.ush: 14:    #include "../SceneTextureParameters.ush"
+    from /Engine/Private/ScreenSpaceDenoise/SSDSignalFramework.ush: 21:    #include "SSDCommon.ush"
+    from /Engine/Private/ScreenSpaceDenoise/SSDTemporalAccumulation.usf: 365:    #include "SSDSignalFramework.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FLumenReflectionHardwareRayTracingIndirectArgsCS/1"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FLumenReflectionHardwareRayTracingIndirectArgsCS, Permutation 1, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/Lumen/LumenReflectionHardwareRayTracing.usf: 5:    #include "../SceneTextureParameters.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FResolveProbeIndexesCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FResolveProbeIndexesCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/HybridIndirectLighting.ush: 9:    #include "SceneTextureParameters.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenProbeHierarchy.ush: 52:    #include "../../HybridIndirectLighting.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenCubemapProbeHierarchy.ush: 8:    #include "LumenProbeHierarchy.ush"
+    from /Engine/Private/Lumen/FinalGather/LumenResolveProbeIndex.usf: 6:    #include "../ProbeHierarchy/LumenCubemapProbeHierarchy.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/TPrefilterPlanarReflectionPS(false)/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader TPrefilterPlanarReflectionPS<false>, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/PlanarReflectionShaders.usf: 8:    #include "DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FBuildProbeArrayCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FBuildProbeArrayCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/HybridIndirectLighting.ush: 9:    #include "SceneTextureParameters.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenProbeHierarchy.ush: 52:    #include "../../HybridIndirectLighting.ush"
+    from /Engine/Private/Lumen/FinalGather/LumenProbeHierarchyBuildProbeArray.usf: 6:    #include "../ProbeHierarchy/LumenProbeHierarchy.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FScatterLeafProbesCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FScatterLeafProbesCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/HybridIndirectLighting.ush: 9:    #include "SceneTextureParameters.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenProbeHierarchy.ush: 52:    #include "../../HybridIndirectLighting.ush"
+    from /Engine/Private/Lumen/FinalGather/LumenProbeHierarchyScatterLeaves.usf: 6:    #include "../ProbeHierarchy/LumenProbeHierarchy.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FNaniteVisualizeCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FNaniteVisualizeCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Nanite/NaniteVisualize.usf: 5:    #include "../DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FLumenDirectLightingHardwareRayTracingIndirectArgsCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FLumenDirectLightingHardwareRayTracingIndirectArgsCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/Lumen/LumenSceneDirectLightingHardwareRayTracing.usf: 6:    #include "../SceneTextureParameters.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FMaterialComplexityCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FMaterialComplexityCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Nanite/NaniteMaterialComplexity.usf: 5:    #include "../DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FSetupScreenSpaceTraceProbeCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FSetupScreenSpaceTraceProbeCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/HybridIndirectLighting.ush: 9:    #include "SceneTextureParameters.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenProbeHierarchy.ush: 52:    #include "../../HybridIndirectLighting.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenCubemapProbeHierarchy.ush: 8:    #include "LumenProbeHierarchy.ush"
+    from /Engine/Private/Lumen/ProbeHierarchy/LumenProbeTracing.ush: 26:    #include "LumenCubemapProbeHierarchy.ush"
+    from /Engine/Private/SSRT/SSRTTraceProbe.usf: 18:    #include "../Lumen/ProbeHierarchy/LumenProbeTracing.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FSSRTDiffuseTileClassificationCS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FSSRTDiffuseTileClassificationCS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/SceneTextureParameters.ush: 6:    #include "DeferredShadingCommon.ush"
+    from /Engine/Private/SSRT/SSRTTileClassification.usf: 12:    #include "../SceneTextureParameters.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FDepthExportCS/1"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FDepthExportCS, Permutation 1, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/Nanite/NaniteDepthExport.usf: 5:    #include "../DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FVisualizeGBufferHintsPS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FVisualizeGBufferHintsPS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/PostProcessGBufferHints.usf: 3:    #include "DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FVisualizeShadingModelPS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FVisualizeShadingModelPS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/VisualizeShadingModels.usf: 3:    #include "DeferredShadingCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/Global/FVisualizeLocalExposurePS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FVisualizeLocalExposurePS, Permutation 0, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/PostProcessVisualizeLocalExposure.usf: 7:    #include "DeferredShadingCommon.ush"
+
+21 Shader compiler errors compiling WorldGridMaterial for platform PCD3D_SM5:
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/WorldGridMaterial/TMultipleInfluenceClothVertexFactoryDefault/TShadowDepthPSPixelShadowDepth_OnePassPointLight/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader TShadowDepthPSPixelShadowDepth_OnePassPointLight, Permutation 0, VF TMultipleInfluenceClothVertexFactoryDefault:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Generated/Material.ush: 21:    #include "/Engine/Private/DeferredShadingCommon.ush"
+    from /Engine/Private/ShadowDepthPixelShader.usf: 34:    #include "/Engine/Generated/Material.ush"
+
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/ShadowDepthPixelShader.usf(): Shader TShadowDepthPSPixelShadowDepth_OnePassPointLight, Permutation 0, VF TMultipleInfluenceClothVertexFactoryDefault:
+	1 error in preprocessor.
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/WorldGridMaterial/FParticleBeamTrailVertexFactory/TLightMapDensityPSFNoLightMapPolicy/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader TLightMapDensityPSFNoLightMapPolicy, Permutation 0, VF FParticleBeamTrailVertexFactory:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Generated/Material.ush: 21:    #include "/Engine/Private/DeferredShadingCommon.ush"
+    from /Engine/Private/LightMapDensityShader.usf: 10:    #include "/Engine/Generated/Material.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/WorldGridMaterial/FLandscapeXYOffsetVertexFactory/TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Generated/Material.ush: 21:    #include "/Engine/Private/DeferredShadingCommon.ush"
+    from /Engine/Private/BasePassPixelShader.usf: 42:    #include "/Engine/Generated/Material.ush"
+
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/BasePassPixelShader.usf(60): Shader TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Private/BasePassPixelShader.usf(60): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/BasePassPixelShader.usf(): Shader TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	2 errors in preprocessor.
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/WorldGridMaterial/Nanite==FVertexFactory/FHitProxyPS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FHitProxyPS, Permutation 0, VF Nanite::FVertexFactory:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Generated/Material.ush: 21:    #include "/Engine/Private/DeferredShadingCommon.ush"
+    from /Engine/Private/HitProxyPixelShader.usf: 11:    #include "/Engine/Generated/Material.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/WorldGridMaterial/FGeometryCacheVertexVertexFactory/TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy, Permutation 0, VF FGeometryCacheVertexVertexFactory:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Generated/Material.ush: 21:    #include "/Engine/Private/DeferredShadingCommon.ush"
+    from /Engine/Private/BasePassVertexCommon.ush: 15:    #include "/Engine/Generated/Material.ush"
+    from /Engine/Private/BasePassVertexShader.usf: 7:    #include "BasePassVertexCommon.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/WorldGridMaterial/FHWRasterizeVS/3864"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FHWRasterizeVS, Permutation 3864, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Generated/Material.ush: 21:    #include "/Engine/Private/DeferredShadingCommon.ush"
+    from /Engine/Private/Nanite/NaniteRasterizer.usf: 12:    #include "/Engine/Generated/Material.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/WorldGridMaterial/FTranslucentLightingInjectPS/7"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FTranslucentLightingInjectPS, Permutation 7, VF None:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Generated/Material.ush: 21:    #include "/Engine/Private/DeferredShadingCommon.ush"
+    from /Engine/Private/TranslucentLightInjectionShaders.usf: 11:    	#include "/Engine/Generated/Material.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/WorldGridMaterial/FParticleSpriteVertexFactory/FDebugViewModeVS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FDebugViewModeVS, Permutation 0, VF FParticleSpriteVertexFactory:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Generated/Material.ush: 21:    #include "/Engine/Private/DeferredShadingCommon.ush"
+    from /Engine/Private/DebugViewModeVertexShader.usf: 34:    #include "/Engine/Generated/Material.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/WorldGridMaterial/VelocityPipeline/FLandscapeFixedGridVertexFactory/FVelocityPS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FVelocityPS, Permutation 0, VF FLandscapeFixedGridVertexFactory:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Generated/Material.ush: 21:    #include "/Engine/Private/DeferredShadingCommon.ush"
+    from /Engine/Private/VelocityShader.usf: 8:    #include "/Engine/Generated/Material.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/WorldGridMaterial/FLandscapeVertexFactory/FLumenCardPS(false)/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FLumenCardPS<false>, Permutation 0, VF FLandscapeVertexFactory:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Generated/Material.ush: 21:    #include "/Engine/Private/DeferredShadingCommon.ush"
+    from /Engine/Private/Lumen/LumenCardPixelShader.usf: 15:    #include "/Engine/Generated/Material.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/WorldGridMaterial/FLandscapeVertexFactory/TShadowDepthVSVertexShadowDepth_VirtualShadowMap/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF FLandscapeVertexFactory:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Generated/Material.ush: 21:    #include "/Engine/Private/DeferredShadingCommon.ush"
+    from /Engine/Private/ShadowDepthVertexShader.usf: 35:    #include "/Engine/Generated/Material.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/WorldGridMaterial/TMultipleInfluenceClothVertexFactoryDefault/FLumenCardVS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FLumenCardVS, Permutation 0, VF TMultipleInfluenceClothVertexFactoryDefault:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Generated/Material.ush: 21:    #include "/Engine/Private/DeferredShadingCommon.ush"
+    from /Engine/Private/Lumen/LumenCardVertexShader.usf: 12:    #include "/Engine/Generated/Material.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/WorldGridMaterial/FLandscapeVertexFactory/FHitProxyVS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FHitProxyVS, Permutation 0, VF FLandscapeVertexFactory:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Generated/Material.ush: 21:    #include "/Engine/Private/DeferredShadingCommon.ush"
+    from /Engine/Private/HitProxyVertexShader.usf: 11:    #include "/Engine/Generated/Material.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/WorldGridMaterial/TGPUSkinAPEXClothVertexFactoryDefault/FDebugViewModePS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FDebugViewModePS, Permutation 0, VF TGPUSkinAPEXClothVertexFactoryDefault:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Generated/Material.ush: 21:    #include "/Engine/Private/DeferredShadingCommon.ush"
+    from /Engine/Private/DebugViewModePixelShader.usf: 161:    #include "/Engine/Generated/Material.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/WorldGridMaterial/DepthNoPixelPipeline/FGPUSpriteVertexFactory/TDepthOnlyVS(false)/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader TDepthOnlyVS<false>, Permutation 0, VF FGPUSpriteVertexFactory:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Generated/Material.ush: 21:    #include "/Engine/Private/DeferredShadingCommon.ush"
+    from /Engine/Private/DepthOnlyVertexShader.usf: 8:    #include "/Engine/Generated/Material.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/WorldGridMaterial/FLandscapeFixedGridVertexFactory/FLandscapeGrassWeightPS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FLandscapeGrassWeightPS, Permutation 0, VF FLandscapeFixedGridVertexFactory:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Generated/Material.ush: 21:    #include "/Engine/Private/DeferredShadingCommon.ush"
+    from /Engine/Private/LandscapeGrassWeight.usf: 4:    #include "/Engine/Generated/Material.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/WorldGridMaterial/DepthPosOnlyNoPixelPipeline/FGeometryCacheVertexVertexFactory/TDepthOnlyVS(true)/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader TDepthOnlyVS<true>, Permutation 0, VF FGeometryCacheVertexVertexFactory:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Generated/Material.ush: 21:    #include "/Engine/Private/DeferredShadingCommon.ush"
+    from /Engine/Private/PositionOnlyDepthVertexShader.usf: 8:    #include "/Engine/Generated/Material.ush"
+
+Shader debug info dumped to: "G:/UAT/Production Studios/Carrier/Github/Saved/ShaderDebugInfo/PCD3D_SM5/WorldGridMaterial/FLandscapeFixedGridVertexFactory/FLandscapePhysicalMaterialPS/0"
+F:/EPIC GAMES/UE_5.0/Engine/Shaders/Private/DeferredShadingCommon.ush(431): Shader FLandscapePhysicalMaterialPS, Permutation 0, VF FLandscapeFixedGridVertexFactory:
+	/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Generated/Material.ush: 21:    #include "/Engine/Private/DeferredShadingCommon.ush"
+    from /Engine/Private/LandscapePhysicalMaterial.usf: 8:    #include "/Engine/Generated/Material.ush"
+
+Errors compiling global shader FAmbientOcclusionPS  :
+
+/Engine/Private/DeferredShadingCommon.ush(431): error: Can't open include file "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    #include "/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush"
+    from /Engine/Private/PostProcessAmbientOcclusion.usf: 10:    #include "DeferredShadingCommon.ush"
+1 error in preprocessor.
+Windows GetLastError: The operation completed successfully. (0)
