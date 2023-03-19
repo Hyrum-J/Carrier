@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\hyrum\\onedrive\\documents\\unreal projects\\carrier\\carrier\\source\\carrier\\carrier.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\hyrum\\onedrive\\documents\\unreal projects\\carrier\\carrier\\intermediate\\build\\win64\\carrier\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\hyrum\\onedrive\\documents\\unreal projects\\carrier\\carrier\\intermediate\\build\\win64\\unrealgame\\development\\carrier\\definitions.carrier.h",
+            "c:\\users\\hyrum\\onedrive\\documents\\unreal projects\\carrier\\carrier\\source\\carrier\\carrier.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
