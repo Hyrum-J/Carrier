@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "Carrier",
-			"Path": "C:\\Users\\hyrum\\OneDrive\\Documents\\Unreal Projects\\Carrier\\Carrier\\Carrier\\Source\\Carrier.Target.cs",
+			"Path": "C:\\Users\\hyrum\\OneDrive\\Documents\\Unreal Projects\\Carrier\\Carrier\\Source\\Carrier.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "CarrierEditor",
-			"Path": "C:\\Users\\hyrum\\OneDrive\\Documents\\Unreal Projects\\Carrier\\Carrier\\Carrier\\Source\\CarrierEditor.Target.cs",
+			"Path": "C:\\Users\\hyrum\\OneDrive\\Documents\\Unreal Projects\\Carrier\\Carrier\\Source\\CarrierEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

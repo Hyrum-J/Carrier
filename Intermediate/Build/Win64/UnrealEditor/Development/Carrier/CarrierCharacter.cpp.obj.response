@@ -1,7 +1,7 @@
-"C:\Users\hyrum\OneDrive\Documents\Unreal Projects\Carrier\Carrier\Carrier\Source\Carrier\CarrierCharacter.cpp"
+"C:\Users\hyrum\OneDrive\Documents\Unreal Projects\Carrier\Carrier\Source\Carrier\CarrierCharacter.cpp"
 /I .
-/I "C:\Users\hyrum\OneDrive\Documents\Unreal Projects\Carrier\Carrier\Carrier\Intermediate\Build\Win64\UnrealEditor\Inc\Carrier"
-/I "C:\Users\hyrum\OneDrive\Documents\Unreal Projects\Carrier\Carrier\Carrier\Source"
+/I "C:\Users\hyrum\OneDrive\Documents\Unreal Projects\Carrier\Carrier\Intermediate\Build\Win64\UnrealEditor\Inc\Carrier"
+/I "C:\Users\hyrum\OneDrive\Documents\Unreal Projects\Carrier\Carrier\Source"
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -277,12 +277,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"C:\Users\hyrum\OneDrive\Documents\Unreal Projects\Carrier\Carrier\Carrier\Intermediate\Build\Win64\CarrierEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"C:\Users\hyrum\OneDrive\Documents\Unreal Projects\Carrier\Carrier\Carrier\Intermediate\Build\Win64\UnrealEditor\Development\Carrier\Definitions.Carrier.h"
-/Yu"C:\Users\hyrum\OneDrive\Documents\Unreal Projects\Carrier\Carrier\Carrier\Intermediate\Build\Win64\CarrierEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\hyrum\OneDrive\Documents\Unreal Projects\Carrier\Carrier\Carrier\Intermediate\Build\Win64\CarrierEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"C:\Users\hyrum\OneDrive\Documents\Unreal Projects\Carrier\Carrier\Carrier\Intermediate\Build\Win64\UnrealEditor\Development\Carrier\CarrierCharacter.cpp.obj"
-/sourceDependencies "C:\Users\hyrum\OneDrive\Documents\Unreal Projects\Carrier\Carrier\Carrier\Intermediate\Build\Win64\UnrealEditor\Development\Carrier\CarrierCharacter.cpp.json"
+/FI"C:\Users\hyrum\OneDrive\Documents\Unreal Projects\Carrier\Carrier\Intermediate\Build\Win64\CarrierEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\Users\hyrum\OneDrive\Documents\Unreal Projects\Carrier\Carrier\Intermediate\Build\Win64\UnrealEditor\Development\Carrier\Definitions.Carrier.h"
+/Yu"C:\Users\hyrum\OneDrive\Documents\Unreal Projects\Carrier\Carrier\Intermediate\Build\Win64\CarrierEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\hyrum\OneDrive\Documents\Unreal Projects\Carrier\Carrier\Intermediate\Build\Win64\CarrierEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\Users\hyrum\OneDrive\Documents\Unreal Projects\Carrier\Carrier\Intermediate\Build\Win64\UnrealEditor\Development\Carrier\CarrierCharacter.cpp.obj"
+/sourceDependencies "C:\Users\hyrum\OneDrive\Documents\Unreal Projects\Carrier\Carrier\Intermediate\Build\Win64\UnrealEditor\Development\Carrier\CarrierCharacter.cpp.json"
 /Zc:inline
 /nologo
 /Oi

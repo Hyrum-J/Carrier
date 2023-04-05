@@ -1,8 +1,9 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\hyrum\\OneDrive\\Documents\\Unreal Projects\\Carrier\\Carrier\\Carrier\\Source\\Carrier\\Carrier.Build.cs",
-		"C:\\Users\\hyrum\\OneDrive\\Documents\\Unreal Projects\\Carrier\\Carrier\\Carrier\\Source\\Carrier.Target.cs",
-		"C:\\Users\\hyrum\\OneDrive\\Documents\\Unreal Projects\\Carrier\\Carrier\\Carrier\\Source\\CarrierEditor.Target.cs"
+		"C:\\Users\\hyrum\\OneDrive\\Documents\\Unreal Projects\\Carrier\\Carrier\\Source\\Carrier\\Carrier.Build.cs",
+		"C:\\Users\\hyrum\\OneDrive\\Documents\\Unreal Projects\\Carrier\\Carrier\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\MultiplayerSessions.Build.cs",
+		"C:\\Users\\hyrum\\OneDrive\\Documents\\Unreal Projects\\Carrier\\Carrier\\Source\\Carrier.Target.cs",
+		"C:\\Users\\hyrum\\OneDrive\\Documents\\Unreal Projects\\Carrier\\Carrier\\Source\\CarrierEditor.Target.cs"
 	],
 	"EngineVersion": "5.0.3"
 }
