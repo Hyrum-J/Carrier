@@ -1,0 +1,1155 @@
+﻿Log file open, 04/12/23 14:56:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=15464)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Carrier
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "D:\Kylans Unreal Projects\Carrier Project\Carrier\Carrier.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.2728] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="adf4c47640fde85b79d2bdbe59578285"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.336243
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-DCD39DDD4843551915D3149828FF3DBA
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin Landmass
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Water
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Landmass/Content/' mounted to '/Landmass/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Water/Content/' mounted to '/Water/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (22H2) [10.0.19045.2728] (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1060
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.04.12-21.56.03:972][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.04.12-21.56.03:972][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.04.12-21.56.03:972][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.04.12-21.56.03:972][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.04.12-21.56.03:972][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.04.12-21.56.03:972][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.04.12-21.56.03:972][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.04.12-21.56.03:973][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.04.12-21.56.03:973][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.04.12-21.56.03:978][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.04.12-21.56.03:978][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.04.12-21.56.03:978][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.04.12-21.56.03:978][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.04.12-21.56.03:978][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.04.12-21.56.03:978][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.04.12-21.56.03:978][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.04.12-21.56.03:978][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.04.12-21.56.03:978][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.04.12-21.56.03:978][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.04.12-21.56.03:978][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.04.12-21.56.03:994][  0]LogD3D12RHI: Aftermath initialized
+[2023.04.12-21.56.03:994][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.04.12-21.56.04:148][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1060 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.04.12-21.56.04:148][  0]LogD3D12RHI: Adapter has 2987MB of dedicated video memory, 0MB of dedicated system memory, and 8169MB of shared system memory, 1 output[s]
+[2023.04.12-21.56.04:156][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.04.12-21.56.04:156][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8169MB of shared system memory, 0 output[s]
+[2023.04.12-21.56.04:156][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.04.12-21.56.04:157][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.04.12-21.56.04:157][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.04.12-21.56.04:157][  0]LogHAL: Display: Platform has ~ 16 GB [17133694976 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.04.12-21.56.04:157][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.04.12-21.56.04:157][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.04.12-21.56.04:157][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2023.04.12-21.56.04:157][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2023.04.12-21.56.04:157][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2023.04.12-21.56.04:157][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2023.04.12-21.56.04:157][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2023.04.12-21.56.04:157][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2023.04.12-21.56.04:157][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2023.04.12-21.56.04:157][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2023.04.12-21.56.04:157][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2023.04.12-21.56.04:157][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2023.04.12-21.56.04:157][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2023.04.12-21.56.04:157][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.04.12-21.56.04:158][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.04.12-21.56.04:158][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Kylans Unreal Projects/Carrier Project/Carrier/Saved/Config/WindowsEditor/Editor.ini]
+[2023.04.12-21.56.04:158][  0]LogInit: Computer: DESKTOP-F97HL31
+[2023.04.12-21.56.04:158][  0]LogInit: User: kylan
+[2023.04.12-21.56.04:158][  0]LogInit: CPU Page size=4096, Cores=4
+[2023.04.12-21.56.04:158][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.04.12-21.56.04:158][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2023.04.12-21.56.04:158][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.04.12-21.56.04:158][  0]LogMemory: Process Physical Memory: 260.85 MB used, 269.47 MB peak
+[2023.04.12-21.56.04:158][  0]LogMemory: Process Virtual Memory: 205.42 MB used, 220.34 MB peak
+[2023.04.12-21.56.04:158][  0]LogMemory: Physical Memory: 9157.14 MB used,  7182.82 MB free, 16339.96 MB total
+[2023.04.12-21.56.04:158][  0]LogMemory: Virtual Memory: 14912.29 MB used,  5874.81 MB free, 20787.10 MB total
+[2023.04.12-21.56.04:158][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.04.12-21.56.04:166][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.04.12-21.56.04:181][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.04.12-21.56.04:182][  0]LogInit: Using OS detected language (en-US).
+[2023.04.12-21.56.04:182][  0]LogInit: Using OS detected locale (en-US).
+[2023.04.12-21.56.04:185][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.04.12-21.56.04:420][  0]LogInit: Setting process to per monitor DPI aware
+[2023.04.12-21.56.04:438][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.04.12-21.56.04:438][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.04.12-21.56.04:438][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2023.04.12-21.56.04:438][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.04.12-21.56.04:461][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.04.12-21.56.04:461][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.04.12-21.56.04:739][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.04.12-21.56.04:745][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.04.12-21.56.04:745][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.04.12-21.56.04:847][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.04.12-21.56.04:847][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.04.12-21.56.04:847][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.04.12-21.56.04:847][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.04.12-21.56.04:847][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.04.12-21.56.04:847][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.04.12-21.56.04:847][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.04.12-21.56.04:847][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.04.12-21.56.04:847][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.04.12-21.56.04:847][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.04.12-21.56.04:847][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.04.12-21.56.04:847][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.04.12-21.56.04:847][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.04.12-21.56.04:920][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.04.12-21.56.04:927][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.04.12-21.56.04:941][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.04.12-21.56.05:223][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.04.12-21.56.05:223][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.04.12-21.56.05:274][  0]LogD3D12RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2023.04.12-21.56.05:274][  0]LogWindows: Attached monitors:
+[2023.04.12-21.56.05:274][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1080), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.04.12-21.56.05:274][  0]LogWindows: Found 1 attached monitors.
+[2023.04.12-21.56.05:274][  0]LogWindows: EnumDisplayDevices:
+[2023.04.12-21.56.05:274][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.04.12-21.56.05:274][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.04.12-21.56.05:275][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.04.12-21.56.05:275][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.04.12-21.56.05:275][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.04.12-21.56.05:275][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2023.04.12-21.56.05:275][  0]LogD3D12RHI:   Driver Version: 466.11 (internal:27.21.14.6611, unified:466.11)
+[2023.04.12-21.56.05:275][  0]LogD3D12RHI:      Driver Date: 4-12-2021
+[2023.04.12-21.56.05:275][  0]LogRHI: Texture pool is 1599 MB (70% of 2285 MB)
+[2023.04.12-21.56.05:275][  0]LogD3D12RHI: Async texture creation enabled
+[2023.04.12-21.56.05:275][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.04.12-21.56.05:289][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.04.12-21.56.07:852][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the NVIDIA graphics driver has known issues in D3D12.
+Please install either the latest or the recommended driver version or switch to a different rendering API.
+
+https://www.nvidia.com/en-us/geforce/drivers/
+
+NVIDIA GeForce GTX 1060
+Installed: 466.11
+Recommended: 516.25
+[2023.04.12-21.56.07:859][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/Kylans Unreal Projects/Carrier Project/Carrier/Carrier.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Kylans Unreal Projects/Carrier Project/Carrier/Intermediate/TurnkeyReport_0.log" -log="D:/Kylans Unreal Projects/Carrier Project/Carrier/Intermediate/TurnkeyLog_0.log" -project="D:/Kylans Unreal Projects/Carrier Project/Carrier/Carrier.uproject"  -platform=all'
+[2023.04.12-21.56.07:859][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Kylans Unreal Projects/Carrier Project/Carrier/Carrier.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Kylans Unreal Projects/Carrier Project/Carrier/Intermediate/TurnkeyReport_0.log" -log="D:/Kylans Unreal Projects/Carrier Project/Carrier/Intermediate/TurnkeyLog_0.log" -project="D:/Kylans Unreal Projects/Carrier Project/Carrier/Carrier.uproject"  -platform=all" ]
+[2023.04.12-21.56.07:887][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.04.12-21.56.07:896][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.04.12-21.56.07:896][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.04.12-21.56.07:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.04.12-21.56.07:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.04.12-21.56.07:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.04.12-21.56.07:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.04.12-21.56.07:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.04.12-21.56.07:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.04.12-21.56.07:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.04.12-21.56.07:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.04.12-21.56.07:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.04.12-21.56.07:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.04.12-21.56.07:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.04.12-21.56.07:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.04.12-21.56.07:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.04.12-21.56.07:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.04.12-21.56.07:945][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.04.12-21.56.07:945][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.04.12-21.56.07:945][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.04.12-21.56.07:945][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.04.12-21.56.07:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.04.12-21.56.07:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.04.12-21.56.07:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.04.12-21.56.07:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.04.12-21.56.07:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.04.12-21.56.07:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.04.12-21.56.07:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.04.12-21.56.07:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.04.12-21.56.07:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.04.12-21.56.07:957][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.04.12-21.56.07:966][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.04.12-21.56.07:969][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.04.12-21.56.07:969][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.04.12-21.56.07:969][  0]LogTargetPlatformManager:   ADPCM
+[2023.04.12-21.56.07:969][  0]LogTargetPlatformManager:   PCM
+[2023.04.12-21.56.07:972][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.04.12-21.56.07:972][  0]LogTargetPlatformManager:   BINKA
+[2023.04.12-21.56.07:972][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.04.12-21.56.07:972][  0]LogTargetPlatformManager:   OGG
+[2023.04.12-21.56.07:972][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.04.12-21.56.07:972][  0]LogTargetPlatformManager:   OPUS
+[2023.04.12-21.56.08:020][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.04.12-21.56.08:025][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.04.12-21.56.08:025][  0]LogTargetPlatformManager:   SF_METAL
+[2023.04.12-21.56.08:025][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.04.12-21.56.08:025][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.04.12-21.56.08:025][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.04.12-21.56.08:025][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.04.12-21.56.08:025][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.04.12-21.56.08:026][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.04.12-21.56.08:026][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.04.12-21.56.08:026][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.04.12-21.56.08:026][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.04.12-21.56.08:026][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.04.12-21.56.08:026][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.04.12-21.56.08:026][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.04.12-21.56.08:026][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.04.12-21.56.08:026][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.04.12-21.56.08:029][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.04.12-21.56.08:029][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.04.12-21.56.08:029][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.04.12-21.56.08:029][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.04.12-21.56.08:029][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.04.12-21.56.08:029][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.04.12-21.56.08:029][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.04.12-21.56.08:029][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.04.12-21.56.08:029][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.04.12-21.56.08:029][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.04.12-21.56.08:030][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.04.12-21.56.08:030][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.04.12-21.56.08:034][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Kylans Unreal Projects/Carrier Project/Carrier/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.04.12-21.56.08:034][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.04.12-21.56.08:034][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Kylans Unreal Projects/Carrier Project/Carrier/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.12-21.56.08:034][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.04.12-21.56.08:058][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.04.12-21.56.08:058][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.12-21.56.08:058][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.04.12-21.56.08:074][  0]LogDerivedDataCache: Speed tests for C:/Users/kylan/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2023.04.12-21.56.08:074][  0]LogDerivedDataCache: Display: Performance to C:/Users/kylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=698.12MBs, RandomWriteSpeed=65.87MBs. Assigned SpeedClass 'Local'
+[2023.04.12-21.56.08:077][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.04.12-21.56.08:077][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.04.12-21.56.08:077][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.04.12-21.56.08:128][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.04.12-21.56.08:128][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.04.12-21.56.08:128][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Intermediate/Shaders/WorkingDirectory/11932/).
+[2023.04.12-21.56.08:128][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kylan/AppData/Local/Temp/UnrealShaderWorkingDir/5208AFD24BF5CF6E7F9A0DB96C9815ED/'.
+[2023.04.12-21.56.08:129][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.04.12-21.56.08:129][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2023.04.12-21.56.10:023][  0]LogSlate: Using FreeType 2.10.0
+[2023.04.12-21.56.10:024][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.04.12-21.56.10:079][  0]LogAssetRegistry: FAssetRegistry took 0.0196 seconds to start up
+[2023.04.12-21.56.10:090][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.04.12-21.56.10:372][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.04.12-21.56.10:372][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.04.12-21.56.10:373][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.04.12-21.56.10:717][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.04.12-21.56.10:718][  0]LogDeviceProfileManager: Active device profile: [00000550EEC06C80][00000550E1F82800 50] WindowsEditor
+[2023.04.12-21.56.10:718][  0]LogDeviceProfileManager: Profiles: [00000550EEC06740][00000550CFF25000 50] Windows, [00000550EEC06C80][00000550E1F82800 50] WindowsEditor, [00000550EEC04440][00000550E1F4A000 50] WindowsServer, [00000550EEC06040][00000550EEF10000 50] WindowsClient, [00000550EEC03F00][00000550EEF15000 50] IOS, [00000550EEC05CC0][00000550EEF17800 50] iPadAir2, [00000550EEC07380][00000550EEF1C800 50] IPadPro, [00000550EEC07700][00000550EEF1A000 50] iPadAir3, [00000550EEC02F40][00000550E1492800 50] iPadAir4, [00000550EEC078C0][00000550EEF20000 50] iPadMini4, [00000550EEC05400][00000550EEF25000 50] iPadMini5, [00000550EEC055C0][00000550EEF27800 50] iPadMini6, [00000550EEC0A480][00000550EEF12800 50] iPhone6S, [00000550EEC0A800][00000550EEF2C800 50] iPhone7, [00000550EEC0AB80][00000550EEF2A000 50] iPodTouch7, [00000550EEC08340][00000550EEF30000 50] iPhone6SPlus, [00000550EEC032C0][00000550EEF35000 50] iPhone7Plus, [00000550EEC071C0][00000550EEF37800 50] iPhoneSE, [00000550EEC09300][00000550EEF3A000 50] iPhone8, [00000550EEC01F80][00000550EEF3C800 50] iPhone8Plus, [00000550EEC06AC0][00000550EEF22800 50] iPhoneX, [00000550EEC08F80][00000550EEF60000 50] iPhoneXS, [00000550EEC039C0][00000550EEF65000 50] iPhoneXSMax, [00000550EEC07000][00000550EEF67800 50] iPhoneXR, [00000550EEC02A00][00000550EEF6A000 50] iPhone11, [00000550EEC05080][00000550EEF6C800 50] iPhone11Pro, [00000550EEC0A640][00000550EEF32800 50] iPhone11ProMax, [00000550EEC040C0][00000550EEF80000 50] iPhoneSE2, [00000550EEC07E00][00000550EEF85000 50] iPhone12Mini, [00000550EEC03800][00000550EEF87800 50] iPhone12, [00000550EEC08500][00000550EEF8A000 50] iPhone12Pro, [00000550EEC05240][00000550EEF8C800 50] iPhone12ProMax, [00000550EEC08A40][00000550EEF62800 50] iPhone13Mini, [00000550EEC047C0][00000550EEF90000 50] iPhone13, [00000550EEC03100][00000550EEF95000 50] iPhone13Pro, [00000550EEC02BC0][00000550EEF97800 50] iPhone13ProMax, [00000550EEC09680][00000550EEF9A000 50] iPadPro105, [00000550EEC063C0][00000550EEF9C800 50] iPadPro129, [00000550EEC03640][00000550EEF82800 50] iPadPro97, [00000550EEC03B80][00000550EEFA0000 50] iPadPro2_129, [00000550EEC06E40][00000550EEFA5000 50] iPad5, [00000550EEC09F40][00000550EEFA7800 50] iPad6, [00000550EEC04D00][00000550EEFAA000 50] iPad7, [00000550EEC03480][00000550EEFAC800 50] iPad8, [00000550EEC02D80][00000550EEF92800 50] iPad9, [00000550EEC09840][00000550EEFB0000 50] iPadPro11, [00000550EEC04B40][00000550EEFB5000 50] iPadPro2_11, [00000550EEC04600][00000550EEFB7800 50] iPadPro3_11, [00000550EEC09BC0][00000550EEFBA000 50] iPadPro3_129, [00000550EEC07C40][00000550EEFBC800 50] iPadPro4_129, [00000550EEC04280][00000550EEFA2800 50] iPadPro5_129, [00000550EEC08C00][00000550EEFC0000 50] AppleTV, [00000550EEC08DC0][00000550EEFC5000 50] AppleTV4K, [00000550EEC05780][00000550EEFC7800 50] TVOS, [00000550EEC0C780][00000550EEFCC800 50] Mac, [00000550EEC0CB00][00000550EEFCA000 50] MacEditor, [00000550EEC05940][00000550EEFB2800 50] MacClient, [00000550EEC0C240][00000550EEFD0000 50] MacServer, [00000550EEC0CE80][00000550EEFD7800 50] Linux, [00000550EEC0D200][00000550EEFD5000 50] LinuxEditor, [00000550EEC0A100][00000550EEFDA000 50] LinuxArm64Editor, [00000550EEC03D40][00000550EEFDC800 50] LinuxArm64, [00000550EEC0AF00][00000550EEFC2800 50] LinuxClient, [00000550EEC0D3C0][00000550EEFE0000 50] LinuxArm64Client, [00000550EEC0B440][00000550EEFE5000 50] LinuxServer, [00000550EEC0B280][00000550EEFE7800 50] LinuxArm64Server, [00000550EEC0A9C0][00000550EEFEA000 50] Android, [00000550EEC05E80][00000550EEFEC800 50] Android_Preview_OpenGL, [00000550EEC09D80][00000550EEFD2800 50] Android_Preview_Vulkan, [00000550EEC0B7C0][00000550EEFF0000 50] Android_Low, [00000550EEC06580][00000550EEFF5000 50] Android_Mid, [00000550EEC0BB40][00000550EEFF7800 50] Android_High, [00000550EEC0C5C0][00000550EEFFA000 50] Android_Default, [00000550EEC07540][00000550EEFFC800 50] Android_Adreno4xx, [00000550EEC0C400][00000550EEFE2800 50] Android_Adreno5xx_Low, [00000550EEC07FC0][00000550F0010000 50] Android_Adreno5xx, [00000550EEC0D740][00000550F0015000 50] Android_Adreno6xx, [00000550EEC09A00][00000550F0017800 50] Android_Adreno6xx_Vulkan, [00000550EEC0CCC0][00000550F001A000 50] Android_Adreno7xx, [00000550EEC08880][00000550F001C800 50] Android_Adreno7xx_Vulkan, [00000550EEC0D900][00000550EEFF2800 50] Android_Mali_T6xx, [00000550EEC0B0C0][00000550F0020000 50] Android_Mali_T7xx, [00000550EEC0B980][00000550F0025000 50] Android_Mali_T8xx, [00000550EEC09140][00000550F0027800 50] Android_Mali_G71, [00000550EEC0D040][00000550F002A000 50] Android_Mali_G72, [00000550EEC0AD40][00000550F002C800 50] Android_Mali_G72_Vulkan, [00000550EEC05B00][00000550F0012800 50] Android_Mali_G76, [00000550EEC02300][00000550F0030000 50] Android_Mali_G76_Vulkan, [00000550EEC0DAC0][00000550F0035000 50] Android_Mali_G77, [00000550EEC0BEC0][00000550F0037800 50] Android_Mali_G77_Vulkan, [00000550EEC086C0][00000550F003A000 50] Android_Mali_G78, [00000550EEC0BD00][00000550F003C800 50] Android_Mali_G78_Vulkan, [00000550EEC0D580][00000550F0022800 50] Android_Mali_G710, [00000550EEC0C940][00000550F0040000 50] Android_Mali_G710_Vulkan, [00000550EEC08180][00000550F0045000 50] Android_Xclipse_920, [00000550EEC0DC80][00000550F0047800 50] Android_Xclipse_920_Vulkan, [00000550EEC0E700][00000550F004A000 50] Android_Vulkan_SM5, [00000550EEC02140][00000550F004C800 50] Android_PowerVR_G6xxx, [00000550EEC04980][00000550F0032800 50] Android_PowerVR_GT7xxx, [00000550EEC094C0][00000550F0050000 50] Android_PowerVR_GE8xxx, [00000550EEC0E540][00000550F0055000 50] Android_PowerVR_GM9xxx, [00000550EEC0F180][00000550F0057800 50] Android_PowerVR_GM9xxx_Vulkan, [00000550EEC0F340][00000550F005A000 50] Android_TegraK1, [00000550EEC0DE40][00000550F005C800 50] Android_Unknown_Vulkan, [00000550EEC0FA40][00000550F0042800 50] Oculus_Quest, [00000550F0070000][00000550F0060000 50] Oculus_Quest2, [00000550F0072300][00000550F0065000 50] HoloLens, 
+[2023.04.12-21.56.10:718][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.04.12-21.56.10:721][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.04.12-21.56.10:721][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.04.12-21.56.10:721][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.04.12-21.56.10:721][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.04.12-21.56.10:721][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.18362.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.04.12-21.56.10:778][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.04.12-21.56.11:014][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.04.12-21.56.11:014][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.04.12-21.56.11:014][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.04.12-21.56.11:014][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.04.12-21.56.11:014][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.04.12-21.56.11:034][  0]LogNetVersion: Carrier 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 470168979)
+[2023.04.12-21.56.11:202][  0]LogSlate: Border
+[2023.04.12-21.56.11:202][  0]LogSlate: BreadcrumbButton
+[2023.04.12-21.56.11:202][  0]LogSlate: Default
+[2023.04.12-21.56.11:202][  0]LogSlate: Icons.Save
+[2023.04.12-21.56.11:202][  0]LogSlate: Icons.Toolbar.Settings
+[2023.04.12-21.56.11:202][  0]LogSlate: ListView
+[2023.04.12-21.56.11:202][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.04.12-21.56.11:202][  0]LogSlate: SoftwareCursor_Grab
+[2023.04.12-21.56.11:202][  0]LogSlate: TableView.DarkRow
+[2023.04.12-21.56.11:202][  0]LogSlate: TableView.Row
+[2023.04.12-21.56.11:202][  0]LogSlate: TreeView
+[2023.04.12-21.56.11:459][  0]SourceControl: Source control is disabled
+[2023.04.12-21.56.11:503][  0]SourceControl: Source control is disabled
+[2023.04.12-21.56.11:503][  0]SourceControl: Source control is disabled
+[2023.04.12-21.56.11:715][  0]LogUObjectArray: 20823 objects as part of root set at end of initial load.
+[2023.04.12-21.56.11:715][  0]LogUObjectAllocator: 5780864 out of 0 bytes used by permanent object pool.
+[2023.04.12-21.56.11:715][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.04.12-21.56.12:241][  0]LogPython: Using Python 3.9.7
+[2023.04.12-21.56.13:353][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 706CF1D14F93FFB2E75D62AFFE333100 | Instance: 98A81EF34D5135AA0254ABA76346AD68 (DESKTOP-F97HL31-11932).
+[2023.04.12-21.56.13:412][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.04.12-21.56.13:419][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.04.12-21.56.14:744][  0]SourceControl: Source control is disabled
+[2023.04.12-21.56.14:756][  0]SourceControl: Source control is disabled
+[2023.04.12-21.56.14:787][  0]SourceControl: Source control is disabled
+[2023.04.12-21.56.14:822][  0]LogUProjectInfo: Found projects:
+[2023.04.12-21.56.14:993][  0]LogOpenImageDenoise: OIDN starting up
+[2023.04.12-21.56.15:161][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.04.12-21.56.15:228][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.12-21.56.15:228][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.12-21.56.15:518][  0]LogCollectionManager: Loaded 0 collections in 0.001327 seconds
+[2023.04.12-21.56.15:860][  0]LogFileCache: Scanning file cache for directory 'D:/Kylans Unreal Projects/Carrier Project/Carrier/Saved/Collections/' took 0.00s
+[2023.04.12-21.56.15:860][  0]LogFileCache: Scanning file cache for directory 'D:/Kylans Unreal Projects/Carrier Project/Carrier/Content/Developers/kylan/Collections/' took 0.00s
+[2023.04.12-21.56.15:860][  0]LogFileCache: Scanning file cache for directory 'D:/Kylans Unreal Projects/Carrier Project/Carrier/Content/Collections/' took 0.00s
+[2023.04.12-21.56.15:860][  0]LogEngine: Initializing Engine...
+[2023.04.12-21.56.15:880][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.04.12-21.56.15:882][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.04.12-21.56.16:311][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.04.12-21.56.16:311][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.12-21.56.16:326][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.12-21.56.16:365][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.04.12-21.56.16:366][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.04.12-21.56.16:395][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.04.12-21.56.16:397][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.04.12-21.56.16:397][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.04.12-21.56.16:398][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.04.12-21.56.16:398][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.04.12-21.56.16:398][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.12-21.56.16:398][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.12-21.56.16:398][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.12-21.56.16:398][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.12-21.56.16:398][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.12-21.56.16:398][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.12-21.56.16:398][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.12-21.56.16:398][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.12-21.56.16:399][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.12-21.56.16:399][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.12-21.56.16:399][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.12-21.56.16:408][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.12-21.56.16:461][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Cloud II Wireless)
+[2023.04.12-21.56.16:461][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.12-21.56.16:467][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.12-21.56.16:467][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.12-21.56.16:468][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.04.12-21.56.16:468][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.04.12-21.56.16:470][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.04.12-21.56.16:470][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.04.12-21.56.16:470][  0]LogInit: FAudioDevice initialized.
+[2023.04.12-21.56.16:470][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.04.12-21.56.16:470][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.04.12-21.56.16:470][  0]LogInit: Texture streaming: Enabled
+[2023.04.12-21.56.16:542][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.04.12-21.56.16:557][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.04.12-21.56.16:590][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.04.12-21.56.16:602][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.04.12-21.56.16:602][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: CarrierEditor Win64 Development
+[2023.04.12-21.56.19:157][  0]LogLiveCoding: Display: First instance in process group "UE_Carrier_0x4033faf4", spawning console
+[2023.04.12-21.56.19:157][  0]LogLiveCoding: Display: Waiting for server
+[2023.04.12-21.56.19:157][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.04.12-21.56.19:208][  0]LogInit: Transaction tracking system initialized
+[2023.04.12-21.56.19:331][  0]BlueprintLog: New page: Editor Load
+[2023.04.12-21.56.19:550][  0]LocalizationService: Localization service is disabled
+[2023.04.12-21.56.19:601][  0]TimingProfiler: Initialize
+[2023.04.12-21.56.19:601][  0]TimingProfiler: OnSessionChanged
+[2023.04.12-21.56.19:601][  0]LoadingProfiler: Initialize
+[2023.04.12-21.56.19:601][  0]LoadingProfiler: OnSessionChanged
+[2023.04.12-21.56.19:601][  0]NetworkingProfiler: Initialize
+[2023.04.12-21.56.19:601][  0]NetworkingProfiler: OnSessionChanged
+[2023.04.12-21.56.19:601][  0]MemoryProfiler: Initialize
+[2023.04.12-21.56.19:602][  0]MemoryProfiler: OnSessionChanged
+[2023.04.12-21.56.20:429][  0]LogFileCache: Scanning file cache for directory 'D:/Kylans Unreal Projects/Carrier Project/Carrier/Content/' took 0.02s
+[2023.04.12-21.56.20:429][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.04.12-21.56.20:518][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.04.12-21.56.20:520][  0]SourceControl: Source control is disabled
+[2023.04.12-21.56.20:520][  0]LogUnrealEdMisc: Loading editor; pre map load, took 18.353
+[2023.04.12-21.56.20:521][  0]Cmd: MAP LOAD FILE="../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.12-21.56.20:521][  0]LightingResults: New page: Lighting Build
+[2023.04.12-21.56.20:529][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.04.12-21.56.20:529][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.12-21.56.20:530][  0]MapCheck: New page: Map Check
+[2023.04.12-21.56.20:530][  0]LightingResults: New page: Lighting Build
+[2023.04.12-21.56.20:548][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.12-21.56.20:554][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.04.12-21.56.21:224][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.04.12-21.56.21:233][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.12-21.56.21:233][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.04.12-21.56.21:234][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.12-21.56.21:234][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.04.12-21.56.21:419][  0]LogPhysics: Warning: InReader.ConvexImplicitObjects.Num() [0], AggGeom.ConvexElems.Num() [1]
+[2023.04.12-21.56.21:799][  0]LogWorldPartition: Display: WorldPartition initialize took 564 ms
+[2023.04.12-21.56.21:869][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.12-21.56.21:888][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.04.12-21.56.21:889][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.12-21.56.21:889][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.346ms to complete.
+[2023.04.12-21.56.21:889][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 1.368
+[2023.04.12-21.56.21:904][  0]LogUnrealEdMisc: Total Editor Startup Time, took 19.736
+[2023.04.12-21.56.21:904][  0]LogShaderCompilers: Display: ================================================
+[2023.04.12-21.56.21:904][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.12-21.56.21:904][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.04.12-21.56.21:904][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.04.12-21.56.21:904][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.04.12-21.56.21:904][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.12-21.56.21:904][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.04.12-21.56.21:904][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.04.12-21.56.21:904][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.04.12-21.56.21:904][  0]LogShaderCompilers: Display: ================================================
+[2023.04.12-21.56.22:031][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-21.56.22:038][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-21.56.22:046][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-21.56.22:053][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-21.56.22:076][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.04.12-21.56.22:076][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.12-21.56.22:077][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.04.12-21.56.22:077][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.12-21.56.22:078][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.04.12-21.56.22:078][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.12-21.56.22:079][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.04.12-21.56.22:079][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.12-21.56.22:081][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.04.12-21.56.22:081][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.12-21.56.22:082][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.04.12-21.56.22:082][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.12-21.56.22:083][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.04.12-21.56.22:083][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.12-21.56.22:084][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.04.12-21.56.22:084][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.12-21.56.22:085][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.04.12-21.56.22:085][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.12-21.56.22:086][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.04.12-21.56.22:086][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.12-21.56.22:086][  0]LogFeaturePack: Error: Error in Feature pack D:/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.04.12-21.56.22:359][  0]LogSlate: Took 0.000455 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.04.12-21.56.22:362][  0]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.04.12-21.56.22:363][  0]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.04.12-21.56.22:365][  0]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.04.12-21.56.22:366][  0]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.04.12-21.56.22:395][  0]LogViewport: Scene viewport resized to 1480x877, mode Windowed.
+[2023.04.12-21.56.22:953][  0]LogStall: Startup...
+[2023.04.12-21.56.22:956][  0]LogStall: Startup complete.
+[2023.04.12-21.56.22:967][  0]LogLoad: (Engine Initialization) Total time: 20.80 seconds
+[2023.04.12-21.56.22:968][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.04.12-21.56.23:049][  0]LogAssetRegistry: Asset discovery search completed in 12.9726 seconds
+[2023.04.12-21.56.23:065][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.04.12-21.56.23:082][  0]LogContentStreaming: Texture pool size now 600 MB
+[2023.04.12-21.56.23:142][  0]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.04.12-21.56.25:741][  8]Water Texture Update Time: 0.055259 secs
+[2023.04.12-21.57.49:824][410]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.12-21.57.50:025][420]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.04.12-21.57.50:025][420]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.04.12-21.58.08:957][396]LogDerivedDataCache: C:/Users/kylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.877 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.12-21.58.13:801][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Blueprints\BoatMaster.uasset: Failed to load '/Game/Boat/Demo/ThirdPersonBP/Blueprints/ThirdPersonCharacter': Can't find file.
+[2023.04.12-21.58.13:801][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Demo/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2023.04.12-21.58.13:803][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Blueprints\SpeedAndDirection.uasset: Failed to load '/Game/Boat/Materials/powerfull': Can't find file.
+[2023.04.12-21.58.13:803][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/powerfull'
+[2023.04.12-21.58.13:803][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Blueprints\SpeedAndDirection.uasset: Failed to load '/Game/Boat/Materials/Warning': Can't find file.
+[2023.04.12-21.58.13:803][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/Warning'
+[2023.04.12-21.58.13:803][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Blueprints\SpeedAndDirection.uasset: Failed to load '/Game/Boat/Materials/CompassInst': Can't find file.
+[2023.04.12-21.58.13:803][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/CompassInst'
+[2023.04.12-21.58.13:803][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Blueprints\SpeedAndDirection.uasset: Failed to load '/Game/Boat/Textures/powerlow': Can't find file.
+[2023.04.12-21.58.13:804][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Textures/powerlow'
+[2023.04.12-21.58.13:805][639]LogClass: Warning: Type mismatch in RenderOpacity of SpeedAndDirection_C - Previous (StructProperty) Current(FloatProperty) for package:  /Game/Boat/Blueprints/SpeedAndDirection
+[2023.04.12-21.58.13:814][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Models\StaticMesh\WoodenBoat\WoodenBoatExterior.uasset: Failed to load '/Game/Boat/Materials/BoatExterior': Can't find file.
+[2023.04.12-21.58.13:814][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/BoatExterior'
+[2023.04.12-21.58.13:817][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Models\StaticMesh\WoodenBoat\WoodenBoatInterior.uasset: Failed to load '/Game/Boat/Materials/BoatInterior': Can't find file.
+[2023.04.12-21.58.13:817][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/BoatInterior'
+[2023.04.12-21.58.13:817][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Models\StaticMesh\WoodenBoat\WoodenBoatInterior.uasset: Failed to load '/Game/Boat/Materials/BoatMetalFrame': Can't find file.
+[2023.04.12-21.58.13:817][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/BoatMetalFrame'
+[2023.04.12-21.58.13:817][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Blueprints\BoatMaster.uasset: Failed to load '/Game/Boat/PhysicalMaterial/Water': Can't find file.
+[2023.04.12-21.58.13:817][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/PhysicalMaterial/Water'
+[2023.04.12-21.58.13:817][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Blueprints\BoatMaster.uasset: Failed to load '/Game/Boat/Sound/ThudSoundCue': Can't find file.
+[2023.04.12-21.58.13:817][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Sound/ThudSoundCue'
+[2023.04.12-21.58.13:875][639]LogBlueprint: Error: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Blueprints\BoatMaster.uasset: [Compiler] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2023.04.12-21.58.13:883][639]LogBlueprint: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Blueprints\BoatMaster.uasset: [Compiler] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2023.04.12-21.58.13:885][639]LogBlueprint: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Blueprints\BoatMaster.uasset: [Compiler] InputAction Event references unknown Action 'Go_up' for  InputAction Go_up
+[2023.04.12-21.58.13:885][639]LogBlueprint: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Blueprints\BoatMaster.uasset: [Compiler] InputAction Event references unknown Action 'Go_down' for  InputAction Go_down
+[2023.04.12-21.58.13:887][639]LogBlueprint: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Blueprints\BoatMaster.uasset: [Compiler] Input Axis Event references unknown Axis 'Left/Right' for  InputAxis Left/Right
+[2023.04.12-21.58.13:888][639]LogBlueprint: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Blueprints\BoatMaster.uasset: [Compiler] InputAction Event references unknown Action 'Boost' for  InputAction Boost
+[2023.04.12-21.58.13:888][639]LogBlueprint: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Blueprints\BoatMaster.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2023.04.12-21.58.13:919][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Models\SkeletalMesh\RowType1\Row.uasset: Failed to load '/Game/Boat/Materials/WoodHouse': Can't find file.
+[2023.04.12-21.58.13:919][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/WoodHouse'
+[2023.04.12-21.58.13:920][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Blueprints\WoodenBoat.uasset: Failed to load '/Game/Boat/Sound/WaterBoatCue': Can't find file.
+[2023.04.12-21.58.13:920][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Sound/WaterBoatCue'
+[2023.04.12-21.58.13:950][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Blueprints\Submarine.uasset: Failed to load '/Game/Boat/Materials/WaterSplash': Can't find file.
+[2023.04.12-21.58.13:950][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/WaterSplash'
+[2023.04.12-21.58.13:951][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Models\StaticMesh\Submarine\SubmarineBody.uasset: Failed to load '/Game/Boat/Materials/Submarine003': Can't find file.
+[2023.04.12-21.58.13:951][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/Submarine003'
+[2023.04.12-21.58.13:952][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Models\StaticMesh\Submarine\SubmarineFins.uasset: Failed to load '/Game/Boat/Demo/Materials/M_Metal_Burnished_Steel': Can't find file.
+[2023.04.12-21.58.13:952][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Demo/Materials/M_Metal_Burnished_Steel'
+[2023.04.12-21.58.13:954][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Models\StaticMesh\Submarine\SubmarineTop.uasset: Failed to load '/Game/Boat/Demo/Materials/M_Metal_Chrome': Can't find file.
+[2023.04.12-21.58.13:954][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Demo/Materials/M_Metal_Chrome'
+[2023.04.12-21.58.13:954][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Models\StaticMesh\Submarine\SubmarineTop.uasset: Failed to load '/Game/Boat/Materials/Light': Can't find file.
+[2023.04.12-21.58.13:954][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/Light'
+[2023.04.12-21.58.13:954][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Models\StaticMesh\Submarine\SubmarineTop.uasset: Failed to load '/Game/Boat/Materials/BlackPlastic': Can't find file.
+[2023.04.12-21.58.13:954][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/BlackPlastic'
+[2023.04.12-21.58.13:955][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Blueprints\Submarine.uasset: Failed to load '/Game/Boat/ParticlesSystems/WaterSplashBig': Can't find file.
+[2023.04.12-21.58.13:955][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/ParticlesSystems/WaterSplashBig'
+[2023.04.12-21.58.13:955][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Blueprints\Submarine.uasset: Failed to load '/Game/Boat/Sound/MotorBoatBassCue': Can't find file.
+[2023.04.12-21.58.13:955][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Sound/MotorBoatBassCue'
+[2023.04.12-21.58.13:955][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Blueprints\Submarine.uasset: Failed to load '/Game/Boat/Sound/PowerBoatStart2Cue': Can't find file.
+[2023.04.12-21.58.13:955][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Sound/PowerBoatStart2Cue'
+[2023.04.12-21.58.13:955][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Blueprints\Submarine.uasset: Failed to load '/Game/Boat/Sound/StartSoundAttenuation': Can't find file.
+[2023.04.12-21.58.13:955][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Sound/StartSoundAttenuation'
+[2023.04.12-21.58.13:991][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Models\SkeletalMesh\Flag\Flag.uasset: Failed to load '/Game/Boat/Materials/Flag': Can't find file.
+[2023.04.12-21.58.13:991][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/Flag'
+[2023.04.12-21.58.13:994][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Models\StaticMesh\Ship\FlapShip.uasset: Failed to load '/Game/Boat/Materials/Ship1': Can't find file.
+[2023.04.12-21.58.13:994][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/Ship1'
+[2023.04.12-21.58.13:999][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Models\StaticMesh\Ship\Ship.uasset: Failed to load '/Game/Boat/Materials/Wood': Can't find file.
+[2023.04.12-21.58.13:999][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/Wood'
+[2023.04.12-21.58.13:999][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Models\StaticMesh\Ship\Ship.uasset: Failed to load '/Game/Boat/Materials/Ship2': Can't find file.
+[2023.04.12-21.58.13:999][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/Ship2'
+[2023.04.12-21.58.13:999][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Models\StaticMesh\Ship\Ship.uasset: Failed to load '/Game/Boat/Materials/Ship3': Can't find file.
+[2023.04.12-21.58.13:999][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/Ship3'
+[2023.04.12-21.58.13:999][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Models\StaticMesh\Ship\Ship.uasset: Failed to load '/Game/Boat/Materials/Ship4': Can't find file.
+[2023.04.12-21.58.13:999][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/Ship4'
+[2023.04.12-21.58.14:042][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Models\StaticMesh\PoweredBoat\PoweredBoatChain.uasset: Failed to load '/Game/Boat/Materials/ChainInst': Can't find file.
+[2023.04.12-21.58.14:042][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/ChainInst'
+[2023.04.12-21.58.14:043][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Models\StaticMesh\PoweredBoat\PoweredBoatIn.uasset: Failed to load '/Game/Boat/Materials/InteriorPowerBoat': Can't find file.
+[2023.04.12-21.58.14:043][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/InteriorPowerBoat'
+[2023.04.12-21.58.14:044][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Models\StaticMesh\PoweredBoat\PoweredBoatMachine.uasset: Failed to load '/Game/Boat/Materials/PoweredBoatMachineRotor': Can't find file.
+[2023.04.12-21.58.14:044][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/PoweredBoatMachineRotor'
+[2023.04.12-21.58.14:046][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Models\StaticMesh\PoweredBoat\PoweredBoatMesh.uasset: Failed to load '/Game/Boat/Materials/MeshInst': Can't find file.
+[2023.04.12-21.58.14:046][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/MeshInst'
+[2023.04.12-21.58.14:047][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Models\StaticMesh\PoweredBoat\PoweredBoatOut.uasset: Failed to load '/Game/Boat/Materials/ExteriorPowerBoat': Can't find file.
+[2023.04.12-21.58.14:048][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/ExteriorPowerBoat'
+[2023.04.12-21.58.14:049][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Models\StaticMesh\PoweredBoat\PoweredBoatRotors.uasset: Failed to load '/Game/Boat/Materials/BlackMirror': Can't find file.
+[2023.04.12-21.58.14:049][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/BlackMirror'
+[2023.04.12-21.58.14:050][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Models\StaticMesh\PoweredBoat\PoweredBoatRudder.uasset: Failed to load '/Game/Boat/Materials/WoodBoat': Can't find file.
+[2023.04.12-21.58.14:050][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/WoodBoat'
+[2023.04.12-21.58.14:050][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Blueprints\PowerBoat.uasset: Failed to load '/Game/Boat/Sound/MotorBoatMixed': Can't find file.
+[2023.04.12-21.58.14:050][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Sound/MotorBoatMixed'
+[2023.04.12-21.58.14:095][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Models\StaticMesh\LifeBoat\Lifeboat.uasset: Failed to load '/Game/Boat/Materials/BoatBlack': Can't find file.
+[2023.04.12-21.58.14:095][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/BoatBlack'
+[2023.04.12-21.58.14:095][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Models\StaticMesh\LifeBoat\Lifeboat.uasset: Failed to load '/Game/Boat/Materials/BoatBlue': Can't find file.
+[2023.04.12-21.58.14:095][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/BoatBlue'
+[2023.04.12-21.58.14:095][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Models\StaticMesh\LifeBoat\Lifeboat.uasset: Failed to load '/Game/Boat/Materials/BoatYellowplastic': Can't find file.
+[2023.04.12-21.58.14:095][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/BoatYellowplastic'
+[2023.04.12-21.58.14:120][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Models\StaticMesh\OldWoodenBoat\OldBoat.uasset: Failed to load '/Game/Boat/Materials/DefaultOBJMat': Can't find file.
+[2023.04.12-21.58.14:120][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/DefaultOBJMat'
+[2023.04.12-21.58.14:158][639]LogStaticMesh: Display: Building static mesh OldBoat...
+[2023.04.12-21.58.14:158][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Models\SkeletalMesh\RowTypelong\LongBoatRow.uasset: Failed to load '/Game/Boat/Materials/80KfromRC': Can't find file.
+[2023.04.12-21.58.14:158][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/Materials/80KfromRC'
+[2023.04.12-21.58.14:161][639]LogLinker: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Boat\Blueprints\LongRowBoat.uasset: Failed to load '/Game/Boat/ParticlesSystems/WaterSplashSmall': Can't find file.
+[2023.04.12-21.58.14:162][639]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Boat/ParticlesSystems/WaterSplashSmall'
+[2023.04.12-21.58.14:344][639]LogStaticMesh: Display: Building static mesh OldBoatExterior...
+[2023.04.12-21.58.14:344][639]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Boat/Models/SkeletalMesh/RowTypelong/Animations/LongBoatRowAnimAction.LongBoatRowAnimAction
+[2023.04.12-21.58.14:344][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/WoodenBoat.WoodenBoat_C' ref from Metadata '/Game/Boat/Blueprints/WoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:344][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/WoodenBoat.WoodenBoat:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Boat/Blueprints/WoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:344][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/WoodenBoat.WoodenBoat:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Boat/Blueprints/WoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:344][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/WoodenBoat.WoodenBoat:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Boat/Blueprints/WoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:344][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/WoodenBoat.WoodenBoat:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Boat/Blueprints/WoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:344][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/WoodenBoat.WoodenBoat:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Boat/Blueprints/WoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:344][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/WoodenBoat.WoodenBoat:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Boat/Blueprints/WoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:344][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/WoodenBoat.WoodenBoat:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Boat/Blueprints/WoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:344][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/WoodenBoat.SKEL_WoodenBoat_C:ReceiveBeginPlay' ref from Metadata '/Game/Boat/Blueprints/WoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:344][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/WoodenBoat.SKEL_WoodenBoat_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Boat/Blueprints/WoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:344][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/WoodenBoat.SKEL_WoodenBoat_C:ReceiveTick' ref from Metadata '/Game/Boat/Blueprints/WoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:344][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/WoodenBoat.SKEL_WoodenBoat_C:ReceivePossessed' ref from Metadata '/Game/Boat/Blueprints/WoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:344][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/WoodenBoat.SKEL_WoodenBoat_C:ReceiveUnpossessed' ref from Metadata '/Game/Boat/Blueprints/WoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:344][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/WoodenBoat.SKEL_WoodenBoat_C:RowAnimation' ref from Metadata '/Game/Boat/Blueprints/WoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:344][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/WoodenBoat.SKEL_WoodenBoat_C:UserConstructionScript' ref from Metadata '/Game/Boat/Blueprints/WoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:344][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/WoodenBoat.SKEL_WoodenBoat_C' ref from Metadata '/Game/Boat/Blueprints/WoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:344][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/WoodenBoat.WoodenBoat_C:RowAnimation' ref from Metadata '/Game/Boat/Blueprints/WoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:344][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/WoodenBoat.WoodenBoat_C:ReceiveUnpossessed' ref from Metadata '/Game/Boat/Blueprints/WoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:344][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/WoodenBoat.WoodenBoat_C:ReceiveBeginPlay' ref from Metadata '/Game/Boat/Blueprints/WoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:344][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/WoodenBoat.WoodenBoat_C:ReceivePossessed' ref from Metadata '/Game/Boat/Blueprints/WoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:344][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/WoodenBoat.WoodenBoat_C:ReceiveTick' ref from Metadata '/Game/Boat/Blueprints/WoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:345][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/Submarine.Submarine_C' ref from Metadata '/Game/Boat/Blueprints/Submarine.PackageMetaData'
+[2023.04.12-21.58.14:345][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/Submarine.SKEL_Submarine_C:ReceiveBeginPlay' ref from Metadata '/Game/Boat/Blueprints/Submarine.PackageMetaData'
+[2023.04.12-21.58.14:345][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/Submarine.SKEL_Submarine_C:ReceiveTick' ref from Metadata '/Game/Boat/Blueprints/Submarine.PackageMetaData'
+[2023.04.12-21.58.14:345][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/Submarine.SKEL_Submarine_C:ReceivePossessed' ref from Metadata '/Game/Boat/Blueprints/Submarine.PackageMetaData'
+[2023.04.12-21.58.14:345][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/Submarine.SKEL_Submarine_C:ReceiveUnpossessed' ref from Metadata '/Game/Boat/Blueprints/Submarine.PackageMetaData'
+[2023.04.12-21.58.14:345][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/Submarine.SKEL_Submarine_C:UserConstructionScript' ref from Metadata '/Game/Boat/Blueprints/Submarine.PackageMetaData'
+[2023.04.12-21.58.14:345][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/Submarine.SKEL_Submarine_C' ref from Metadata '/Game/Boat/Blueprints/Submarine.PackageMetaData'
+[2023.04.12-21.58.14:346][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/Submarine.Submarine_C:ReceiveUnpossessed' ref from Metadata '/Game/Boat/Blueprints/Submarine.PackageMetaData'
+[2023.04.12-21.58.14:346][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/Submarine.Submarine_C:ReceivePossessed' ref from Metadata '/Game/Boat/Blueprints/Submarine.PackageMetaData'
+[2023.04.12-21.58.14:346][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/Submarine.Submarine_C:ReceiveTick' ref from Metadata '/Game/Boat/Blueprints/Submarine.PackageMetaData'
+[2023.04.12-21.58.14:346][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/Submarine.Submarine_C:ReceiveBeginPlay' ref from Metadata '/Game/Boat/Blueprints/Submarine.PackageMetaData'
+[2023.04.12-21.58.14:346][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/SpeedAndDirection.SpeedAndDirection_C' ref from Metadata '/Game/Boat/Blueprints/SpeedAndDirection.PackageMetaData'
+[2023.04.12-21.58.14:346][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/SpeedAndDirection.SpeedAndDirection:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Boat/Blueprints/SpeedAndDirection.PackageMetaData'
+[2023.04.12-21.58.14:346][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/SpeedAndDirection.SpeedAndDirection:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Boat/Blueprints/SpeedAndDirection.PackageMetaData'
+[2023.04.12-21.58.14:346][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/SpeedAndDirection.SpeedAndDirection:Get_Power_Percent_0.K2Node_FunctionResult_0' ref from Metadata '/Game/Boat/Blueprints/SpeedAndDirection.PackageMetaData'
+[2023.04.12-21.58.14:346][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/SpeedAndDirection.SpeedAndDirection:Get_Power_Percent_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/Boat/Blueprints/SpeedAndDirection.PackageMetaData'
+[2023.04.12-21.58.14:346][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/SpeedAndDirection.SKEL_SpeedAndDirection_C:PreConstruct' ref from Metadata '/Game/Boat/Blueprints/SpeedAndDirection.PackageMetaData'
+[2023.04.12-21.58.14:346][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/SpeedAndDirection.SKEL_SpeedAndDirection_C:Construct' ref from Metadata '/Game/Boat/Blueprints/SpeedAndDirection.PackageMetaData'
+[2023.04.12-21.58.14:346][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/SpeedAndDirection.SKEL_SpeedAndDirection_C:DirectionChange' ref from Metadata '/Game/Boat/Blueprints/SpeedAndDirection.PackageMetaData'
+[2023.04.12-21.58.14:346][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/SpeedAndDirection.SKEL_SpeedAndDirection_C:Tick' ref from Metadata '/Game/Boat/Blueprints/SpeedAndDirection.PackageMetaData'
+[2023.04.12-21.58.14:346][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/SpeedAndDirection.SKEL_SpeedAndDirection_C' ref from Metadata '/Game/Boat/Blueprints/SpeedAndDirection.PackageMetaData'
+[2023.04.12-21.58.14:346][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/SpeedAndDirection.SpeedAndDirection_C:Tick' ref from Metadata '/Game/Boat/Blueprints/SpeedAndDirection.PackageMetaData'
+[2023.04.12-21.58.14:346][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/SpeedAndDirection.SpeedAndDirection_C:Construct' ref from Metadata '/Game/Boat/Blueprints/SpeedAndDirection.PackageMetaData'
+[2023.04.12-21.58.14:346][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/SpeedAndDirection.SpeedAndDirection_C:DirectionChange' ref from Metadata '/Game/Boat/Blueprints/SpeedAndDirection.PackageMetaData'
+[2023.04.12-21.58.14:347][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/Ship.Ship_C' ref from Metadata '/Game/Boat/Blueprints/Ship.PackageMetaData'
+[2023.04.12-21.58.14:347][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/Ship.SKEL_Ship_C:ReceiveBeginPlay' ref from Metadata '/Game/Boat/Blueprints/Ship.PackageMetaData'
+[2023.04.12-21.58.14:347][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/Ship.SKEL_Ship_C:ReceiveTick' ref from Metadata '/Game/Boat/Blueprints/Ship.PackageMetaData'
+[2023.04.12-21.58.14:347][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/Ship.SKEL_Ship_C:UserConstructionScript' ref from Metadata '/Game/Boat/Blueprints/Ship.PackageMetaData'
+[2023.04.12-21.58.14:347][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/Ship.SKEL_Ship_C' ref from Metadata '/Game/Boat/Blueprints/Ship.PackageMetaData'
+[2023.04.12-21.58.14:347][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/Ship.Ship_C:ReceiveBeginPlay' ref from Metadata '/Game/Boat/Blueprints/Ship.PackageMetaData'
+[2023.04.12-21.58.14:347][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/Ship.Ship_C:ReceiveTick' ref from Metadata '/Game/Boat/Blueprints/Ship.PackageMetaData'
+[2023.04.12-21.58.14:348][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/PowerBoat.PowerBoat_C' ref from Metadata '/Game/Boat/Blueprints/PowerBoat.PackageMetaData'
+[2023.04.12-21.58.14:348][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/PowerBoat.SKEL_PowerBoat_C:ReceiveBeginPlay' ref from Metadata '/Game/Boat/Blueprints/PowerBoat.PackageMetaData'
+[2023.04.12-21.58.14:348][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/PowerBoat.SKEL_PowerBoat_C:ReceiveTick' ref from Metadata '/Game/Boat/Blueprints/PowerBoat.PackageMetaData'
+[2023.04.12-21.58.14:348][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/PowerBoat.SKEL_PowerBoat_C:ReceivePossessed' ref from Metadata '/Game/Boat/Blueprints/PowerBoat.PackageMetaData'
+[2023.04.12-21.58.14:348][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/PowerBoat.SKEL_PowerBoat_C:ReceiveUnpossessed' ref from Metadata '/Game/Boat/Blueprints/PowerBoat.PackageMetaData'
+[2023.04.12-21.58.14:348][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/PowerBoat.SKEL_PowerBoat_C:UserConstructionScript' ref from Metadata '/Game/Boat/Blueprints/PowerBoat.PackageMetaData'
+[2023.04.12-21.58.14:348][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/PowerBoat.SKEL_PowerBoat_C' ref from Metadata '/Game/Boat/Blueprints/PowerBoat.PackageMetaData'
+[2023.04.12-21.58.14:348][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/PowerBoat.PowerBoat_C:ReceiveUnpossessed' ref from Metadata '/Game/Boat/Blueprints/PowerBoat.PackageMetaData'
+[2023.04.12-21.58.14:348][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/PowerBoat.PowerBoat_C:ReceivePossessed' ref from Metadata '/Game/Boat/Blueprints/PowerBoat.PackageMetaData'
+[2023.04.12-21.58.14:348][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/PowerBoat.PowerBoat_C:ReceiveTick' ref from Metadata '/Game/Boat/Blueprints/PowerBoat.PackageMetaData'
+[2023.04.12-21.58.14:348][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/PowerBoat.PowerBoat_C:ReceiveBeginPlay' ref from Metadata '/Game/Boat/Blueprints/PowerBoat.PackageMetaData'
+[2023.04.12-21.58.14:348][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/PlasticBoat.PlasticBoat_C' ref from Metadata '/Game/Boat/Blueprints/PlasticBoat.PackageMetaData'
+[2023.04.12-21.58.14:348][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/PlasticBoat.SKEL_PlasticBoat_C:ReceiveBeginPlay' ref from Metadata '/Game/Boat/Blueprints/PlasticBoat.PackageMetaData'
+[2023.04.12-21.58.14:349][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/PlasticBoat.SKEL_PlasticBoat_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Boat/Blueprints/PlasticBoat.PackageMetaData'
+[2023.04.12-21.58.14:349][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/PlasticBoat.SKEL_PlasticBoat_C:ReceiveTick' ref from Metadata '/Game/Boat/Blueprints/PlasticBoat.PackageMetaData'
+[2023.04.12-21.58.14:349][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/PlasticBoat.SKEL_PlasticBoat_C:ReceivePossessed' ref from Metadata '/Game/Boat/Blueprints/PlasticBoat.PackageMetaData'
+[2023.04.12-21.58.14:349][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/PlasticBoat.SKEL_PlasticBoat_C:ReceiveUnpossessed' ref from Metadata '/Game/Boat/Blueprints/PlasticBoat.PackageMetaData'
+[2023.04.12-21.58.14:349][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/PlasticBoat.SKEL_PlasticBoat_C:RowAnimation' ref from Metadata '/Game/Boat/Blueprints/PlasticBoat.PackageMetaData'
+[2023.04.12-21.58.14:349][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/PlasticBoat.SKEL_PlasticBoat_C:UserConstructionScript' ref from Metadata '/Game/Boat/Blueprints/PlasticBoat.PackageMetaData'
+[2023.04.12-21.58.14:349][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/PlasticBoat.SKEL_PlasticBoat_C' ref from Metadata '/Game/Boat/Blueprints/PlasticBoat.PackageMetaData'
+[2023.04.12-21.58.14:349][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/PlasticBoat.PlasticBoat_C:RowAnimation' ref from Metadata '/Game/Boat/Blueprints/PlasticBoat.PackageMetaData'
+[2023.04.12-21.58.14:349][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/PlasticBoat.PlasticBoat_C:ReceiveUnpossessed' ref from Metadata '/Game/Boat/Blueprints/PlasticBoat.PackageMetaData'
+[2023.04.12-21.58.14:349][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/PlasticBoat.PlasticBoat_C:ReceivePossessed' ref from Metadata '/Game/Boat/Blueprints/PlasticBoat.PackageMetaData'
+[2023.04.12-21.58.14:349][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/PlasticBoat.PlasticBoat_C:ReceiveBeginPlay' ref from Metadata '/Game/Boat/Blueprints/PlasticBoat.PackageMetaData'
+[2023.04.12-21.58.14:349][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/PlasticBoat.PlasticBoat_C:ReceiveTick' ref from Metadata '/Game/Boat/Blueprints/PlasticBoat.PackageMetaData'
+[2023.04.12-21.58.14:350][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/OldWoodenBoat.OldWoodenBoat_C' ref from Metadata '/Game/Boat/Blueprints/OldWoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:350][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/OldWoodenBoat.SKEL_OldWoodenBoat_C:ReceiveBeginPlay' ref from Metadata '/Game/Boat/Blueprints/OldWoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:350][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/OldWoodenBoat.SKEL_OldWoodenBoat_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Boat/Blueprints/OldWoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:350][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/OldWoodenBoat.SKEL_OldWoodenBoat_C:ReceiveTick' ref from Metadata '/Game/Boat/Blueprints/OldWoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:350][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/OldWoodenBoat.SKEL_OldWoodenBoat_C:ReceivePossessed' ref from Metadata '/Game/Boat/Blueprints/OldWoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:350][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/OldWoodenBoat.SKEL_OldWoodenBoat_C:ReceiveUnpossessed' ref from Metadata '/Game/Boat/Blueprints/OldWoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:350][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/OldWoodenBoat.SKEL_OldWoodenBoat_C:RowAnimation' ref from Metadata '/Game/Boat/Blueprints/OldWoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:350][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/OldWoodenBoat.SKEL_OldWoodenBoat_C:UserConstructionScript' ref from Metadata '/Game/Boat/Blueprints/OldWoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:350][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/OldWoodenBoat.SKEL_OldWoodenBoat_C' ref from Metadata '/Game/Boat/Blueprints/OldWoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:350][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/OldWoodenBoat.OldWoodenBoat_C:ReceiveBeginPlay' ref from Metadata '/Game/Boat/Blueprints/OldWoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:350][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/OldWoodenBoat.OldWoodenBoat_C:RowAnimation' ref from Metadata '/Game/Boat/Blueprints/OldWoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:350][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/OldWoodenBoat.OldWoodenBoat_C:ReceiveUnpossessed' ref from Metadata '/Game/Boat/Blueprints/OldWoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:350][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/OldWoodenBoat.OldWoodenBoat_C:ReceiveTick' ref from Metadata '/Game/Boat/Blueprints/OldWoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:350][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/OldWoodenBoat.OldWoodenBoat_C:ReceivePossessed' ref from Metadata '/Game/Boat/Blueprints/OldWoodenBoat.PackageMetaData'
+[2023.04.12-21.58.14:351][639]LogStaticMesh: Built static mesh [0.19s] /Game/Boat/Models/StaticMesh/OldWoodenBoat/OldBoatExterior.OldBoatExterior
+[2023.04.12-21.58.14:351][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/LongRowBoat.LongRowBoat_C' ref from Metadata '/Game/Boat/Blueprints/LongRowBoat.PackageMetaData'
+[2023.04.12-21.58.14:351][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/LongRowBoat.SKEL_LongRowBoat_C:ReceiveBeginPlay' ref from Metadata '/Game/Boat/Blueprints/LongRowBoat.PackageMetaData'
+[2023.04.12-21.58.14:351][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/LongRowBoat.SKEL_LongRowBoat_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Boat/Blueprints/LongRowBoat.PackageMetaData'
+[2023.04.12-21.58.14:351][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/LongRowBoat.SKEL_LongRowBoat_C:ReceiveTick' ref from Metadata '/Game/Boat/Blueprints/LongRowBoat.PackageMetaData'
+[2023.04.12-21.58.14:351][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/LongRowBoat.SKEL_LongRowBoat_C:ReceivePossessed' ref from Metadata '/Game/Boat/Blueprints/LongRowBoat.PackageMetaData'
+[2023.04.12-21.58.14:351][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/LongRowBoat.SKEL_LongRowBoat_C:ReceiveUnpossessed' ref from Metadata '/Game/Boat/Blueprints/LongRowBoat.PackageMetaData'
+[2023.04.12-21.58.14:351][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/LongRowBoat.SKEL_LongRowBoat_C:RowAnimation' ref from Metadata '/Game/Boat/Blueprints/LongRowBoat.PackageMetaData'
+[2023.04.12-21.58.14:351][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/LongRowBoat.SKEL_LongRowBoat_C:UserConstructionScript' ref from Metadata '/Game/Boat/Blueprints/LongRowBoat.PackageMetaData'
+[2023.04.12-21.58.14:351][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/LongRowBoat.SKEL_LongRowBoat_C' ref from Metadata '/Game/Boat/Blueprints/LongRowBoat.PackageMetaData'
+[2023.04.12-21.58.14:351][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/LongRowBoat.LongRowBoat_C:RowAnimation' ref from Metadata '/Game/Boat/Blueprints/LongRowBoat.PackageMetaData'
+[2023.04.12-21.58.14:351][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/LongRowBoat.LongRowBoat_C:ReceiveBeginPlay' ref from Metadata '/Game/Boat/Blueprints/LongRowBoat.PackageMetaData'
+[2023.04.12-21.58.14:351][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/LongRowBoat.LongRowBoat_C:ReceiveUnpossessed' ref from Metadata '/Game/Boat/Blueprints/LongRowBoat.PackageMetaData'
+[2023.04.12-21.58.14:351][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/LongRowBoat.LongRowBoat_C:ReceivePossessed' ref from Metadata '/Game/Boat/Blueprints/LongRowBoat.PackageMetaData'
+[2023.04.12-21.58.14:351][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/LongRowBoat.LongRowBoat_C:ReceiveTick' ref from Metadata '/Game/Boat/Blueprints/LongRowBoat.PackageMetaData'
+[2023.04.12-21.58.14:352][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/HoverRide.HoverRide_C' ref from Metadata '/Game/Boat/Blueprints/HoverRide.PackageMetaData'
+[2023.04.12-21.58.14:352][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/HoverRide.HoverRide:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Boat/Blueprints/HoverRide.PackageMetaData'
+[2023.04.12-21.58.14:352][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/HoverRide.HoverRide:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Boat/Blueprints/HoverRide.PackageMetaData'
+[2023.04.12-21.58.14:352][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/HoverRide.HoverRide:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Boat/Blueprints/HoverRide.PackageMetaData'
+[2023.04.12-21.58.14:352][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/HoverRide.HoverRide:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Boat/Blueprints/HoverRide.PackageMetaData'
+[2023.04.12-21.58.14:352][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/HoverRide.HoverRide:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Boat/Blueprints/HoverRide.PackageMetaData'
+[2023.04.12-21.58.14:352][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/HoverRide.HoverRide:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Boat/Blueprints/HoverRide.PackageMetaData'
+[2023.04.12-21.58.14:352][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/HoverRide.HoverRide:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Boat/Blueprints/HoverRide.PackageMetaData'
+[2023.04.12-21.58.14:352][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/HoverRide.SKEL_HoverRide_C:ReceiveBeginPlay' ref from Metadata '/Game/Boat/Blueprints/HoverRide.PackageMetaData'
+[2023.04.12-21.58.14:352][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/HoverRide.SKEL_HoverRide_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Boat/Blueprints/HoverRide.PackageMetaData'
+[2023.04.12-21.58.14:353][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/HoverRide.SKEL_HoverRide_C:ReceiveTick' ref from Metadata '/Game/Boat/Blueprints/HoverRide.PackageMetaData'
+[2023.04.12-21.58.14:353][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/HoverRide.SKEL_HoverRide_C:ReceivePossessed' ref from Metadata '/Game/Boat/Blueprints/HoverRide.PackageMetaData'
+[2023.04.12-21.58.14:353][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/HoverRide.SKEL_HoverRide_C:ReceiveUnpossessed' ref from Metadata '/Game/Boat/Blueprints/HoverRide.PackageMetaData'
+[2023.04.12-21.58.14:353][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/HoverRide.SKEL_HoverRide_C:UserConstructionScript' ref from Metadata '/Game/Boat/Blueprints/HoverRide.PackageMetaData'
+[2023.04.12-21.58.14:353][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/HoverRide.SKEL_HoverRide_C' ref from Metadata '/Game/Boat/Blueprints/HoverRide.PackageMetaData'
+[2023.04.12-21.58.14:353][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/HoverRide.HoverRide_C:ReceiveUnpossessed' ref from Metadata '/Game/Boat/Blueprints/HoverRide.PackageMetaData'
+[2023.04.12-21.58.14:353][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/HoverRide.HoverRide_C:ReceivePossessed' ref from Metadata '/Game/Boat/Blueprints/HoverRide.PackageMetaData'
+[2023.04.12-21.58.14:353][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/HoverRide.HoverRide_C:ReceiveTick' ref from Metadata '/Game/Boat/Blueprints/HoverRide.PackageMetaData'
+[2023.04.12-21.58.14:354][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/DefaultPawn.DefaultPawn_C' ref from Metadata '/Game/Boat/Blueprints/DefaultPawn.PackageMetaData'
+[2023.04.12-21.58.14:354][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/DefaultPawn.DefaultPawn:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Boat/Blueprints/DefaultPawn.PackageMetaData'
+[2023.04.12-21.58.14:354][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/DefaultPawn.DefaultPawn:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Boat/Blueprints/DefaultPawn.PackageMetaData'
+[2023.04.12-21.58.14:354][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/DefaultPawn.DefaultPawn:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Boat/Blueprints/DefaultPawn.PackageMetaData'
+[2023.04.12-21.58.14:354][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/DefaultPawn.DefaultPawn:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Boat/Blueprints/DefaultPawn.PackageMetaData'
+[2023.04.12-21.58.14:354][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/DefaultPawn.SKEL_DefaultPawn_C:ReceiveBeginPlay' ref from Metadata '/Game/Boat/Blueprints/DefaultPawn.PackageMetaData'
+[2023.04.12-21.58.14:354][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/DefaultPawn.SKEL_DefaultPawn_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Boat/Blueprints/DefaultPawn.PackageMetaData'
+[2023.04.12-21.58.14:354][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/DefaultPawn.SKEL_DefaultPawn_C:ReceiveTick' ref from Metadata '/Game/Boat/Blueprints/DefaultPawn.PackageMetaData'
+[2023.04.12-21.58.14:354][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/DefaultPawn.SKEL_DefaultPawn_C:UserConstructionScript' ref from Metadata '/Game/Boat/Blueprints/DefaultPawn.PackageMetaData'
+[2023.04.12-21.58.14:354][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/DefaultPawn.SKEL_DefaultPawn_C' ref from Metadata '/Game/Boat/Blueprints/DefaultPawn.PackageMetaData'
+[2023.04.12-21.58.14:355][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.BoatMaster_C' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:355][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.BoatMaster:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:355][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.BoatMaster:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:355][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.BoatMaster:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:355][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.BoatMaster:DelayInPower.K2Node_FunctionEntry_0' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:355][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.BoatMaster:DelayedTurn.K2Node_FunctionEntry_0' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:355][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.BoatMaster:ReferenceHeightAdjust.K2Node_Tunnel_2' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:355][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.BoatMaster:ReferenceHeightAdjust.K2Node_Tunnel_0' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:355][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.SKEL_BoatMaster_C:ReceiveBeginPlay' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:355][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.SKEL_BoatMaster_C:ReceiveTick' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:356][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.SKEL_BoatMaster_C:BndEvt__BoatMaster_BP_Sphere_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:356][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.SKEL_BoatMaster_C:BndEvt__BoatMaster_BP_Sphere_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:356][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.SKEL_BoatMaster_C:ShouldBeSimulating' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:356][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.SKEL_BoatMaster_C:StoppedSimulating' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:356][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.SKEL_BoatMaster_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_2' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:356][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.SKEL_BoatMaster_C:InpAxisEvt_Left/Right_K2Node_InputAxisEvent_0' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:356][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.SKEL_BoatMaster_C:KeepReadingLocation' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:356][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.SKEL_BoatMaster_C:ReceivePossessed' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:356][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.SKEL_BoatMaster_C:RowAnimation' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:356][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.SKEL_BoatMaster_C:Entered' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:356][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.SKEL_BoatMaster_C:UserConstructionScript' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:356][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.SKEL_BoatMaster_C:DelayInPower' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:356][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.SKEL_BoatMaster_C:DelayedTurn' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:356][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.SKEL_BoatMaster_C' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:356][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.BoatMaster_C:ReceivePossessed' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:356][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.BoatMaster_C:ReceiveTick' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:356][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.BoatMaster_C:ReceiveBeginPlay' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:356][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.BoatMaster_C:RowAnimation' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:356][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.BoatMaster_C:DelayInPower' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:356][639]LogMetaData: Removing '/Game/ImportedBlueprints/Blueprints/BoatMaster.BoatMaster_C:DelayedTurn' ref from Metadata '/Game/Boat/Blueprints/BoatMaster.PackageMetaData'
+[2023.04.12-21.58.14:868][639]LogStaticMesh: Built static mesh [0.29s] /Game/Boat/Models/StaticMesh/OldWoodenBoat/OldBoat.OldBoat
+[2023.04.12-21.58.14:868][639]LogSkeletalMesh: Building Skeletal Mesh LongBoatRow...
+[2023.04.12-21.58.14:868][639]LogSkeletalMesh: Built Skeletal Mesh [0.31s] /Game/ImportedBlueprints/Models/SkeletalMesh/RowTypelong/LongBoatRow.LongBoatRow
+[2023.04.12-21.58.14:868][639]LogStaticMesh: Display: Building static mesh LongBoatMeshExt...
+[2023.04.12-21.58.14:868][639]LogStaticMesh: Display: Building static mesh LongBoatMeshInt...
+[2023.04.12-21.58.14:945][639]LogPackageLocalizationCache: Processed 31 localized package path(s) for 1 prioritized culture(s) in 0.006522 seconds
+[2023.04.12-21.58.14:972][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Blueprints/WoodenBoat
+[2023.04.12-21.58.14:972][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/WoodenBoatB7B1FDA04051376EBAC17E83876F3103.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Blueprints/WoodenBoat.uasset'
+[2023.04.12-21.58.15:004][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Blueprints/Submarine
+[2023.04.12-21.58.15:004][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/Submarine987154994909ABE1073E6D8AACE3E213.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Blueprints/Submarine.uasset'
+[2023.04.12-21.58.15:016][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Blueprints/SpeedAndDirection
+[2023.04.12-21.58.15:017][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/SpeedAndDirectionD69A99344D96532CEA43AD9376ACBDCE.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Blueprints/SpeedAndDirection.uasset'
+[2023.04.12-21.58.15:018][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ImportedBlueprints/Blueprints/Ship" FILE="../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Blueprints/Ship.uasset" SILENT=true
+[2023.04.12-21.58.15:068][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Blueprints/Ship
+[2023.04.12-21.58.15:068][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/Ship30151F814D9A23DAC5247C8DBD4BBE99.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Blueprints/Ship.uasset'
+[2023.04.12-21.58.15:104][639]LogStaticMesh: Built static mesh [0.33s] /Game/ImportedBlueprints/Models/StaticMesh/LongBoat/LongBoatMeshExt.LongBoatMeshExt
+[2023.04.12-21.58.15:104][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Blueprints/PowerBoat
+[2023.04.12-21.58.15:104][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/PowerBoat10E79B92410F66E8F62CCEA0B2FEBA5A.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Blueprints/PowerBoat.uasset'
+[2023.04.12-21.58.15:118][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Blueprints/PlasticBoat
+[2023.04.12-21.58.15:119][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/PlasticBoat6D10882844D0A3365932AF97C40C201D.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Blueprints/PlasticBoat.uasset'
+[2023.04.12-21.58.15:141][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Blueprints/OldWoodenBoat
+[2023.04.12-21.58.15:141][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/OldWoodenBoat7A80168D4806F54B23785FADD44D6BB6.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Blueprints/OldWoodenBoat.uasset'
+[2023.04.12-21.58.15:171][639]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ImportedBlueprints/Models/StaticMesh/LongBoat/LongBoatMeshInt) ...
+[2023.04.12-21.58.16:213][639]LogStaticMesh: Built static mesh [1.38s] /Game/ImportedBlueprints/Models/StaticMesh/LongBoat/LongBoatMeshInt.LongBoatMeshInt
+[2023.04.12-21.58.16:300][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Blueprints/LongRowBoat
+[2023.04.12-21.58.16:301][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/LongRowBoatAC010B474DBC9D6251FAEFA15D6DC929.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Blueprints/LongRowBoat.uasset'
+[2023.04.12-21.58.16:323][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Blueprints/HoverRide
+[2023.04.12-21.58.16:323][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/HoverRideECA0A2EC4116234272A2718E4287D057.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Blueprints/HoverRide.uasset'
+[2023.04.12-21.58.16:329][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Blueprints/DefaultPawn
+[2023.04.12-21.58.16:329][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/DefaultPawn6A4D1D4946B0BD7E95ACC586DE8C8006.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Blueprints/DefaultPawn.uasset'
+[2023.04.12-21.58.16:505][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Blueprints/BoatMaster
+[2023.04.12-21.58.16:505][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/BoatMaster3F19D84346A1C9DAE356968AA134EA0A.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Blueprints/BoatMaster.uasset'
+[2023.04.12-21.58.16:560][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/SkeletalMesh/Flag/FlagSkeleton
+[2023.04.12-21.58.16:560][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/FlagSkeletonEE43B8E64E2D1DC38B3AAF965ECBCA21.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/SkeletalMesh/Flag/FlagSkeleton.uasset'
+[2023.04.12-21.58.16:569][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/SkeletalMesh/Flag/FlagPhysicsAsset
+[2023.04.12-21.58.16:569][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/FlagPhysicsAsset342B14714DB6470505B5B3A9B7F4530F.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/SkeletalMesh/Flag/FlagPhysicsAsset.uasset'
+[2023.04.12-21.58.16:754][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/SkeletalMesh/Flag/Flag
+[2023.04.12-21.58.16:754][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/Flag6A67764A41B9C60CEB2AECB47D8C73BB.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/SkeletalMesh/Flag/Flag.uasset'
+[2023.04.12-21.58.16:795][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/SkeletalMesh/RowType1/RowSkeleton
+[2023.04.12-21.58.16:795][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/RowSkeletonF76522C74E159AF81042D4ADF1632BCD.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/SkeletalMesh/RowType1/RowSkeleton.uasset'
+[2023.04.12-21.58.16:798][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/SkeletalMesh/RowType1/RowPhysicsAsset
+[2023.04.12-21.58.16:798][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/RowPhysicsAsset7299655F41EEC63B6FC851ABC334819B.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/SkeletalMesh/RowType1/RowPhysicsAsset.uasset'
+[2023.04.12-21.58.16:810][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/SkeletalMesh/RowType1/Row
+[2023.04.12-21.58.16:810][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/RowEACC12E340539CFA0AE6209E03A6FF67.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/SkeletalMesh/RowType1/Row.uasset'
+[2023.04.12-21.58.16:814][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/SkeletalMesh/RowType1/Animations/RowAnimAction
+[2023.04.12-21.58.16:814][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/RowAnimActionBD2C8A72439AEE7252FCD0A5E000401A.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/SkeletalMesh/RowType1/Animations/RowAnimAction.uasset'
+[2023.04.12-21.58.16:865][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/SkeletalMesh/RowTypelong/LongBoatRowSkeleton
+[2023.04.12-21.58.16:865][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/LongBoatRowSkeleton6CC2E42F42A2F183696DFFB7C932F481.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/SkeletalMesh/RowTypelong/LongBoatRowSkeleton.uasset'
+[2023.04.12-21.58.16:868][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/SkeletalMesh/RowTypelong/LongBoatRowPhysicsAsset
+[2023.04.12-21.58.16:869][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/LongBoatRowPhysicsAssetB31D9E9241E55E61A93C648BC97100F2.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/SkeletalMesh/RowTypelong/LongBoatRowPhysicsAsset.uasset'
+[2023.04.12-21.58.16:936][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/SkeletalMesh/RowTypelong/LongBoatRow
+[2023.04.12-21.58.16:937][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/LongBoatRow2F2C0447458DEB66FA435FACE79A65BC.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/SkeletalMesh/RowTypelong/LongBoatRow.uasset'
+[2023.04.12-21.58.16:955][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/SkeletalMesh/RowTypelong/Animations/LongBoatRowAnimMontage
+[2023.04.12-21.58.16:955][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/LongBoatRowAnimMontage28EC6AA74CCF70F8AEDB66B2BD9C339A.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/SkeletalMesh/RowTypelong/Animations/LongBoatRowAnimMontage.uasset'
+[2023.04.12-21.58.16:964][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/SkeletalMesh/RowTypelong/Animations/LongBoatRowAnimAction
+[2023.04.12-21.58.16:964][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/LongBoatRowAnimAction10A17B504620B4A83D6A96A1DBF00157.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/SkeletalMesh/RowTypelong/Animations/LongBoatRowAnimAction.uasset'
+[2023.04.12-21.58.17:279][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/StaticMesh/CCOHoverModelForDemo/HoverCar
+[2023.04.12-21.58.17:279][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/HoverCar1D0197864F86779A273772A0631BB062.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/StaticMesh/CCOHoverModelForDemo/HoverCar.uasset'
+[2023.04.12-21.58.17:577][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/StaticMesh/LifeBoat/Lifeboat
+[2023.04.12-21.58.17:577][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/Lifeboat62F9F84C452F1566729095AC3ACF211F.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/StaticMesh/LifeBoat/Lifeboat.uasset'
+[2023.04.12-21.58.17:890][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/StaticMesh/LongBoat/LongBoatMeshInt
+[2023.04.12-21.58.17:891][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/LongBoatMeshInt589A733C4EFCEF95C64B2D96FB7D4F00.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/StaticMesh/LongBoat/LongBoatMeshInt.uasset'
+[2023.04.12-21.58.18:010][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/StaticMesh/LongBoat/LongBoatMeshExt
+[2023.04.12-21.58.18:010][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/LongBoatMeshExtAA9D70D04AC47EAECCD9E09DBCCCE661.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/StaticMesh/LongBoat/LongBoatMeshExt.uasset'
+[2023.04.12-21.58.18:068][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/StaticMesh/OldWoodenBoat/OldBoatExterior
+[2023.04.12-21.58.18:068][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/OldBoatExteriorB020A9D14EA21B036EF0D988825EDED6.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/StaticMesh/OldWoodenBoat/OldBoatExterior.uasset'
+[2023.04.12-21.58.18:129][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/StaticMesh/OldWoodenBoat/OldBoat
+[2023.04.12-21.58.18:129][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/OldBoatEC5F5DDE4BCEFA8C05DBB0A4D991A26F.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/StaticMesh/OldWoodenBoat/OldBoat.uasset'
+[2023.04.12-21.58.18:144][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/StaticMesh/PoweredBoat/PoweredBoatRudder
+[2023.04.12-21.58.18:144][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/PoweredBoatRudder6EAE29134F1F806AD0099C8A25CB0777.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/StaticMesh/PoweredBoat/PoweredBoatRudder.uasset'
+[2023.04.12-21.58.18:162][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/StaticMesh/PoweredBoat/PoweredBoatRotors
+[2023.04.12-21.58.18:162][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/PoweredBoatRotors639EBBB04536F651D69D32BA56DE1CEE.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/StaticMesh/PoweredBoat/PoweredBoatRotors.uasset'
+[2023.04.12-21.58.18:179][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/StaticMesh/PoweredBoat/PoweredBoatOut
+[2023.04.12-21.58.18:179][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/PoweredBoatOut1041827D47141D11113BCE8AD6E20869.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/StaticMesh/PoweredBoat/PoweredBoatOut.uasset'
+[2023.04.12-21.58.18:234][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/StaticMesh/PoweredBoat/PoweredBoatMesh
+[2023.04.12-21.58.18:234][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/PoweredBoatMesh94063E68473CF6812A941B9A14023166.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/StaticMesh/PoweredBoat/PoweredBoatMesh.uasset'
+[2023.04.12-21.58.18:254][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/StaticMesh/PoweredBoat/PoweredBoatMachine
+[2023.04.12-21.58.18:254][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/PoweredBoatMachine612E168644B8336CE548579AC67383DB.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/StaticMesh/PoweredBoat/PoweredBoatMachine.uasset'
+[2023.04.12-21.58.18:276][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/StaticMesh/PoweredBoat/PoweredBoatIn
+[2023.04.12-21.58.18:276][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/PoweredBoatIn3AC63CBC4EF0815AA6AC458D73D7554E.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/StaticMesh/PoweredBoat/PoweredBoatIn.uasset'
+[2023.04.12-21.58.18:295][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/StaticMesh/PoweredBoat/PoweredBoatChain
+[2023.04.12-21.58.18:296][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/PoweredBoatChain13EF8EB847F6E26D64367F8990023839.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/StaticMesh/PoweredBoat/PoweredBoatChain.uasset'
+[2023.04.12-21.58.19:891][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/StaticMesh/Ship/Ship
+[2023.04.12-21.58.19:892][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/Ship44BBA3674503CBF4CEC677BF159BAFF0.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/StaticMesh/Ship/Ship.uasset'
+[2023.04.12-21.58.19:923][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/StaticMesh/Ship/RotorShip2
+[2023.04.12-21.58.19:923][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/RotorShip27A1F7A3C4473EDC671F575AF027E4676.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/StaticMesh/Ship/RotorShip2.uasset'
+[2023.04.12-21.58.19:950][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/StaticMesh/Ship/RotorShip1
+[2023.04.12-21.58.19:950][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/RotorShip1EEDBEC084D9F75175B641498343FA478.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/StaticMesh/Ship/RotorShip1.uasset'
+[2023.04.12-21.58.19:975][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/StaticMesh/Ship/FlapShip
+[2023.04.12-21.58.19:975][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/FlapShipD9DEC89F4BFBB00B9F8EACBCF2FD06D4.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/StaticMesh/Ship/FlapShip.uasset'
+[2023.04.12-21.58.20:042][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/StaticMesh/Submarine/SubmarineTop
+[2023.04.12-21.58.20:042][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/SubmarineTopB3E4C0784BF3E3492DFECAA164D7649A.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/StaticMesh/Submarine/SubmarineTop.uasset'
+[2023.04.12-21.58.20:083][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/StaticMesh/Submarine/SubmarineRotor
+[2023.04.12-21.58.20:084][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/SubmarineRotor9C84AA7F469962F27A42ADB87E098642.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/StaticMesh/Submarine/SubmarineRotor.uasset'
+[2023.04.12-21.58.20:147][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/StaticMesh/Submarine/SubmarineFins
+[2023.04.12-21.58.20:147][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/SubmarineFins0887DD7D4952655084BFB1A202A1E16B.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/StaticMesh/Submarine/SubmarineFins.uasset'
+[2023.04.12-21.58.20:178][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/StaticMesh/Submarine/SubmarineBody
+[2023.04.12-21.58.20:178][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/SubmarineBody850A3499480D457FBE28C781EC510340.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/StaticMesh/Submarine/SubmarineBody.uasset'
+[2023.04.12-21.58.20:230][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/StaticMesh/WoodenBoat/WoodenBoatInterior
+[2023.04.12-21.58.20:230][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/WoodenBoatInterior2E0A2D36457F7C05F46617A2C1F77860.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/StaticMesh/WoodenBoat/WoodenBoatInterior.uasset'
+[2023.04.12-21.58.20:249][639]LogSavePackage: Moving output files for package: /Game/ImportedBlueprints/Models/StaticMesh/WoodenBoat/WoodenBoatExterior
+[2023.04.12-21.58.20:249][639]LogSavePackage: Moving '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Saved/WoodenBoatExterior9C5A1AA64B6053AF0E45B7BEF040E0AE.tmp' to '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ImportedBlueprints/Models/StaticMesh/WoodenBoat/WoodenBoatExterior.uasset'
+[2023.04.12-21.58.20:603][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.04.12-21.58.20:618][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.04.12-21.58.20:632][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.04.12-21.58.20:670][639]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.12-21.58.20:670][639]LogContentValidation: Display: Validating Skeleton /Game/ImportedBlueprints/Models/SkeletalMesh/RowType1/RowSkeleton.RowSkeleton
+[2023.04.12-21.58.20:670][639]LogContentValidation: Display: Validating AnimSequence /Game/ImportedBlueprints/Models/SkeletalMesh/RowType1/Animations/RowAnimAction.RowAnimAction
+[2023.04.12-21.58.20:670][639]LogContentValidation: Display: Validating Blueprint /Game/ImportedBlueprints/Blueprints/DefaultPawn.DefaultPawn
+[2023.04.12-21.58.20:670][639]LogContentValidation: Display: Validating WidgetBlueprint /Game/ImportedBlueprints/Blueprints/SpeedAndDirection.SpeedAndDirection
+[2023.04.12-21.58.20:672][639]LogContentValidation: Display: Validating StaticMesh /Game/ImportedBlueprints/Models/StaticMesh/WoodenBoat/WoodenBoatExterior.WoodenBoatExterior
+[2023.04.12-21.58.20:672][639]LogContentValidation: Display: Validating StaticMesh /Game/ImportedBlueprints/Models/StaticMesh/WoodenBoat/WoodenBoatInterior.WoodenBoatInterior
+[2023.04.12-21.58.20:672][639]LogContentValidation: Display: Validating Blueprint /Game/ImportedBlueprints/Blueprints/BoatMaster.BoatMaster
+[2023.04.12-21.58.20:672][639]LogContentValidation: Display: Validating PhysicsAsset /Game/ImportedBlueprints/Models/SkeletalMesh/RowType1/RowPhysicsAsset.RowPhysicsAsset
+[2023.04.12-21.58.20:672][639]LogContentValidation: Display: Validating SkeletalMesh /Game/ImportedBlueprints/Models/SkeletalMesh/RowType1/Row.Row
+[2023.04.12-21.58.20:672][639]LogContentValidation: Display: Validating Blueprint /Game/ImportedBlueprints/Blueprints/WoodenBoat.WoodenBoat
+[2023.04.12-21.58.20:672][639]LogContentValidation: Display: Validating StaticMesh /Game/ImportedBlueprints/Models/StaticMesh/Submarine/SubmarineBody.SubmarineBody
+[2023.04.12-21.58.20:672][639]LogContentValidation: Display: Validating StaticMesh /Game/ImportedBlueprints/Models/StaticMesh/Submarine/SubmarineFins.SubmarineFins
+[2023.04.12-21.58.20:672][639]LogContentValidation: Display: Validating StaticMesh /Game/ImportedBlueprints/Models/StaticMesh/Submarine/SubmarineRotor.SubmarineRotor
+[2023.04.12-21.58.20:672][639]LogContentValidation: Display: Validating StaticMesh /Game/ImportedBlueprints/Models/StaticMesh/Submarine/SubmarineTop.SubmarineTop
+[2023.04.12-21.58.20:672][639]LogContentValidation: Display: Validating Blueprint /Game/ImportedBlueprints/Blueprints/Submarine.Submarine
+[2023.04.12-21.58.20:672][639]LogContentValidation: Display: Validating PhysicsAsset /Game/ImportedBlueprints/Models/SkeletalMesh/Flag/FlagPhysicsAsset.FlagPhysicsAsset
+[2023.04.12-21.58.20:672][639]LogContentValidation: Display: Validating Skeleton /Game/ImportedBlueprints/Models/SkeletalMesh/Flag/FlagSkeleton.FlagSkeleton
+[2023.04.12-21.58.20:672][639]LogContentValidation: Display: Validating SkeletalMesh /Game/ImportedBlueprints/Models/SkeletalMesh/Flag/Flag.Flag
+[2023.04.12-21.58.20:672][639]LogContentValidation: Display: Validating StaticMesh /Game/ImportedBlueprints/Models/StaticMesh/Ship/FlapShip.FlapShip
+[2023.04.12-21.58.20:672][639]LogContentValidation: Display: Validating StaticMesh /Game/ImportedBlueprints/Models/StaticMesh/Ship/RotorShip1.RotorShip1
+[2023.04.12-21.58.20:672][639]LogContentValidation: Display: Validating StaticMesh /Game/ImportedBlueprints/Models/StaticMesh/Ship/RotorShip2.RotorShip2
+[2023.04.12-21.58.20:672][639]LogContentValidation: Display: Validating StaticMesh /Game/ImportedBlueprints/Models/StaticMesh/Ship/Ship.Ship
+[2023.04.12-21.58.20:672][639]LogContentValidation: Display: Validating Blueprint /Game/ImportedBlueprints/Blueprints/Ship.Ship
+[2023.04.12-21.58.20:672][639]LogContentValidation: Display: Validating StaticMesh /Game/ImportedBlueprints/Models/StaticMesh/PoweredBoat/PoweredBoatChain.PoweredBoatChain
+[2023.04.12-21.58.20:673][639]LogContentValidation: Display: Validating StaticMesh /Game/ImportedBlueprints/Models/StaticMesh/PoweredBoat/PoweredBoatIn.PoweredBoatIn
+[2023.04.12-21.58.20:673][639]LogContentValidation: Display: Validating StaticMesh /Game/ImportedBlueprints/Models/StaticMesh/PoweredBoat/PoweredBoatMachine.PoweredBoatMachine
+[2023.04.12-21.58.20:673][639]LogContentValidation: Display: Validating StaticMesh /Game/ImportedBlueprints/Models/StaticMesh/PoweredBoat/PoweredBoatMesh.PoweredBoatMesh
+[2023.04.12-21.58.20:673][639]LogContentValidation: Display: Validating StaticMesh /Game/ImportedBlueprints/Models/StaticMesh/PoweredBoat/PoweredBoatOut.PoweredBoatOut
+[2023.04.12-21.58.20:673][639]LogContentValidation: Display: Validating StaticMesh /Game/ImportedBlueprints/Models/StaticMesh/PoweredBoat/PoweredBoatRotors.PoweredBoatRotors
+[2023.04.12-21.58.20:673][639]LogContentValidation: Display: Validating StaticMesh /Game/ImportedBlueprints/Models/StaticMesh/PoweredBoat/PoweredBoatRudder.PoweredBoatRudder
+[2023.04.12-21.58.20:673][639]LogContentValidation: Display: Validating Blueprint /Game/ImportedBlueprints/Blueprints/PowerBoat.PowerBoat
+[2023.04.12-21.58.20:673][639]LogContentValidation: Display: Validating StaticMesh /Game/ImportedBlueprints/Models/StaticMesh/LifeBoat/Lifeboat.Lifeboat
+[2023.04.12-21.58.20:673][639]LogContentValidation: Display: Validating Blueprint /Game/ImportedBlueprints/Blueprints/PlasticBoat.PlasticBoat
+[2023.04.12-21.58.20:673][639]LogContentValidation: Display: Validating StaticMesh /Game/ImportedBlueprints/Models/StaticMesh/OldWoodenBoat/OldBoat.OldBoat
+[2023.04.12-21.58.20:673][639]LogContentValidation: Display: Validating StaticMesh /Game/ImportedBlueprints/Models/StaticMesh/OldWoodenBoat/OldBoatExterior.OldBoatExterior
+[2023.04.12-21.58.20:673][639]LogContentValidation: Display: Validating Blueprint /Game/ImportedBlueprints/Blueprints/OldWoodenBoat.OldWoodenBoat
+[2023.04.12-21.58.20:673][639]LogContentValidation: Display: Validating Skeleton /Game/ImportedBlueprints/Models/SkeletalMesh/RowTypelong/LongBoatRowSkeleton.LongBoatRowSkeleton
+[2023.04.12-21.58.20:673][639]LogContentValidation: Display: Validating AnimSequence /Game/ImportedBlueprints/Models/SkeletalMesh/RowTypelong/Animations/LongBoatRowAnimAction.LongBoatRowAnimAction
+[2023.04.12-21.58.20:673][639]LogContentValidation: Display: Validating AnimMontage /Game/ImportedBlueprints/Models/SkeletalMesh/RowTypelong/Animations/LongBoatRowAnimMontage.LongBoatRowAnimMontage
+[2023.04.12-21.58.20:673][639]LogContentValidation: Display: Validating PhysicsAsset /Game/ImportedBlueprints/Models/SkeletalMesh/RowTypelong/LongBoatRowPhysicsAsset.LongBoatRowPhysicsAsset
+[2023.04.12-21.58.20:673][639]LogContentValidation: Display: Validating SkeletalMesh /Game/ImportedBlueprints/Models/SkeletalMesh/RowTypelong/LongBoatRow.LongBoatRow
+[2023.04.12-21.58.20:673][639]LogContentValidation: Display: Validating StaticMesh /Game/ImportedBlueprints/Models/StaticMesh/LongBoat/LongBoatMeshExt.LongBoatMeshExt
+[2023.04.12-21.58.20:673][639]LogContentValidation: Display: Validating StaticMesh /Game/ImportedBlueprints/Models/StaticMesh/LongBoat/LongBoatMeshInt.LongBoatMeshInt
+[2023.04.12-21.58.20:673][639]LogContentValidation: Display: Validating Blueprint /Game/ImportedBlueprints/Blueprints/LongRowBoat.LongRowBoat
+[2023.04.12-21.58.20:673][639]LogContentValidation: Display: Validating StaticMesh /Game/ImportedBlueprints/Models/StaticMesh/CCOHoverModelForDemo/HoverCar.HoverCar
+[2023.04.12-21.58.20:674][639]LogContentValidation: Display: Validating Blueprint /Game/ImportedBlueprints/Blueprints/HoverRide.HoverRide
+[2023.04.12-21.58.29:308][ 55]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.12-21.58.29:308][ 55]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.12-21.58.30:187][106]LogContentBrowser: Deferred new asset file creation: BoatMaster_Child
+[2023.04.12-21.58.30:226][106]LogContentBrowser: Creating deferred item: BoatMaster_Child
+[2023.04.12-21.58.30:238][107]LogContentBrowser: Renaming the item being created (Deferred Item: BoatMaster_Child).
+[2023.04.12-21.58.33:287][264]LogMeshUtilities: Finished distance field build in 17.0s - 259x259x259 sparse distance field, 7.1Mb total, 0.3Mb always loaded, 21% occupied, 154 triangles, WoodenBoatExterior
+[2023.04.12-21.58.36:620][405]LogContentBrowser: Attempting asset rename: BoatMaster_Child -> NewTest
+[2023.04.12-21.58.36:624][405]LogContentBrowser: End creating deferred item BoatMaster_Child
+[2023.04.12-21.58.37:150][430]LogMeshUtilities: Finished distance field build in 2.9s - 126x126x126 sparse distance field, 1.2Mb total, 0.1Mb always loaded, 32% occupied, 3226 triangles, SubmarineFins
+[2023.04.12-21.58.38:601][503]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ImportedBlueprints/Blueprints/NewTest.NewTest
+[2023.04.12-21.58.38:601][503]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
