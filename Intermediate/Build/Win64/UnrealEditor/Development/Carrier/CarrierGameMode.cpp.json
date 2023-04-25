@@ -1,25 +1,25 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "c:\\users\\hyrum\\onedrive\\documents\\unreal projects\\carrier\\carrier\\carrier\\source\\carrier\\carriergamemode.cpp",
+        "Source": "c:\\users\\hyrum\\onedrive\\documents\\unreal projects\\carrier\\carrier\\source\\carrier\\carriergamemode.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\hyrum\\onedrive\\documents\\unreal projects\\carrier\\carrier\\carrier\\intermediate\\build\\win64\\carriereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\users\\hyrum\\onedrive\\documents\\unreal projects\\carrier\\carrier\\intermediate\\build\\win64\\carriereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "c:\\users\\hyrum\\onedrive\\documents\\unreal projects\\carrier\\carrier\\carrier\\intermediate\\build\\win64\\unrealeditor\\development\\carrier\\definitions.carrier.h",
-            "c:\\users\\hyrum\\onedrive\\documents\\unreal projects\\carrier\\carrier\\carrier\\source\\carrier\\carriergamemode.h",
+            "c:\\users\\hyrum\\onedrive\\documents\\unreal projects\\carrier\\carrier\\intermediate\\build\\win64\\unrealeditor\\development\\carrier\\definitions.carrier.h",
+            "c:\\users\\hyrum\\onedrive\\documents\\unreal projects\\carrier\\carrier\\source\\carrier\\carriergamemode.h",
             "d:\\program files\\epic games\\ue_5.0\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
             "d:\\program files\\epic games\\ue_5.0\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
             "d:\\program files\\epic games\\ue_5.0\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
             "d:\\program files\\epic games\\ue_5.0\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
-            "c:\\users\\hyrum\\onedrive\\documents\\unreal projects\\carrier\\carrier\\carrier\\intermediate\\build\\win64\\unrealeditor\\inc\\carrier\\carriergamemode.generated.h",
-            "c:\\users\\hyrum\\onedrive\\documents\\unreal projects\\carrier\\carrier\\carrier\\source\\carrier\\carriercharacter.h",
+            "c:\\users\\hyrum\\onedrive\\documents\\unreal projects\\carrier\\carrier\\intermediate\\build\\win64\\unrealeditor\\inc\\carrier\\carriergamemode.generated.h",
+            "c:\\users\\hyrum\\onedrive\\documents\\unreal projects\\carrier\\carrier\\source\\carrier\\carriercharacter.h",
             "d:\\program files\\epic games\\ue_5.0\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
             "d:\\program files\\epic games\\ue_5.0\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
             "d:\\program files\\epic games\\ue_5.0\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
             "d:\\program files\\epic games\\ue_5.0\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
             "d:\\program files\\epic games\\ue_5.0\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
             "d:\\program files\\epic games\\ue_5.0\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
-            "c:\\users\\hyrum\\onedrive\\documents\\unreal projects\\carrier\\carrier\\carrier\\intermediate\\build\\win64\\unrealeditor\\inc\\carrier\\carriercharacter.generated.h"
+            "c:\\users\\hyrum\\onedrive\\documents\\unreal projects\\carrier\\carrier\\intermediate\\build\\win64\\unrealeditor\\inc\\carrier\\carriercharacter.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
