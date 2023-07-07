@@ -1,0 +1,1465 @@
+﻿Log file open, 06/22/23 23:37:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=21368)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Carrier
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "D:\Kylans Unreal Projects\Carrier Project\Carrier\Carrier.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.2965] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="adf4c47640fde85b79d2bdbe59578285"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 3.603749
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-92C4BD9142E4477ED589289A7B561E25
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.08 seconds
+LogConfig: Display: Loading Linux ini files took 0.11 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.11 seconds
+LogConfig: Display: Loading IOS ini files took 0.11 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading Mac ini files took 0.10 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.06 seconds
+LogConfig: Display: Loading Windows ini files took 0.08 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.15 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin Landmass
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Water
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemSteam
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin SteamShared
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Project plugin MultiplayerSessions
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Landmass/Content/' mounted to '/Landmass/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Water/Content/' mounted to '/Water/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Plugins/MultiplayerSessions/Content/' mounted to '/MultiplayerSessions/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogSteamShared: Display: Loading Steam SDK 1.51
+LogSteamShared: Steam SDK Loaded!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (22H2) [10.0.19045.2965] (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1060
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.06.23-06.37.56:321][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.06.23-06.37.56:321][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.06.23-06.37.56:321][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.06.23-06.37.56:321][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.06.23-06.37.56:349][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.06.23-06.37.56:349][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.06.23-06.37.56:349][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.06.23-06.37.56:349][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.06.23-06.37.56:349][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.06.23-06.37.56:349][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.06.23-06.37.56:349][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.06.23-06.37.56:349][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.06.23-06.37.56:349][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.06.23-06.37.56:349][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.06.23-06.37.56:349][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.06.23-06.37.56:349][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.06.23-06.37.56:349][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.06.23-06.37.56:349][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.06.23-06.37.56:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.06.23-06.37.56:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.06.23-06.37.56:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.06.23-06.37.56:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.06.23-06.37.56:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.06.23-06.37.56:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.06.23-06.37.56:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.06.23-06.37.56:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.06.23-06.37.56:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.06.23-06.37.56:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.06.23-06.37.56:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.06.23-06.37.56:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.06.23-06.37.56:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.06.23-06.37.56:349][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.06.23-06.37.56:350][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.06.23-06.37.56:350][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.06.23-06.37.56:350][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.06.23-06.37.56:350][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.06.23-06.37.56:350][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.06.23-06.37.56:350][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.06.23-06.37.56:350][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.06.23-06.37.56:350][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.06.23-06.37.56:350][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.06.23-06.37.56:350][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.06.23-06.37.56:350][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.06.23-06.37.56:350][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.06.23-06.37.56:350][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.06.23-06.37.56:350][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.06.23-06.37.56:350][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.06.23-06.37.56:350][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.06.23-06.37.56:350][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.06.23-06.37.56:350][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.06.23-06.37.56:350][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.06.23-06.37.56:350][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.06.23-06.37.56:350][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.06.23-06.37.56:350][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.06.23-06.37.56:350][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.06.23-06.37.56:350][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.06.23-06.37.56:350][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.06.23-06.37.56:485][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.06.23-06.37.56:485][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.06.23-06.37.56:485][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.06.23-06.37.56:485][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.06.23-06.37.56:485][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.06.23-06.37.56:485][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.06.23-06.37.56:485][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.06.23-06.37.56:485][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.06.23-06.37.56:506][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.06.23-06.37.56:506][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.06.23-06.37.56:506][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.06.23-06.37.56:780][  0]LogD3D12RHI: Aftermath initialized
+[2023.06.23-06.37.56:780][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.06.23-06.37.57:415][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1060 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.06.23-06.37.57:415][  0]LogD3D12RHI: Adapter has 2987MB of dedicated video memory, 0MB of dedicated system memory, and 8169MB of shared system memory, 1 output[s]
+[2023.06.23-06.37.57:431][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.06.23-06.37.57:431][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8169MB of shared system memory, 0 output[s]
+[2023.06.23-06.37.57:433][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.06.23-06.37.57:433][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.06.23-06.37.57:458][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.06.23-06.37.57:468][  0]LogHAL: Display: Platform has ~ 16 GB [17133694976 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.06.23-06.37.57:480][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.06.23-06.37.57:480][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.06.23-06.37.57:480][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2023.06.23-06.37.57:480][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2023.06.23-06.37.57:480][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2023.06.23-06.37.57:480][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2023.06.23-06.37.57:480][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2023.06.23-06.37.57:480][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2023.06.23-06.37.57:480][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2023.06.23-06.37.57:480][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2023.06.23-06.37.57:497][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2023.06.23-06.37.57:497][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2023.06.23-06.37.57:497][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2023.06.23-06.37.57:497][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.06.23-06.37.57:515][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.06.23-06.37.57:515][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Kylans Unreal Projects/Carrier Project/Carrier/Saved/Config/WindowsEditor/Editor.ini]
+[2023.06.23-06.37.57:702][  0]LogInit: Computer: DESKTOP-F97HL31
+[2023.06.23-06.37.57:702][  0]LogInit: User: kylan
+[2023.06.23-06.37.57:702][  0]LogInit: CPU Page size=4096, Cores=4
+[2023.06.23-06.37.57:702][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.06.23-06.37.57:703][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2023.06.23-06.37.57:703][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.06.23-06.37.57:703][  0]LogMemory: Process Physical Memory: 252.30 MB used, 261.87 MB peak
+[2023.06.23-06.37.57:703][  0]LogMemory: Process Virtual Memory: 206.01 MB used, 220.97 MB peak
+[2023.06.23-06.37.57:703][  0]LogMemory: Physical Memory: 6386.75 MB used,  9953.21 MB free, 16339.96 MB total
+[2023.06.23-06.37.57:703][  0]LogMemory: Virtual Memory: 8428.05 MB used,  13287.91 MB free, 21715.96 MB total
+[2023.06.23-06.37.57:703][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.06.23-06.37.57:727][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.06.23-06.38.00:105][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.06.23-06.38.00:136][  0]LogInit: Using OS detected language (en-US).
+[2023.06.23-06.38.00:136][  0]LogInit: Using OS detected locale (en-US).
+[2023.06.23-06.38.00:293][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.06.23-06.38.00:914][  0]LogInit: Setting process to per monitor DPI aware
+[2023.06.23-06.38.01:124][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.06.23-06.38.01:124][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.06.23-06.38.01:124][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2023.06.23-06.38.01:124][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.06.23-06.38.01:673][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.06.23-06.38.01:673][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.06.23-06.38.03:706][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.06.23-06.38.03:729][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.06.23-06.38.03:729][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.06.23-06.38.03:894][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.06.23-06.38.03:894][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.06.23-06.38.03:894][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.06.23-06.38.03:894][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.06.23-06.38.03:894][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.06.23-06.38.03:894][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.06.23-06.38.03:894][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.06.23-06.38.03:894][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.06.23-06.38.03:894][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.06.23-06.38.03:894][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.06.23-06.38.03:894][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.06.23-06.38.03:894][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.06.23-06.38.03:894][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.06.23-06.38.04:005][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.06.23-06.38.04:013][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.06.23-06.38.04:027][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.06.23-06.38.04:390][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.06.23-06.38.04:391][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.06.23-06.38.04:605][  0]LogD3D12RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2023.06.23-06.38.04:605][  0]LogWindows: Attached monitors:
+[2023.06.23-06.38.04:605][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1080), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.06.23-06.38.04:605][  0]LogWindows: Found 1 attached monitors.
+[2023.06.23-06.38.04:605][  0]LogWindows: EnumDisplayDevices:
+[2023.06.23-06.38.04:605][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.06.23-06.38.04:606][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.06.23-06.38.04:606][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.06.23-06.38.04:606][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.06.23-06.38.04:606][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.06.23-06.38.04:606][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2023.06.23-06.38.04:607][  0]LogD3D12RHI:   Driver Version: 466.11 (internal:27.21.14.6611, unified:466.11)
+[2023.06.23-06.38.04:607][  0]LogD3D12RHI:      Driver Date: 4-12-2021
+[2023.06.23-06.38.04:608][  0]LogRHI: Texture pool is 1599 MB (70% of 2285 MB)
+[2023.06.23-06.38.04:608][  0]LogD3D12RHI: Async texture creation enabled
+[2023.06.23-06.38.04:608][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.06.23-06.38.05:429][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.06.23-06.38.08:341][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the NVIDIA graphics driver has known issues in D3D12.
+Please install either the latest or the recommended driver version or switch to a different rendering API.
+
+https://www.nvidia.com/en-us/geforce/drivers/
+
+NVIDIA GeForce GTX 1060
+Installed: 466.11
+Recommended: 516.25
+[2023.06.23-06.38.08:750][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/Kylans Unreal Projects/Carrier Project/Carrier/Carrier.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Kylans Unreal Projects/Carrier Project/Carrier/Intermediate/TurnkeyReport_0.log" -log="D:/Kylans Unreal Projects/Carrier Project/Carrier/Intermediate/TurnkeyLog_0.log" -project="D:/Kylans Unreal Projects/Carrier Project/Carrier/Carrier.uproject"  -platform=all'
+[2023.06.23-06.38.08:751][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Kylans Unreal Projects/Carrier Project/Carrier/Carrier.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Kylans Unreal Projects/Carrier Project/Carrier/Intermediate/TurnkeyReport_0.log" -log="D:/Kylans Unreal Projects/Carrier Project/Carrier/Intermediate/TurnkeyLog_0.log" -project="D:/Kylans Unreal Projects/Carrier Project/Carrier/Carrier.uproject"  -platform=all" ]
+[2023.06.23-06.38.08:961][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.06.23-06.38.09:225][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.06.23-06.38.09:225][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.06.23-06.38.09:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.06.23-06.38.09:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.06.23-06.38.09:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.06.23-06.38.09:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.06.23-06.38.09:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.06.23-06.38.09:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.06.23-06.38.09:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.06.23-06.38.09:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.06.23-06.38.09:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.06.23-06.38.09:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.06.23-06.38.09:920][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.06.23-06.38.09:920][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.06.23-06.38.09:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.06.23-06.38.09:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.06.23-06.38.10:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.06.23-06.38.10:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.06.23-06.38.10:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.06.23-06.38.10:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.06.23-06.38.10:064][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.06.23-06.38.10:064][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.06.23-06.38.10:064][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.06.23-06.38.10:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.06.23-06.38.10:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.06.23-06.38.10:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.06.23-06.38.10:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.06.23-06.38.10:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.06.23-06.38.10:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.06.23-06.38.10:148][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.06.23-06.38.10:765][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.06.23-06.38.10:795][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.06.23-06.38.10:795][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.06.23-06.38.10:795][  0]LogTargetPlatformManager:   ADPCM
+[2023.06.23-06.38.10:795][  0]LogTargetPlatformManager:   PCM
+[2023.06.23-06.38.10:827][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.06.23-06.38.10:827][  0]LogTargetPlatformManager:   BINKA
+[2023.06.23-06.38.10:827][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.06.23-06.38.10:827][  0]LogTargetPlatformManager:   OGG
+[2023.06.23-06.38.10:827][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.06.23-06.38.10:827][  0]LogTargetPlatformManager:   OPUS
+[2023.06.23-06.38.11:747][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.06.23-06.38.11:747][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.06.23-06.38.11:830][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.06.23-06.38.11:830][  0]LogTargetPlatformManager:   SF_METAL
+[2023.06.23-06.38.11:830][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.06.23-06.38.11:830][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.06.23-06.38.11:830][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.06.23-06.38.11:830][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.06.23-06.38.11:830][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.06.23-06.38.11:830][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.06.23-06.38.11:830][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.06.23-06.38.11:830][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.06.23-06.38.11:830][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.06.23-06.38.11:830][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.06.23-06.38.11:830][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.06.23-06.38.11:830][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.06.23-06.38.11:830][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.06.23-06.38.11:830][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.06.23-06.38.11:868][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.06.23-06.38.11:868][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.06.23-06.38.11:868][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.06.23-06.38.11:868][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.06.23-06.38.11:869][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.06.23-06.38.11:869][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.06.23-06.38.11:869][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.06.23-06.38.11:884][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.06.23-06.38.11:972][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.06.23-06.38.12:010][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.06.23-06.38.12:030][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.06.23-06.38.12:102][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.06.23-06.38.12:155][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Kylans Unreal Projects/Carrier Project/Carrier/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.06.23-06.38.12:155][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.06.23-06.38.12:156][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Kylans Unreal Projects/Carrier Project/Carrier/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.23-06.38.12:156][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.06.23-06.38.12:319][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.06.23-06.38.12:370][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.23-06.38.12:370][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.06.23-06.38.12:398][  0]LogDerivedDataCache: Speed tests for C:/Users/kylan/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2023.06.23-06.38.12:399][  0]LogDerivedDataCache: Display: Performance to C:/Users/kylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.67ms. RandomReadSpeed=125.29MBs, RandomWriteSpeed=99.43MBs. Assigned SpeedClass 'Local'
+[2023.06.23-06.38.12:404][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.06.23-06.38.12:405][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.06.23-06.38.12:405][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.06.23-06.38.12:419][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.06.23-06.38.12:419][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.06.23-06.38.12:605][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Intermediate/Shaders/WorkingDirectory/18652/).
+[2023.06.23-06.38.12:605][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kylan/AppData/Local/Temp/UnrealShaderWorkingDir/B2AA1A544FD235B4CC4C61BC310E160B/'.
+[2023.06.23-06.38.12:648][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.06.23-06.38.12:648][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2023.06.23-06.38.33:391][  0]LogSlate: Using FreeType 2.10.0
+[2023.06.23-06.38.33:466][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.06.23-06.38.34:946][  0]LogAssetRegistry: FAssetRegistry took 0.0605 seconds to start up
+[2023.06.23-06.38.35:171][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.06.23-06.38.41:769][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.06.23-06.38.42:167][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.06.23-06.38.42:766][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.06.23-06.38.42:766][  0]LogDeviceProfileManager: Active device profile: [00000B06527840C0][00000B064A820000 50] WindowsEditor
+[2023.06.23-06.38.42:766][  0]LogDeviceProfileManager: Profiles: [00000B0652783B80][00000B063C6E0000 50] Windows, [00000B06527840C0][00000B064A820000 50] WindowsEditor, [00000B0652782840][00000B0653010000 50] WindowsServer, [00000B06527801C0][00000B0653015000 50] WindowsClient, [00000B0652783640][00000B0653017800 50] IOS, [00000B06527808C0][00000B065301A000 50] iPadAir2, [00000B0652785080][00000B064A822800 50] IPadPro, [00000B0652785400][00000B065301C800 50] iPadAir3, [00000B0652782A00][00000B0652770000 50] iPadAir4, [00000B06527855C0][00000B0652775000 50] iPadMini4, [00000B0652782680][00000B0652777800 50] iPadMini5, [00000B0652784EC0][00000B065277A000 50] iPadMini6, [00000B0652788180][00000B0653090000 50] iPhone6S, [00000B0652788500][00000B0653092800 50] iPhone7, [00000B0652788880][00000B0653095000 50] iPodTouch7, [00000B0652785240][00000B065309A000 50] iPhone6SPlus, [00000B0652787E00][00000B065309C800 50] iPhone7Plus, [00000B0652780FC0][00000B0653012800 50] iPhoneSE, [00000B0652784280][00000B065277C800 50] iPhone8, [00000B06527878C0][00000B0653097800 50] iPhone8Plus, [00000B06527847C0][00000B06527F0000 50] iPhoneX, [00000B0652780000][00000B06527F5000 50] iPhoneXS, [00000B06527863C0][00000B06527F7800 50] iPhoneXSMax, [00000B0652782F40][00000B06527FA000 50] iPhoneXR, [00000B0652785B00][00000B06527FC800 50] iPhone11, [00000B0652785CC0][00000B0652772800 50] iPhone11Pro, [00000B06527816C0][00000B06527A0000 50] iPhone11ProMax, [00000B06527886C0][00000B06527A5000 50] iPhoneSE2, [00000B0652782D80][00000B06527A7800 50] iPhone12Mini, [00000B0652787000][00000B06527AA000 50] iPhone12, [00000B06527839C0][00000B06527AC800 50] iPhone12Pro, [00000B0652781F80][00000B06527F2800 50] iPhone12ProMax, [00000B0652780E00][00000B0653050000 50] iPhone13Mini, [00000B0652787700][00000B0653055000 50] iPhone13, [00000B0652781880][00000B0653057800 50] iPhone13Pro, [00000B0652787540][00000B065305A000 50] iPhone13ProMax, [00000B0652787380][00000B065305C800 50] iPadPro105, [00000B0652780C40][00000B06527A2800 50] iPadPro129, [00000B06527824C0][00000B0653060000 50] iPadPro97, [00000B0652785940][00000B0653065000 50] iPadPro2_129, [00000B0652780700][00000B0653067800 50] iPad5, [00000B0652784440][00000B065306A000 50] iPad6, [00000B0652788340][00000B065306C800 50] iPad7, [00000B06527832C0][00000B0653052800 50] iPad8, [00000B0652786C80][00000B0653070000 50] iPad9, [00000B0652781DC0][00000B0653075000 50] iPadPro11, [00000B0652786200][00000B0653077800 50] iPadPro2_11, [00000B0652781500][00000B065307A000 50] iPadPro3_11, [00000B0652788A40][00000B065307C800 50] iPadPro3_129, [00000B0652786900][00000B0653062800 50] iPadPro4_129, [00000B0652786580][00000B0653080000 50] iPadPro5_129, [00000B0652784980][00000B0653085000 50] AppleTV, [00000B0652782BC0][00000B0653087800 50] AppleTV4K, [00000B0652781C00][00000B065308A000 50] TVOS, [00000B065278AB80][00000B0653072800 50] Mac, [00000B065278AF00][00000B065308C800 50] MacEditor, [00000B0652789D80][00000B06530A0000 50] MacClient, [00000B065278A9C0][00000B06530A5000 50] MacServer, [00000B065278A640][00000B06530AA000 50] Linux, [00000B0652781340][00000B06530A7800 50] LinuxEditor, [00000B065278A2C0][00000B06530AC800 50] LinuxArm64Editor, [00000B065278B440][00000B0653082800 50] LinuxArm64, [00000B0652784D00][00000B06530B0000 50] LinuxClient, [00000B065278B280][00000B06530B5000 50] LinuxArm64Client, [00000B0652782140][00000B06530B7800 50] LinuxServer, [00000B0652786040][00000B06530BA000 50] LinuxArm64Server, [00000B065278B0C0][00000B06530BC800 50] Android, [00000B0652785780][00000B06530A2800 50] Android_Preview_OpenGL, [00000B0652788DC0][00000B06530C0000 50] Android_Preview_Vulkan, [00000B0652781A40][00000B06530C5000 50] Android_Low, [00000B0652787A80][00000B06530C7800 50] Android_Mid, [00000B0652787FC0][00000B06530CA000 50] Android_High, [00000B0652789140][00000B06530CC800 50] Android_Default, [00000B0652784B40][00000B06530B2800 50] Android_Adreno4xx, [00000B0652783480][00000B06530D0000 50] Android_Adreno5xx_Low, [00000B0652789A00][00000B06530D5000 50] Android_Adreno5xx, [00000B0652784600][00000B06530D7800 50] Android_Adreno6xx, [00000B0652786AC0][00000B06530DA000 50] Android_Adreno6xx_Vulkan, [00000B065278B980][00000B06530DC800 50] Android_Adreno7xx, [00000B0652783800][00000B06530C2800 50] Android_Adreno7xx_Vulkan, [00000B0652783F00][00000B06530E0000 50] Android_Mali_T6xx, [00000B065278B7C0][00000B06530E5000 50] Android_Mali_T7xx, [00000B0652780540][00000B06530E7800 50] Android_Mali_T8xx, [00000B0652780A80][00000B06530EA000 50] Android_Mali_G71, [00000B065278A480][00000B06530EC800 50] Android_Mali_G72, [00000B0652788C00][00000B06530D2800 50] Android_Mali_G72_Vulkan, [00000B0652789680][00000B06530F0000 50] Android_Mali_G76, [00000B065278A100][00000B06530F5000 50] Android_Mali_G76_Vulkan, [00000B06527894C0][00000B06530F7800 50] Android_Mali_G77, [00000B0652783100][00000B06530FA000 50] Android_Mali_G77_Vulkan, [00000B0652789BC0][00000B06530FC800 50] Android_Mali_G78, [00000B0652782300][00000B06530E2800 50] Android_Mali_G78_Vulkan, [00000B0652789F40][00000B0653100000 50] Android_Mali_G710, [00000B065278C080][00000B0653105000 50] Android_Mali_G710_Vulkan, [00000B06527871C0][00000B0653107800 50] Android_Xclipse_920, [00000B065278BD00][00000B065310A000 50] Android_Xclipse_920_Vulkan, [00000B065278AD40][00000B065310C800 50] Android_Vulkan_SM5, [00000B0652780380][00000B06530F2800 50] Android_PowerVR_G6xxx, [00000B065278C240][00000B0653110000 50] Android_PowerVR_GT7xxx, [00000B065278CB00][00000B0653115000 50] Android_PowerVR_GE8xxx, [00000B065278C940][00000B0653117800 50] Android_PowerVR_GM9xxx, [00000B0652789300][00000B065311A000 50] Android_PowerVR_GM9xxx_Vulkan, [00000B065278C780][00000B065311C800 50] Android_TegraK1, [00000B065278CCC0][00000B0653102800 50] Android_Unknown_Vulkan, [00000B065278D900][00000B0653120000 50] Oculus_Quest, [00000B0652789840][00000B0653125000 50] Oculus_Quest2, [00000B0652785E80][00000B0653127800 50] HoloLens, 
+[2023.06.23-06.38.42:766][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.06.23-06.38.43:849][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.06.23-06.38.44:133][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.06.23-06.38.44:133][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.06.23-06.38.44:133][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.06.23-06.38.44:133][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.06.23-06.38.44:133][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.18362.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.06.23-06.38.46:182][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.06.23-06.38.46:182][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.06.23-06.38.46:182][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.06.23-06.38.46:182][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.06.23-06.38.46:205][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.06.23-06.38.47:414][  0]LogNetVersion: Carrier 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 470168979)
+[2023.06.23-06.38.50:815][  0]LogSlate: Border
+[2023.06.23-06.38.50:815][  0]LogSlate: BreadcrumbButton
+[2023.06.23-06.38.50:815][  0]LogSlate: Default
+[2023.06.23-06.38.50:815][  0]LogSlate: Icons.Save
+[2023.06.23-06.38.50:815][  0]LogSlate: Icons.Toolbar.Settings
+[2023.06.23-06.38.50:815][  0]LogSlate: ListView
+[2023.06.23-06.38.50:815][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.06.23-06.38.50:815][  0]LogSlate: SoftwareCursor_Grab
+[2023.06.23-06.38.50:815][  0]LogSlate: TableView.DarkRow
+[2023.06.23-06.38.50:815][  0]LogSlate: TableView.Row
+[2023.06.23-06.38.50:815][  0]LogSlate: TreeView
+[2023.06.23-06.39.06:572][  0]SourceControl: Source control is disabled
+[2023.06.23-06.39.07:240][  0]SourceControl: Source control is disabled
+[2023.06.23-06.39.07:240][  0]SourceControl: Source control is disabled
+[2023.06.23-06.39.09:230][  0]LogUObjectArray: 20831 objects as part of root set at end of initial load.
+[2023.06.23-06.39.09:232][  0]LogUObjectAllocator: 5800800 out of 0 bytes used by permanent object pool.
+[2023.06.23-06.39.09:232][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.06.23-06.39.16:730][  0]LogPython: Using Python 3.9.7
+[2023.06.23-06.39.19:120][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: A23D0751474A9DBF22AF129A10546055 | Instance: 04F035224A043477409F4C947324A64D (DESKTOP-F97HL31-18652).
+[2023.06.23-06.39.20:665][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.06.23-06.39.20:704][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.06.23-06.39.29:467][  0]SourceControl: Source control is disabled
+[2023.06.23-06.39.29:512][  0]SourceControl: Source control is disabled
+[2023.06.23-06.39.29:666][  0]LogUProjectInfo: Found projects:
+[2023.06.23-06.39.34:100][  0]SourceControl: Source control is disabled
+[2023.06.23-06.39.34:576][  0]LogOpenImageDenoise: OIDN starting up
+[2023.06.23-06.39.35:981][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.06.23-06.39.36:272][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.23-06.39.36:272][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.23-06.39.38:057][  0]LogCollectionManager: Loaded 0 collections in 0.003103 seconds
+[2023.06.23-06.39.41:575][  0]LogFileCache: Scanning file cache for directory 'D:/Kylans Unreal Projects/Carrier Project/Carrier/Saved/Collections/' took 0.01s
+[2023.06.23-06.39.41:575][  0]LogFileCache: Scanning file cache for directory 'D:/Kylans Unreal Projects/Carrier Project/Carrier/Content/Developers/kylan/Collections/' took 0.01s
+[2023.06.23-06.39.41:575][  0]LogFileCache: Scanning file cache for directory 'D:/Kylans Unreal Projects/Carrier Project/Carrier/Content/Collections/' took 0.01s
+[2023.06.23-06.39.41:575][  0]LogEngine: Initializing Engine...
+[2023.06.23-06.39.41:871][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.06.23-06.39.41:917][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2023.06.23-06.39.44:552][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.06.23-06.39.44:614][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.23-06.39.45:181][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.23-06.39.46:582][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.06.23-06.39.47:055][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.06.23-06.39.47:272][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.06.23-06.39.47:302][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.06.23-06.39.47:302][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.06.23-06.39.47:363][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.06.23-06.39.47:363][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.06.23-06.39.47:366][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.23-06.39.47:366][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.23-06.39.47:367][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.23-06.39.47:367][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.23-06.39.47:367][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.23-06.39.47:367][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.23-06.39.47:367][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.23-06.39.47:438][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.23-06.39.47:450][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.23-06.39.47:450][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.23-06.39.47:450][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.23-06.39.47:531][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.23-06.39.47:611][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Cloud II Wireless)
+[2023.06.23-06.39.47:644][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.23-06.39.47:703][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.23-06.39.47:704][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.23-06.39.47:768][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.06.23-06.39.47:769][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.23-06.39.47:771][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.23-06.39.47:771][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.06.23-06.39.47:771][  0]LogInit: FAudioDevice initialized.
+[2023.06.23-06.39.47:771][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.06.23-06.39.47:771][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.06.23-06.39.47:771][  0]LogInit: Texture streaming: Enabled
+[2023.06.23-06.39.48:339][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.06.23-06.39.48:339][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.06.23-06.39.48:364][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.06.23-06.39.48:576][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.06.23-06.39.48:623][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.06.23-06.39.48:623][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: CarrierEditor Win64 Development
+[2023.06.23-06.41.21:494][  0]LogLiveCoding: Display: First instance in process group "UE_Carrier_0x4033faf4", spawning console
+[2023.06.23-06.41.21:494][  0]LogLiveCoding: Display: Waiting for server
+[2023.06.23-06.41.21:494][  0]LogDerivedDataCache: C:/Users/kylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.773 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.23-06.41.21:494][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.06.23-06.41.21:980][  0]LogInit: Transaction tracking system initialized
+[2023.06.23-06.41.22:913][  0]BlueprintLog: New page: Editor Load
+[2023.06.23-06.41.24:925][  0]LocalizationService: Localization service is disabled
+[2023.06.23-06.41.25:589][  0]TimingProfiler: Initialize
+[2023.06.23-06.41.25:590][  0]TimingProfiler: OnSessionChanged
+[2023.06.23-06.41.25:599][  0]LoadingProfiler: Initialize
+[2023.06.23-06.41.25:601][  0]LoadingProfiler: OnSessionChanged
+[2023.06.23-06.41.25:623][  0]NetworkingProfiler: Initialize
+[2023.06.23-06.41.25:638][  0]NetworkingProfiler: OnSessionChanged
+[2023.06.23-06.41.25:638][  0]MemoryProfiler: Initialize
+[2023.06.23-06.41.25:638][  0]MemoryProfiler: OnSessionChanged
+[2023.06.23-06.41.34:248][  0]LogFileCache: Scanning file cache for directory 'D:/Kylans Unreal Projects/Carrier Project/Carrier/Content/' took 0.11s
+[2023.06.23-06.41.34:248][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.06.23-06.41.35:100][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.06.23-06.41.35:612][  0]SourceControl: Source control is disabled
+[2023.06.23-06.41.35:640][  0]LogUnrealEdMisc: Loading editor; pre map load, took 321.295
+[2023.06.23-06.41.36:010][  0]Cmd: MAP LOAD FILE="../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/Maps/Lobby.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.23-06.41.36:026][  0]LightingResults: New page: Lighting Build
+[2023.06.23-06.41.36:189][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.06.23-06.41.36:625][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.23-06.41.36:653][  0]MapCheck: New page: Map Check
+[2023.06.23-06.41.36:653][  0]LightingResults: New page: Lighting Build
+[2023.06.23-06.41.37:516][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.23-06.41.38:049][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.06.23-06.41.39:273][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lobby'.
+[2023.06.23-06.41.39:274][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.23-06.41.39:290][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.23-06.41.39:290][  0]LogAIModule: Creating AISystem for world Lobby
+[2023.06.23-06.41.39:789][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.23-06.41.40:081][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.06.23-06.41.40:133][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.23-06.41.40:158][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 25.385ms to complete.
+[2023.06.23-06.41.40:178][  0]LogFileHelpers: Loading map 'Lobby' took 4.497
+[2023.06.23-06.41.41:807][  0]LogUnrealEdMisc: Total Editor Startup Time, took 327.455
+[2023.06.23-06.41.41:825][  0]LogShaderCompilers: Display: ================================================
+[2023.06.23-06.41.41:825][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.23-06.41.41:825][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.06.23-06.41.41:825][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.06.23-06.41.41:825][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.06.23-06.41.41:825][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.23-06.41.41:825][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.06.23-06.41.41:825][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.06.23-06.41.41:825][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.06.23-06.41.41:825][  0]LogShaderCompilers: Display: ================================================
+[2023.06.23-06.41.42:633][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.06.23-06.41.43:102][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.23-06.41.43:433][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.23-06.41.43:442][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.23-06.41.43:450][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.23-06.41.44:403][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.06.23-06.41.44:404][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.23-06.41.44:423][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.06.23-06.41.44:423][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.23-06.41.44:447][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.06.23-06.41.44:447][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.23-06.41.44:457][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.06.23-06.41.44:457][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.23-06.41.44:494][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.06.23-06.41.44:495][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.23-06.41.44:511][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.06.23-06.41.44:511][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.23-06.41.44:531][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.06.23-06.41.44:531][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.23-06.41.44:546][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.06.23-06.41.44:546][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.23-06.41.44:974][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.06.23-06.41.44:974][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.23-06.41.44:992][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.06.23-06.41.44:992][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.23-06.41.44:994][  0]LogFeaturePack: Error: Error in Feature pack D:/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.06.23-06.41.49:663][  0]LogStall: Startup...
+[2023.06.23-06.41.49:665][  0]LogStall: Startup complete.
+[2023.06.23-06.41.49:764][  0]LogLoad: (Engine Initialization) Total time: 335.42 seconds
+[2023.06.23-06.41.49:764][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.06.23-06.41.50:668][  0]LogAssetRegistry: Asset discovery search completed in 195.6781 seconds
+[2023.06.23-06.41.51:320][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2023.06.23-06.41.52:020][  0]LogContentStreaming: Texture pool size now 600 MB
+[2023.06.23-06.41.52:822][  0]LogSlate: Took 0.017144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.06.23-06.41.52:912][  0]LogSlate: Took 0.017840 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.06.23-06.41.52:929][  0]LogSlate: Took 0.015582 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.06.23-06.41.52:937][  0]LogSlate: Took 0.006515 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.06.23-06.41.52:950][  0]LogSlate: Took 0.008387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.06.23-06.41.53:173][  0]LogViewport: Scene viewport resized to 1009x538, mode Windowed.
+[2023.06.23-06.41.57:251][  4]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.06.23-06.41.58:509][ 26]LogViewport: Scene viewport resized to 749x872, mode Windowed.
+[2023.06.23-06.47.40:539][ 48]LogViewport: Scene viewport resized to 1518x877, mode Windowed.
+[2023.06.23-06.47.42:869][160]LogSlate: Took 0.023445 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.23-06.47.45:479][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.06.23-06.47.46:581][251]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2023.06.23-06.47.46:582][251]Cmd: MAP LOAD FILE="../../../../../Kylans Unreal Projects/Carrier Project/Carrier/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.23-06.47.46:582][251]LightingResults: New page: Lighting Build
+[2023.06.23-06.47.46:582][251]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2023.06.23-06.47.46:654][251]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2023.06.23-06.47.46:654][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.23-06.47.46:677][251]MapCheck: New page: Map Check
+[2023.06.23-06.47.46:677][251]LightingResults: New page: Lighting Build
+[2023.06.23-06.47.46:719][251]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.23-06.47.46:747][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.06.23-06.47.46:759][251]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.23-06.47.46:759][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.23-06.47.46:786][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.06.23-06.47.46:797][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.06.23-06.47.46:807][251]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.06.23-06.47.46:867][251]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.23-06.47.46:868][251]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.06.23-06.47.46:889][251]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.23-06.47.46:891][251]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.06.23-06.47.47:588][251]LogClass: Warning: Type mismatch in RenderOpacity of SpeedAndDirection_C - Previous (StructProperty) Current(FloatProperty) for package:  /Game/ImportedBlueprints/Blueprints/SpeedAndDirection
+[2023.06.23-06.47.47:724][251]LogBlueprint: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\ImportedBlueprints\Blueprints\BoatMaster.uasset: [Compiler] InputAction Event references unknown Action 'Boost' for  InputAction Boost
+[2023.06.23-06.48.01:936][251]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2023.06.23-06.48.01:936][251]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [12951ms] waiting for h/w. InstanceID=1
+[2023.06.23-06.48.01:936][251]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.035099s
+[2023.06.23-06.48.04:565][251]LogPhysics: Warning: InReader.ConvexImplicitObjects.Num() [0], AggGeom.ConvexElems.Num() [1]
+[2023.06.23-06.48.11:503][251]LogWorldPartition: Display: WorldPartition initialize took 24.6 sec
+[2023.06.23-06.48.12:517][251]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.23-06.48.12:537][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.06.23-06.48.12:553][251]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.23-06.48.12:554][251]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.921ms to complete.
+[2023.06.23-06.48.12:554][251]LogFileHelpers: Loading map 'ThirdPersonMap' took 25.971
+[2023.06.23-06.48.12:572][251]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.003656s (10.686557s overbudget)
+[2023.06.23-06.48.12:821][251]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8560
+[2023.06.23-06.48.12:821][251]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.48.12:821][251]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.48.12:948][252]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{6a6e5770-dd94-4bb9-965c-2c8913e96de6}, Name=Speakers (HyperX Cloud II Wireless)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=79.99
+[2023.06.23-06.48.12:948][252]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.23-06.48.12:973][253]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.23-06.48.20:891][654]LogViewport: Scene viewport resized to 479x277, mode Windowed.
+[2023.06.23-06.48.30:218][116]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.06.23-06.48.30:245][116]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.23-06.48.34:317][116]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2023.06.23-06.48.34:798][116]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.005861s (2.580381s overbudget)
+[2023.06.23-06.48.34:980][116]LogSlate: Took 0.025963 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.06.23-06.48.46:937][661]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.48.50:701][850]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Kylans_Blueprints/Submarine/SubmarineV1.SubmarineV1
+[2023.06.23-06.48.50:702][850]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.23-06.48.51:468][850]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.49.36:658][  2]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ImportedBlueprints/Blueprints/BoatMaster.BoatMaster
+[2023.06.23-06.49.36:658][  2]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.23-06.52.04:572][305]LogUObjectHash: Warning: Ambiguous path search, could be EdGraph /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter:Is time to shoot or EdGraph /Game/Kylans_Blueprints/Turrets/BP_ManTurret.BP_ManTurret:Is Time To Shoot
+[2023.06.23-06.52.21:189][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:194][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:194][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:198][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:202][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:206][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:206][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:211][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:214][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:214][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:218][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:228][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:232][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:233][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:236][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:240][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:243][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:244][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:248][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:252][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:252][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:255][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:264][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:268][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:268][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:272][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:276][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:279][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:279][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:284][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:287][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:287][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:290][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:299][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:303][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:303][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:307][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:311][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:315][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:315][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:320][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:323][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:324][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:326][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:336][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:340][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:340][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:343][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:347][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:353][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:354][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:359][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:362][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:362][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:365][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:374][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:378][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:378][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:382][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:385][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:389][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:389][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:394][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:398][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:398][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:401][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:423][305]LogSlate: Window 'Fix Self Context Function References' being destroyed
+[2023.06.23-06.52.21:458][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:462][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:462][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:466][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:471][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:474][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:475][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:479][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:483][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:483][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.21:487][305]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.44:225][365]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.44:229][365]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.44:229][365]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.44:233][365]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.44:238][365]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.44:241][365]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.44:241][365]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.44:246][365]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.44:250][365]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.44:250][365]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.52.44:253][365]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.53.47:756][384]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.53.47:760][384]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.53.47:761][384]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.53.47:765][384]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.53.47:769][384]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.53.47:772][384]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.53.47:773][384]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.53.47:778][384]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.53.47:782][384]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.53.47:783][384]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.53.47:786][384]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.11:523][239]LogUObjectHash: Warning: Ambiguous path search, could be EdGraph /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter:Is time to shoot or EdGraph /Game/Kylans_Blueprints/Turrets/BP_ManTurret.BP_ManTurret:Is Time To Shoot
+[2023.06.23-06.55.18:272][528]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.18:276][528]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.18:276][528]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.18:280][528]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.18:284][528]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.18:288][528]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.18:288][528]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.18:293][528]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.18:297][528]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.18:297][528]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.18:301][528]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.22:914][740]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.22:919][740]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.22:919][740]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.22:924][740]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.22:929][740]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.22:933][740]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.22:933][740]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.22:938][740]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.22:942][740]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.22:942][740]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.22:945][740]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.35:753][349]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.35:757][349]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.35:757][349]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.35:761][349]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.35:765][349]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.35:768][349]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.35:769][349]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.35:773][349]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.35:777][349]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.35:777][349]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.35:780][349]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.35:791][349]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.35:796][349]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.35:796][349]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.35:800][349]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.35:805][349]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.35:809][349]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.35:809][349]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.35:814][349]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.35:818][349]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.35:819][349]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.35:822][349]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:532][688]BlueprintLog: New page: Compile SubmarineV1
+[2023.06.23-06.55.42:747][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:752][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:752][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:756][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:760][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:760][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:764][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:764][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:887][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.06.23-06.55.42:890][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:894][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:894][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:898][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:902][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:906][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:906][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:911][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:915][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:915][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:918][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:922][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:932][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:936][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:936][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:940][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:944][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:948][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:948][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:951][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:955][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:957][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.42:957][688]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.43:076][690]LogViewport: Scene viewport resized to 479x277, mode Windowed.
+[2023.06.23-06.55.51:524][110]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.51:528][110]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.51:528][110]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.51:532][110]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.51:536][110]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.51:540][110]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.51:540][110]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.51:543][110]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.51:548][110]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.51:551][110]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.55.51:551][110]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.04:881][759]BlueprintLog: New page: Compile SubmarineV1
+[2023.06.23-06.56.04:939][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.04:943][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.04:943][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.04:946][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.04:950][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.04:951][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.04:953][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.04:957][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.05:035][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.06.23-06.56.05:038][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.05:042][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.05:042][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.05:046][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.05:050][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.05:053][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.05:053][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.05:055][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.05:060][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.05:063][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.05:064][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.05:068][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.05:086][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.05:091][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.05:091][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.05:094][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.05:098][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.05:102][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.05:102][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.05:105][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.05:109][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.05:112][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.05:113][759]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.56.05:293][761]LogViewport: Scene viewport resized to 479x277, mode Windowed.
+[2023.06.23-06.56.49:967][859]BlueprintLog: New page: Compile SubmarineV1
+[2023.06.23-06.56.49:982][859]LogBlueprint: Warning: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Kylans_Blueprints\Submarine\SubmarineV1.uasset: [Compiler] Could not find a variable named "Projectile Spawn Pos" in 'SubmarineV1_C'.
+Make sure 'SubmarineV1_C' has been compiled for  Get Projectile Spawn Pos
+[2023.06.23-06.56.49:985][859]LogBlueprint: Error: [AssetLog] D:\Kylans Unreal Projects\Carrier Project\Carrier\Content\Kylans_Blueprints\Submarine\SubmarineV1.uasset: [Compiler] The property associated with  Projectile Spawn Pos  could not be found in '/Game/Kylans_Blueprints/Submarine/SubmarineV1.SubmarineV1_C'
+[2023.06.23-06.56.50:207][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.06.23-06.56.59:504][376]LogViewport: Scene viewport resized to 1297x723, mode Windowed.
+[2023.06.23-06.57.06:676][744]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.06:680][744]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.06:680][744]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.06:685][744]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.06:689][744]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.06:692][744]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.06:692][744]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.06:696][744]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.06:700][744]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.06:704][744]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.06:757][744]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.06:760][744]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.06:764][744]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.06:764][744]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.22:844][493]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.22:849][493]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.22:849][493]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.22:853][493]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.22:858][493]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.22:862][493]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.22:862][493]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.22:865][493]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.22:870][493]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.22:874][493]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.22:874][493]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.22:924][493]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.22:927][493]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.22:930][493]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.22:931][493]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:185][769]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:189][769]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:189][769]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:219][770]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:223][770]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:223][770]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:250][771]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:254][771]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:254][771]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:282][772]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:287][772]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:287][772]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:316][773]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:320][773]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:320][773]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:348][774]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:352][774]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:352][774]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:380][775]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:384][775]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:384][775]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:413][776]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:417][776]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:417][776]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:450][777]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:454][777]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:454][777]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:483][778]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:487][778]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:488][778]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:516][779]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:520][779]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:520][779]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:547][780]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:551][780]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:552][780]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:582][781]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:587][781]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:587][781]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:618][782]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:621][782]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:621][782]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:649][783]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:654][783]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:654][783]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:682][784]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:686][784]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:686][784]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:715][785]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:719][785]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:719][785]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:749][786]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:754][786]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:754][786]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:784][787]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:789][787]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:789][787]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:816][788]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:821][788]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:821][788]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:849][789]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:854][789]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:854][789]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:882][790]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:886][790]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:886][790]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:914][791]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:918][791]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:918][791]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:946][792]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:950][792]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.29:950][792]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:342][811]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:348][811]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:349][811]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:376][812]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:380][812]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:380][812]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:408][813]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:413][813]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:413][813]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:441][814]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:445][814]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:445][814]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:475][815]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:479][815]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:480][815]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:509][816]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:513][816]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:513][816]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:545][817]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:549][817]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:549][817]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:579][818]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:583][818]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:584][818]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:612][819]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:617][819]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:617][819]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:645][820]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:650][820]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.30:650][820]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.34:824][  0]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.34:829][  0]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.34:829][  0]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.34:856][  1]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.34:861][  1]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.34:861][  1]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.34:890][  2]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.34:894][  2]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.34:894][  2]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.34:925][  3]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.34:929][  3]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.34:930][  3]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.34:958][  4]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.34:962][  4]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.34:962][  4]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.34:992][  5]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.34:996][  5]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.34:996][  5]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:024][  6]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:028][  6]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:029][  6]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:059][  7]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:064][  7]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:064][  7]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:094][  8]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:098][  8]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:098][  8]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:127][  9]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:131][  9]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:131][  9]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:159][ 10]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:163][ 10]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:166][ 10]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:195][ 11]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:200][ 11]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:200][ 11]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:227][ 12]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:231][ 12]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:231][ 12]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:259][ 13]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:263][ 13]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:263][ 13]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:292][ 14]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:296][ 14]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:296][ 14]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:327][ 15]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:331][ 15]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:331][ 15]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:360][ 16]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:364][ 16]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:364][ 16]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:394][ 17]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:399][ 17]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:399][ 17]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:426][ 18]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:431][ 18]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:431][ 18]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:461][ 19]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:468][ 19]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:468][ 19]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:495][ 20]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:500][ 20]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:500][ 20]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:527][ 21]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:531][ 21]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:531][ 21]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:560][ 22]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:565][ 22]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:565][ 22]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:594][ 23]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:599][ 23]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:599][ 23]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:626][ 24]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:630][ 24]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:631][ 24]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:659][ 25]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:663][ 25]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:663][ 25]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:692][ 26]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:698][ 26]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:698][ 26]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:731][ 27]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:737][ 27]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:737][ 27]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:765][ 28]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:772][ 28]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.35:772][ 28]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.36:992][ 84]LogViewport: Scene viewport resized to 1267x723, mode Windowed.
+[2023.06.23-06.57.37:057][ 86]LogViewport: Scene viewport resized to 1125x723, mode Windowed.
+[2023.06.23-06.57.37:122][ 88]LogViewport: Scene viewport resized to 997x723, mode Windowed.
+[2023.06.23-06.57.37:190][ 90]LogViewport: Scene viewport resized to 972x723, mode Windowed.
+[2023.06.23-06.57.37:315][ 96]LogViewport: Scene viewport resized to 970x723, mode Windowed.
+[2023.06.23-06.57.39:838][213]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.39:842][213]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.39:842][213]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.39:848][213]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.39:852][213]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.39:854][213]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.39:858][213]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.39:858][213]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.42:449][336]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.42:454][336]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.42:454][336]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.42:459][336]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.42:462][336]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.42:465][336]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.42:469][336]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.42:469][336]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.46:704][538]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.46:708][538]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.46:709][538]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.46:714][538]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.46:718][538]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.46:720][538]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.46:724][538]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.46:724][538]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.57.52:301][797]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:106][198]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:110][198]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:110][198]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:139][199]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:144][199]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:144][199]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:171][200]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:176][200]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:176][200]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:204][201]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:208][201]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:208][201]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:235][202]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:240][202]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:240][202]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:269][203]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:273][203]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:273][203]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:302][204]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:306][204]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:306][204]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:337][205]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:341][205]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:341][205]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:369][206]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:373][206]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:373][206]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:401][207]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:405][207]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:405][207]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:433][208]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:438][208]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:438][208]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:467][209]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:473][209]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:473][209]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:501][210]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:505][210]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:505][210]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:536][211]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:541][211]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:541][211]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:569][212]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:573][212]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.01:573][212]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:554][257]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:559][257]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:559][257]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:588][258]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:593][258]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:593][258]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:622][259]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:626][259]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:626][259]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:654][260]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:658][260]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:659][260]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:689][261]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:693][261]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:694][261]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:721][262]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:726][262]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:726][262]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:753][263]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:758][263]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:758][263]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:786][264]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:790][264]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:790][264]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:818][265]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:822][265]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:823][265]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:852][266]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:857][266]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:858][266]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:885][267]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:890][267]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.02:890][267]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.05:934][399]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.05:939][399]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.05:939][399]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.05:974][400]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.05:978][400]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.05:978][400]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:011][401]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:016][401]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:016][401]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:045][402]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:050][402]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:050][402]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:084][403]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:088][403]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:089][403]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:116][404]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:120][404]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:121][404]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:147][405]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:151][405]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:151][405]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:180][406]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:185][406]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:185][406]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:213][407]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:217][407]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:217][407]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:305][411]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:309][411]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:310][411]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:337][412]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:343][412]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:343][412]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:370][413]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:374][413]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:374][413]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:402][414]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:406][414]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:406][414]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:434][415]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:438][415]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.06:438][415]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.08:940][530]BlueprintLog: New page: Compile SubmarineV1
+[2023.06.23-06.58.09:089][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:094][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:094][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:098][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:102][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:102][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:105][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:108][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:261][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.06.23-06.58.09:262][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:267][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:267][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:271][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:275][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:278][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:279][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:281][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:286][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:289][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:290][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:294][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:303][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:308][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:308][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:312][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:315][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:319][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:319][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:322][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:327][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:330][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:331][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:399][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:402][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:406][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:406][530]LogStaticMesh: Warning: Invalid material [null] used on Nanite static mesh [ShipWhole] - forcing default material instead.
+[2023.06.23-06.58.09:523][532]LogViewport: Scene viewport resized to 479x277, mode Windowed.
+[2023.06.23-06.58.13:247][712]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.23-06.58.13:429][712]LogWorldPartition: Display: GenerateStreaming started...
+[2023.06.23-06.58.13:429][712]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.06.23-06.58.13:429][712]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.06.23-06.58.13:429][712]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.06.23-06.58.13:429][712]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.06.23-06.58.13:429][712]LogWorldPartition: Display: GetPartitionedActors took 67 us
+[2023.06.23-06.58.13:430][712]LogWorldPartition: Display: GenerateStreaming took 402 us
+[2023.06.23-06.58.13:522][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.23-06.58.13:530][712]PIE: New page: PIE session: ThirdPersonMap (Jun 22, 2023, 4:58:13 PM)
+[2023.06.23-06.58.13:573][712]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.06.23-06.58.13:754][712]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.181 s
+[2023.06.23-06.58.13:754][712]LogOutputDevice: Error: === Handled ensure: ===
+[2023.06.23-06.58.13:754][712]LogOutputDevice: Error: 
+[2023.06.23-06.58.13:754][712]LogOutputDevice: Error: Ensure condition failed: SessionInterface.IsUnique() [File:D:\build\++UE5\Sync\Engine\Plugins\Online\OnlineSubsystemNull\Source\Private\OnlineSubsystemNull.cpp] [Line: 268]
+[2023.06.23-06.58.13:754][712]LogOutputDevice: Error: 
+[2023.06.23-06.58.13:754][712]LogOutputDevice: Error: Stack: 
+[2023.06.23-06.58.13:754][712]LogOutputDevice: Error: [Callstack] 0x00007ff855895e62 UnrealEditor-OnlineSubsystemNull.dll!UnknownFunction []
+[2023.06.23-06.58.13:754][712]LogOutputDevice: Error: [Callstack] 0x00007ff8a889fcf4 UnrealEditor-OnlineSubsystem.dll!UnknownFunction []
+[2023.06.23-06.58.13:754][712]LogOutputDevice: Error: [Callstack] 0x00007ff8a88c477a UnrealEditor-OnlineSubsystem.dll!UnknownFunction []
+[2023.06.23-06.58.13:754][712]LogOutputDevice: Error: [Callstack] 0x00007ff8a88c48a4 UnrealEditor-OnlineSubsystem.dll!UnknownFunction []
+[2023.06.23-06.58.13:754][712]LogOutputDevice: Error: [Callstack] 0x00007ff87ae5d16c UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.06.23-06.58.13:754][712]LogOutputDevice: Error: [Callstack] 0x00007ff87ae60cb7 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.06.23-06.58.13:754][712]LogOutputDevice: Error: [Callstack] 0x00007ff87ae605a1 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.06.23-06.58.13:754][712]LogOutputDevice: Error: [Callstack] 0x00007ff87a7fdcf3 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.06.23-06.58.13:754][712]LogOutputDevice: Error: [Callstack] 0x00007ff87b18aac6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.06.23-06.58.13:754][712]LogOutputDevice: Error: [Callstack] 0x00007ff79f6c82f6 UnrealEditor.exe!UnknownFunction []
+[2023.06.23-06.58.13:754][712]LogOutputDevice: Error: [Callstack] 0x00007ff79f6e0d9c UnrealEditor.exe!UnknownFunction []
+[2023.06.23-06.58.13:754][712]LogOutputDevice: Error: [Callstack] 0x00007ff79f6e0e8a UnrealEditor.exe!UnknownFunction []
+[2023.06.23-06.58.13:754][712]LogOutputDevice: Error: [Callstack] 0x00007ff79f6e3c4d UnrealEditor.exe!UnknownFunction []
+[2023.06.23-06.58.13:754][712]LogOutputDevice: Error: [Callstack] 0x00007ff79f6f5564 UnrealEditor.exe!UnknownFunction []
+[2023.06.23-06.58.13:754][712]LogOutputDevice: Error: [Callstack] 0x00007ff79f6f8736 UnrealEditor.exe!UnknownFunction []
+[2023.06.23-06.58.13:754][712]LogOutputDevice: Error: [Callstack] 0x00007ff8cfe37614 KERNEL32.DLL!UnknownFunction []
+[2023.06.23-06.58.13:754][712]LogOutputDevice: Error: [Callstack] 0x00007ff8d02226a1 ntdll.dll!UnknownFunction []
+[2023.06.23-06.58.13:754][712]LogOutputDevice: Error: 
